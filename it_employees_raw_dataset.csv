@@ -1,0 +1,2264 @@
+Employee_ID,Subfield,Entry_Year,Exit_Year,Status,Exit_Reason,Min_Package_LPA,Avg_Package_LPA,Max_Package_LPA,Experience_Years,City,Education_Level,Work_Mode
+EMP01271,Networking,01/18,,1,,1.39,2.5,7.45,6.0,Bangalore,Bachelor's,Remote
+EMP00457,IT SUPPORT & HELPDESK,2017,,Yes,,11.69,16.21,36.01,7.0,Mumbai,Master's,Remote
+EMP00542,IT Support & Helpdesk,01/20,2020-01-01,N,higher studies,5.93,8.98,15.37,4.0,Gurgaon,Master's,Hybrid
+EMP00940,CLOUD COMPUTING,2020,,Active,,7.16,9.63,26.09,4.0,Mumbai,,Hybrid
+EMP00582,UI/UX DESIGN,2018,,ACTIVE,,5.09,0.58,20.25,6.0,mumbai,Master's,Onsite
+EMP01405,  DevOps  ,2015,,Yes,,3.12,4.3,12.06,10.0,Delhi,Master's,WFH
+EMP02134,qa & testing,2019-01-01,2019.0,Resigned,Health Reasons,5.05,8.04,18.85,5.0,Noida,Bachelor's,Onsite
+EMP01262,UI/UX DESIGN,2021,,Active,,12.29,16.83,35.9,3.0,Pune,MASTER'S,Remote
+EMP01779,Data Science,2016,,ACTIVE,,1.74,2.5,4.45,8.0,Delhi,Bachelor's,Work From Home
+EMP00298,  IT Support & Helpdesk  ,2020-01-01,,Working,,5.73,9.53,16.69,4.0,  Chennai  ,Diploma,Onsite
+EMP00279,Data Science,2015,2016,EXITED,Higher Studies,1.81,2.5,5.62,9.0,gurgaon,Bachelor's,Hybrid
+EMP02083,IT SUPPORT & HELPDESK,2016-01-01,,1,,1.79,2.5,7.06,8.0,Noida,Master's,WFH
+EMP01674,ai/ml engineering,2021,,active,,4.77,7.44,16.17,4.0,Pune,Bachelor's,Hybrid
+EMP00110,DevOps,2019,,1,,5.09,7.37,20.46,5.0,  Mumbai  ,Master's,Onsite
+EMP00444,Business_Analysis,01/23,,active,,4.71,7.08,20.28,1.0,gurgaon,Bachelor's,WFH
+EMP00375,Business Analysis,2020,2023-01-01,Exited,HIGHER SALARY ELSEWHERE,5.67,9.43,22.02,4.0,hyderabad,Master's,Hybrid
+EMP00467,CLOUD COMPUTING,2024,,1,,6.62,11.09,25.28,1.0,Noida,Master's,Hybrid
+EMP00796,business analysis,2022,,1,,5.63,8.07,16.45,2.0,Delhi,Master's,Onsite
+EMP00822,cybersecurity,2022,,1,,3.93,5.46,10.05,2.0,GURGAON,Bachelor's,onsite
+EMP01830,IT Support & Helpdesk,2018,,active,,4.25,6.66,19.29,6.0,Pune,MASTER'S,Hybrid
+EMP01499,AI/ML Engineering,2022,01/22,exited,Higher Studies,13.26,18.4,42.58,3.0,Bangalore,Master's,Onsite
+EMP02006,Data Science,01/20,2020,Left,Career Switch,8.81,13.49,32.75,4.0,DELHI,Bachelor's,Remote
+EMP01444,Business Analysis,2017,,Active,,7.03,11.77,23.37,7.0,Bangalore,MASTER'S,Remote
+EMP00111,Business Analysis,2021,,active,,6.15,0.72,17.89,4.0,Mumbai,Master's,Hybrid
+EMP01557,DevOps,2018,,Active,,5.74,9.92,24.67,6.0,BANGALORE,PhD,Hybrid
+EMP00305,Database Administration,2020,,Working,,9.25,13.23,36.28,5.0,  Mumbai  ,Bachelor's,Hybrid
+EMP01082,Database Administration,2015.0,,ACTIVE,,1.42,2.5,4.29,9.0,Pune,Diploma,Remote
+EMP01876,business analysis,2022-01-01,,Active,,5.97,8.42,22.53,2.0,mumbai,Master's,Remote
+EMP00548,Software Development,2023-01-01,,Yes,,7.55,11.05,22.61,1.0,Delhi,Master's,Remote
+EMP01472,qa & testing,2019,01/24,0,health reasons,5.67,8.32,20.93,5.0,Bangalore,Bachelor's,Onsite
+EMP01274,NETWORKING,01/16,,active,,1.41,2.5,5.69,8.0,Mumbai,Bachelor's,WFH
+EMP01497,Cybersecurity,2024,2024-01-01,No,Company Restructuring,8.04,13.47,32.07,0.0,PUNE,Diploma,Onsite
+EMP00361,IT Support & Helpdesk,2024,2024,0,Career Switch,8.76,13.21,35.39,0.0,Delhi,Master's,Onsite
+EMP01860,ai/ml engineering,01/18,2018.0,Resigned,career switch,7.6,12.76,25.96,7.0,DELHI,Master's,WFH
+EMP02198,UI/UX DESIGN,2023,2023,Resigned,health reasons,9.08,13.14,28.35,1.0,  Mumbai  ,Master's,Hybrid
+EMP01906,IT Support & Helpdesk,2017,,Active,,1.74,2.5,4.56,7.0,hyderabad,Diploma,Work From Home
+EMP02190,DevOps,2016,,1,,3.68,6.37,16.07,9.0,  Pune  ,Bachelor's,Hybrid
+EMP01646,  UI/UX Design  ,2020-01-01,2023,No,Higher Studies,4.57,6.2,16.68,4.0,delhi,Bachelor's,Hybrid
+EMP00312,Cybersecurity,2022,2024,Exited,Company Restructuring,2.96,5.31,14.44,3.0,Noida,Master's,Onsite
+EMP00798,Cloud Computing,2018,,active,,5.09,8.99,18.81,6.0,Bangalore,bachelor's,Onsite
+EMP01139,networking,2021-01-01,2021,exited,higher studies,4.9,7.26,12.37,3.0,PUNE,Bachelor's,Hybrid
+EMP00802,,2019,01/20,,Company Restructuring,4.06,,19.76,,,,
+EMP00481,QA & Testing,2019.0,01/21,exited,Health Reasons,9.24,13.49,27.03,5.0,Mumbai,Bachelor's,Onsite
+EMP01420,Cloud Computing,2022-01-01,2023.0,No,RETIREMENT,10.35,15.68,29.04,2.0,Noida,Master's,Onsite
+EMP01117,DEVOPS,2018,,1,,8.14,11.76,23.9,7.0,Hyderabad,Bachelor's,Remote
+EMP02017,Database Administration,2023,,ACTIVE,,7.82,12.94,38.08,2.0,Bangalore,Bachelor's,Remote
+EMP01988,UI/UX Design,2023-01-01,,ACTIVE,,10.23,14.34,37.81,2.0,BANGALORE,Master's,Onsite
+EMP00316,Data Science,2017,,Active,,4.33,6.14,11.62,8.0,NOIDA,Master's,Hybrid
+EMP01076,CLOUD COMPUTING,2023-01-01,,Working,,6.04,10.52,26.23,1.0,  Gurgaon  ,Master's,Onsite
+EMP00069,Data Science,2019-01-01,01/24,0,  Health Reasons  ,4.82,8.0,23.9,5.0,Gurgaon,Bachelor's,Hybrid
+EMP01098,  Database Administration  ,2019-01-01,,active,,4.49,8.11,15.84,6.0,CHENNAI,Master's,Onsite
+EMP00453,Cybersecurity,2024-01-01,,Y,,6.88,10.27,26.29,1.0,Mumbai,Bachelor's,Remote
+EMP01574,business analysis,2023-01-01,,Yes,,7.33,11.54,33.32,1.0,CHENNAI,Diploma,onsite
+EMP01072,AI/ML Engineering,2020.0,,1,,5.62,7.81,15.66,4.0,PUNE,Bachelor's,Hybrid
+EMP01238,Networking,2022,,Yes,,4.07,5.44,10.25,3.0,NOIDA,Diploma,Hybrid
+EMP01257,QA & Testing,2024,,active,,9.7,14.32,25.49,0.0,hyderabad,Master's,Remote
+EMP00598,Data Science,2017,2024,EXITED,Company Restructuring,7.07,9.95,23.31,8.0,Chennai,Master's,Onsite
+EMP00440,UI/UX DESIGN,2023,,active,,5.16,8.81,18.83,1.0,noida,Bachelor's,WFH
+EMP01724,  DevOps  ,2015,,active,,4.63,6.25,14.5,9.0,Gurgaon,MASTER'S,Onsite
+EMP00047,Business Analysis,2015,2017,Exited,Health Reasons,5.65,9.53,28.27,9.0,  Mumbai  ,Bachelor's,onsite
+EMP01533,Cybersecurity,2018.0,,active,,5.6,8.37,21.59,6.0,Gurgaon,Diploma,Hybrid
+EMP01387,Software Development,2017,,active,,8.47,11.7,24.8,7.0,NOIDA,Diploma,Onsite
+EMP00045,  Database Administration  ,2019-01-01,,active,,1.62,2.5,6.44,6.0,Chennai,Bachelor's,Onsite
+EMP01411,QA & Testing,2023,,1,,14.84,20.72,50.7,2.0,  Noida  ,Bachelor's,onsite
+EMP01356,QA & Testing,2024,,1,,8.92,14.71,35.93,0.0,Gurgaon,Diploma,Onsite
+EMP00117,data science,2016,,Y,,5.01,8.39,15.24,8.0,gurgaon,Diploma,Remote
+EMP00173,AI/ML Engineering,2015,,Y,,5.66,7.64,17.55,9.0,Pune,Master's,REMOTE
+EMP00020,cybersecurity,2020-01-01,,active,,2.52,3.39,6.73,5.0,Mumbai,,Hybrid
+EMP01241,data science,2021,2021,Left,CAREER SWITCH,10.67,14.36,36.98,3.0,Delhi,Master's,Hybrid
+EMP01299,DATABASE ADMINISTRATION,2024,,Working,,2.26,3.28,8.11,0.0,mumbai,Master's,Remote
+EMP00452,Database Administration,2024,,Yes,,4.8,6.75,11.52,0.0,Hyderabad,Master's,Hybrid
+EMP01182,IT Support & Helpdesk,2021.0,01/21,exited,CAREER SWITCH,6.6,11.54,24.04,3.0,Mumbai,MASTER'S,Onsite
+EMP02195,Cybersecurity,01/16,,Working,,3.75,5.19,14.78,9.0,  Hyderabad  ,Master's,onsite
+EMP01439,  QA & Testing  ,2023,,Working,,3.07,4.74,8.54,1.0,Chennai,Bachelor's,Hybrid
+EMP02114,UI/UX Design,01/16,,active,,1.6,2.5,5.81,9.0,Hyderabad,Master's,Remote
+EMP01173,Networking,2021,2023-01-01,N,  Layoff  ,4.94,7.43,18.42,3.0,Mumbai,MASTER'S,Remote
+EMP02003,Database Administration,01/22,2024.0,Exited,Company Restructuring,3.91,6.91,20.17,2.0,BANGALORE,Master's,WFH
+EMP00996,Software_Development,2017,2024,0,Career Switch,5.59,8.75,18.38,7.0,GURGAON,PhD,Remote
+EMP02125,Cloud Computing,01/19,,1,,3.52,5.86,12.89,5.0,HYDERABAD,Bachelor's,Onsite
+EMP00597,  Database Administration  ,2023,2023.0,0,Higher Salary Elsewhere,8.3,1.06,27.39,1.0,Gurgaon,MASTER'S,Onsite
+EMP02018,Software Development,2023,,Yes,,10.3,17.93,41.53,1.0,GURGAON,bachelor's,Onsite
+EMP01671,QA & Testing,2024,,active,,7.23,11.99,24.15,0.0,Delhi,Bachelor's,Onsite
+EMP01267,  Cybersecurity  ,2022-01-01,,1,,9.82,13.39,35.31,3.0,Gurgaon,Bachelor's,Remote
+EMP01221,,2018,2020,,CAREER GROWTH,7.45,,20.24,,,,
+EMP00893,Cybersecurity,2021.0,,Active,,3.78,6.75,17.72,4.0,MUMBAI,Bachelor's,Onsite
+EMP00891,Data Science,2019-01-01,2021,Left,Health Reasons,4.4,7.68,18.79,5.0,gurgaon,Master's,Hybrid
+EMP01789,DevOps,2016,,ACTIVE,,7.27,11.01,22.13,8.0,PUNE,Master's,Hybrid
+EMP02081,it support & helpdesk,2022-01-01,,Yes,,2.95,4.55,10.24,2.0,gurgaon,Master's,onsite
+EMP00737,DevOps,2017-01-01,2021-01-01,EXITED,Work-Life Balance,4.05,5.96,14.82,7.0,HYDERABAD,Bachelor's,Onsite
+EMP01710,Networking,2021-01-01,,Working,,3.49,4.72,11.27,3.0,HYDERABAD,Diploma,Onsite
+EMP01548,AI/ML_Engineering,2015,2022,Resigned,Work-Life_Balance,3.87,6.19,11.54,10.0,Chennai,Bachelor's,Hybrid
+EMP00565,Database Administration,2016.0,2022,EXITED,Career Switch,13.45,18.34,47.98,8.0,Delhi,Master's,Remote
+EMP00949,ai/ml engineering,2024-01-01,,active,,2.72,3.72,10.08,0.0,gurgaon,Master's,onsite
+EMP01062,DevOps,2016,2018-01-01,N,Higher Salary Elsewhere,8.05,11.13,22.71,8.0,noida,Master's,Onsite
+EMP00543,Cybersecurity,2019,,Active,,9.37,12.98,36.95,5.0,Delhi,Diploma,Hybrid
+EMP02094,DevOps,2020,,Yes,,7.29,12.34,21.44,4.0,Chennai,PhD,Hybrid
+EMP01614,AI/ML ENGINEERING,01/20,2022,Left,  Retirement  ,7.93,13.28,33.56,4.0,Delhi,,Onsite
+EMP02194,UI/UX Design,2018,,1,,6.29,10.18,28.01,6.0,Delhi,Bachelor's,Onsite
+EMP00862,,2016-01-01,,,,7.28,,28.72,,,,
+EMP01442,DevOps,2015,2018.0,EXITED,Higher Studies,1.51,2.5,5.21,10.0,Pune,Master's,Onsite
+EMP01071,IT Support & Helpdesk,2020.0,,Yes,,9.86,15.61,31.89,4.0,Gurgaon,Bachelor's,Onsite
+EMP01157,,2023-01-01,2024,,Retirement,2.81,,8.78,,,,
+EMP02072,Cloud Computing,2022.0,2023,Left,  Career Growth  ,6.27,8.71,25.22,2.0,hyderabad,Bachelor's,Onsite
+EMP01469,Data Science,2015,,Active,,6.52,8.88,19.84,9.0,Pune,Diploma,Remote
+EMP02053,Cloud Computing,2022,,Working,,8.38,14.34,31.31,2.0,pune,Diploma,Remote
+EMP02014,,01/23,,,,2.01,,8.97,,,,
+EMP00995,NETWORKING,01/16,,Active,,4.21,5.64,14.71,8.0,Hyderabad,Bachelor's,Onsite
+EMP00616,Data Science,2017,,Working,,7.6,11.09,32.69,7.0,  Chennai  ,Diploma,Remote
+EMP01291,,2022,,,,5.04,,20.59,,,,
+EMP00863,Data Science,2024-01-01,,Working,,6.03,9.23,27.44,0.0,Pune,,Remote
+EMP01135,QA & Testing,2018-01-01,01/19,0,  Retirement  ,3.03,4.08,7.93,6.0,  Noida  ,Master's,REMOTE
+EMP01380,Networking,01/16,,Yes,,5.2,7.54,22.07,8.0,bangalore,Master's,Hybrid
+EMP01703,Database Administration,2017-01-01,2022.0,0,Career Switch,7.65,10.78,24.99,7.0,Mumbai,Master's,Remote
+EMP00567,,2015,2020,,  Company Restructuring  ,7.02,,30.57,,,,
+EMP00606,Networking,2018-01-01,,ACTIVE,,2.39,4.19,11.45,6.0,Gurgaon,Bachelor's,Remote
+EMP01709,NETWORKING,2018,,ACTIVE,,7.26,9.8,25.7,6.0,delhi,,Onsite
+EMP00713,UI/UX Design,2021,,ACTIVE,,8.77,14.7,43.21,4.0,Noida,Bachelor's,Remote
+EMP02151,Networking,2015-01-01,,Yes,,4.32,6.81,20.04,9.0,Gurgaon,Bachelor's,Hybrid
+EMP01292,Networking,2020-01-01,,active,,3.09,4.22,7.19,4.0,Chennai,Bachelor's,Remote
+EMP00147,it support & helpdesk,2016,,Yes,,4.87,7.21,12.44,8.0,Gurgaon,Bachelor's,Onsite
+EMP00547,UI/UX Design,01/18,2023,exited,work-life balance,5.69,8.19,14.37,6.0,Pune,Bachelor's,Onsite
+EMP02079,Cybersecurity,2016,2020,EXITED,relocation,5.53,9.84,18.57,9.0,hyderabad,Bachelor's,Hybrid
+EMP01394,Data Science,2020.0,,Working,,13.15,18.25,41.69,4.0,NOIDA,PhD,Onsite
+EMP01352,CLOUD COMPUTING,2017-01-01,,Active,,1.82,2.62,7.27,8.0,Bangalore,Master's,Work From Home
+EMP00104,  Business Analysis  ,2022,,active,,2.47,4.33,8.38,2.0,Chennai,bachelor's,Onsite
+EMP02179,ui/ux design,2019-01-01,,active,,10.2,1.27,32.4,5.0,Pune,Bachelor's,Remote
+EMP00366,IT Support & Helpdesk,2020,,active,,3.93,6.35,16.84,4.0,noida,MASTER'S,Remote
+EMP02122,,2015-01-01,,,,4.56,,19.28,,,,
+EMP01240,SOFTWARE DEVELOPMENT,2018-01-01,,Working,,8.25,12.9,29.19,6.0,Delhi,Master's,Onsite
+EMP01202,Cybersecurity,2021-01-01,,Active,,5.4,9.33,18.3,3.0,Mumbai,Master's,WFH
+EMP00143,AI/ML Engineering,2023,2023-01-01,0,relocation,5.08,8.28,24.61,1.0,hyderabad,Master's,Hybrid
+EMP00361,IT Support & Helpdesk,2024,2024,0,Career Switch,8.76,13.21,35.39,0.0,Delhi,Master's,Onsite
+EMP00129,software development,2016-01-01,01/19,Exited,Higher Studies,8.72,12.16,30.74,9.0,Bangalore,Bachelor's,Onsite
+EMP01744,Software Development,2018,,1,,6.67,9.02,24.46,6.0,pune,Master's,REMOTE
+EMP00042,,2022,2023,,Higher Salary Elsewhere,5.89,,27.25,,,,
+EMP01474,DevOps,2017,2018-01-01,No,Relocation,6.64,9.89,24.08,7.0,Pune,Master's,onsite
+EMP00584,  UI/UX Design  ,2016,,ACTIVE,,7.35,11.89,25.74,9.0,Hyderabad,Master's,Remote
+EMP00892,IT Support & Helpdesk,01/18,,Y,,4.62,6.21,14.43,6.0,Delhi,Master's,Remote
+EMP01887,DevOps,2023,2023,Left,  Health Reasons  ,5.25,0.466,21.32,1.0,Noida,Bachelor's,Onsite
+EMP01443,Database_Administration,2023,,ACTIVE,,9.07,12.11,32.37,1.0,Hyderabad,Master's,Hybrid
+EMP01537,CLOUD COMPUTING,2021.0,2021-01-01,N,  Higher Studies  ,5.03,8.19,22.89,3.0,Noida,Master's,Work From Home
+EMP01055,business analysis,2018.0,,Working,,8.59,12.58,29.85,6.0,Delhi,MASTER'S,onsite
+EMP01315,software development,01/22,,1,,5.48,9.1,20.85,2.0,Gurgaon,Master's,Hybrid
+EMP00711,Business Analysis,2024,,Y,,6.13,8.33,23.25,0.0,Delhi,Bachelor's,Hybrid
+EMP00852,cloud computing,2019,,ACTIVE,,6.93,10.24,20.05,6.0,Noida,PhD,Hybrid
+EMP00702,BUSINESS ANALYSIS,2021,,active,,6.86,11.9,33.79,4.0,Chennai,Bachelor's,Onsite
+EMP01326,CLOUD COMPUTING,2017,,1,,1.68,2.5,6.17,8.0,CHENNAI,bachelor's,Onsite
+EMP01880,cloud computing,2015.0,2023,Left,Health Reasons,11.96,17.09,40.15,9.0,Gurgaon,Bachelor's,Hybrid
+EMP01528,data science,2015,2021,No,Higher_Studies,10.11,13.7,26.86,9.0,Delhi,Bachelor's,Work From Home
+EMP01327,AI/ML ENGINEERING,2019,,Working,,8.87,14.82,34.42,5.0,mumbai,Master's,Hybrid
+EMP00086,  Database Administration  ,2018,,ACTIVE,,3.99,6.54,17.1,6.0,Pune,PhD,Hybrid
+EMP01368,  QA & Testing  ,2023.0,,Active,,7.81,13.35,27.84,1.0,Gurgaon,Master's,Hybrid
+EMP00562,QA & Testing,2019,,Working,,4.71,6.54,17.1,5.0,GURGAON,PhD,Onsite
+EMP01090,CLOUD COMPUTING,2020,,Yes,,8.17,13.39,24.87,4.0,CHENNAI,Master's,Onsite
+EMP00619,  Data Science  ,2021,,Active,,8.58,1.03,31.46,3.0,  Pune  ,Diploma,Remote
+EMP00343,qa & testing,2017,,Active,,2.03,2.94,7.21,7.0,bangalore,Diploma,Onsite
+EMP00889,AI/ML Engineering,2023,2024.0,N,Career Growth,1.96,3.44,8.18,1.0,Hyderabad,MASTER'S,Onsite
+EMP01487,CLOUD COMPUTING,01/22,,Yes,,7.83,12.14,32.57,2.0,Pune,Diploma,Onsite
+EMP00559,DevOps,2018.0,,active,,2.43,0.37,12.58,6.0,Hyderabad,bachelor's,Hybrid
+EMP01075,DevOps,2016,,Working,,9.43,12.97,30.63,8.0,delhi,Master's,Remote
+EMP02011,cloud computing,2017-01-01,,Y,,1.6,2.5,5.18,7.0,Hyderabad,Master's,Hybrid
+EMP01156,  UI/UX Design  ,2022,,Active,,1.66,2.5,4.79,2.0,Noida,MASTER'S,Hybrid
+EMP00556,AI/ML Engineering,01/19,,Yes,,8.65,11.66,26.85,5.0,MUMBAI,Diploma,Onsite
+EMP01626,DevOps,01/17,,Working,,1.53,2.5,5.39,7.0,Gurgaon,Diploma,Onsite
+EMP00811,DevOps,2016-01-01,,active,,5.16,7.79,20.44,9.0,bangalore,Bachelor's,Onsite
+EMP00202,cloud computing,2017,,Working,,8.3,12.66,30.14,7.0,Mumbai,Bachelor's,Hybrid
+EMP00749,cloud computing,2015,,active,,4.39,0.3255,14.5,9.0,Gurgaon,Bachelor's,Remote
+EMP01927,UI/UX Design,01/22,,Working,,10.49,14.76,31.19,2.0,HYDERABAD,Bachelor's,Remote
+EMP02005,Software Development,01/19,,1,,4.81,7.98,18.62,5.0,Gurgaon,Master's,Onsite
+EMP01534,Cloud Computing,2022,,Y,,9.18,12.63,30.59,2.0,gurgaon,Master's,Onsite
+EMP01214,  Database Administration  ,2017,,1,,9.1,13.61,29.52,7.0,Gurgaon,Bachelor's,Onsite
+EMP01885,AI/ML Engineering,01/19,,ACTIVE,,8.45,14.31,26.38,5.0,delhi,Master's,Onsite
+EMP00935,DATABASE ADMINISTRATION,2015-01-01,,ACTIVE,,9.81,14.9,34.03,9.0,HYDERABAD,Master's,Hybrid
+EMP00351,AI/ML ENGINEERING,2023-01-01,,ACTIVE,,13.36,20.95,46.44,1.0,Noida,Bachelor's,Remote
+EMP01811,AI/ML Engineering,2019,2020,Left,Company Restructuring,6.34,10.55,19.19,5.0,  Noida  ,Bachelor's,Hybrid
+EMP00274,cybersecurity,2021,2023,0,  Higher Salary Elsewhere  ,4.7,6.9,17.57,4.0,  Bangalore  ,Master's,onsite
+EMP00880,Cybersecurity,2016-01-01,,ACTIVE,,2.99,5.03,14.04,8.0,Noida,bachelor's,Hybrid
+EMP00795,Networking,01/20,,1,,5.44,8.18,17.33,4.0,  Delhi  ,Bachelor's,Onsite
+EMP01452,Software Development,2020-01-01,,1,,6.79,9.84,29.22,5.0,Bangalore,Master's,REMOTE
+EMP00043,Networking,2016,,Active,,5.82,10.57,19.7,8.0,MUMBAI,Master's,Remote
+EMP01669,Networking,2021,,1,,6.13,9.44,19.87,3.0,Bangalore,Bachelor's,onsite
+EMP00276,DevOps,2022,,Working,,8.5,13.84,30.85,2.0,Chennai,Diploma,Onsite
+EMP00755,Networking,2022-01-01,,Yes,,4.14,6.08,17.81,2.0,Delhi,Master's,Remote
+EMP00833,AI/ML Engineering,2017,,1,,5.14,8.82,24.17,7.0,  Delhi  ,PhD,Hybrid
+EMP02061,IT Support & Helpdesk,2023.0,2023,exited,Health Reasons,4.44,8.0,23.24,1.0,BANGALORE,Master's,Onsite
+EMP01020,Networking,01/21,,Working,,8.32,13.32,34.34,3.0,Delhi,Bachelor's,Remote
+EMP00285,IT Support & Helpdesk,2023,,Y,,8.12,1.12,24.07,1.0,delhi,Bachelor's,Onsite
+EMP00037,Cybersecurity,01/18,2021,0,Company Restructuring,2.4,4.08,8.92,7.0,pune,PhD,Onsite
+EMP01831,Cybersecurity,01/22,,Y,,6.69,11.58,30.14,3.0,HYDERABAD,Master's,Remote
+EMP01752,UI/UX Design,2016,,Working,,1.53,0.21,5.24,8.0,  Pune  ,Master's,Onsite
+EMP01386,UI/UX DESIGN,2021,2024-01-01,Resigned,Career Switch,1.38,2.5,6.64,4.0,Mumbai,Master's,Onsite
+EMP02052,Database Administration,2022,2024,Resigned,relocation,5.91,9.77,25.71,2.0,Pune,Bachelor's,Onsite
+EMP02182,Cloud Computing,01/24,,1,,7.32,11.46,30.94,0.0,Noida,Master's,Onsite
+EMP00225,UI/UX Design,2015,2016-01-01,0,Retirement,2.87,3.84,6.73,9.0,Chennai,Bachelor's,Hybrid
+EMP00907,,2018,,,,6.22,,33.22,,,,
+EMP01410,Business Analysis,2023,2023,No,Higher Studies,3.56,5.35,11.68,1.0,hyderabad,Bachelor's,Onsite
+EMP02154,UI/UX Design,2016,2021.0,Resigned,career growth,1.83,2.5,5.39,8.0,Mumbai,bachelor's,Onsite
+EMP00899,Data Science,2022-01-01,,Yes,,3.31,5.04,11.0,2.0,Noida,Master's,Hybrid
+EMP00947,UI/UX Design,01/18,,Y,,6.82,10.72,21.87,6.0,Gurgaon,PhD,Onsite
+EMP00612,DATA SCIENCE,2024,,1,,11.26,15.2,40.69,0.0,Chennai,Bachelor's,onsite
+EMP00994,Networking,2020,,active,,11.14,16.25,32.35,4.0,delhi,Diploma,Onsite
+EMP00408,Business Analysis,2016,2018,Left,Higher Studies,3.58,5.48,11.37,9.0,mumbai,Bachelor's,Onsite
+EMP00259,DevOps,2017.0,,Y,,6.35,0.71,23.0,7.0,Pune,Master's,Remote
+EMP00266,DATA SCIENCE,2022,,Working,,6.12,10.35,22.82,2.0,Chennai,Master's,Onsite
+EMP01210,AI/ML Engineering,2024-01-01,,Working,,9.06,14.93,42.86,0.0,hyderabad,Master's,Hybrid
+EMP00603,Data Science,01/23,,Y,,1.78,2.92,7.87,2.0,Pune,Diploma,Onsite
+EMP01653,Business Analysis,2015.0,,ACTIVE,,5.26,8.88,15.76,10.0,Noida,Bachelor's,Onsite
+EMP00921,Networking,2024,,1,,8.92,13.78,32.32,1.0,Hyderabad,Bachelor's,Onsite
+EMP00549,DevOps,2021-01-01,01/21,exited,Relocation,7.04,11.58,25.24,3.0,Bangalore,Master's,Onsite
+EMP01488,Business_Analysis,2019,,Active,,6.15,9.99,25.99,6.0,Noida,bachelor's,onsite
+EMP01663,IT Support & Helpdesk,2022-01-01,,1,,5.57,9.24,24.36,2.0,Delhi,Bachelor's,Remote
+EMP02152,IT Support & Helpdesk,01/17,,active,,8.65,14.53,36.68,7.0,noida,Master's,Remote
+EMP01686,database administration,2017,2024,EXITED,CAREER SWITCH,7.84,11.69,28.44,7.0,mumbai,Bachelor's,Hybrid
+EMP00722,Data Science,2015,,active,,4.01,6.02,14.74,9.0,CHENNAI,Bachelor's,onsite
+EMP01764,  Business Analysis  ,2017-01-01,,Y,,3.06,4.26,10.48,7.0,Delhi,Master's,Hybrid
+EMP01285,  IT Support & Helpdesk  ,2019-01-01,01/19,Exited,CAREER SWITCH,1.67,2.5,4.59,5.0,Gurgaon,Bachelor's,WFH
+EMP01762,ui/ux design,2018,,active,,7.49,10.16,18.41,7.0,Bangalore,Bachelor's,Work From Home
+EMP00295,Business_Analysis,2017-01-01,,1,,3.9,6.92,13.24,7.0,PUNE,Bachelor's,Hybrid
+EMP00964,  Business Analysis  ,2017,,Yes,,8.19,13.2,23.61,8.0,Bangalore,Master's,Hybrid
+EMP02032,DevOps,01/23,,Active,,7.54,10.65,29.41,1.0,CHENNAI,Master's,Remote
+EMP01058,IT SUPPORT & HELPDESK,2020,,Active,,5.33,7.59,20.76,4.0,CHENNAI,Bachelor's,onsite
+EMP01480,QA & Testing,2024,,ACTIVE,,6.57,10.45,22.83,0.0,Gurgaon,,onsite
+EMP01863,UI/UX Design,2020,01/22,EXITED,career switch,6.63,11.4,21.6,4.0,Noida,Bachelor's,Remote
+EMP00677,Software Development,2020.0,2024-01-01,No,Career Growth,6.57,9.7,22.48,5.0,  Bangalore  ,MASTER'S,Onsite
+EMP00900,data science,2024,2024,exited,Career Switch,15.76,21.08,60.15,0.0,Hyderabad,Bachelor's,Hybrid
+EMP00013,AI/ML Engineering,2015-01-01,01/19,N,Career Switch,5.9,10.02,24.92,9.0,Chennai,Bachelor's,Onsite
+EMP00255,Cloud Computing,2015-01-01,,active,,5.85,8.24,14.42,9.0,delhi,MASTER'S,Hybrid
+EMP00760,Networking,2019,,active,,9.03,0.7735000000000001,27.33,5.0,Delhi,Bachelor's,Onsite
+EMP01243,Cloud Computing,2023-01-01,,Active,,7.1,11.78,31.68,1.0,Chennai,Bachelor's,Hybrid
+EMP01911,IT SUPPORT & HELPDESK,01/22,,Y,,2.26,3.11,8.13,2.0,Pune,Master's,Onsite
+EMP00374,UI/UX Design,01/22,,Working,,10.87,17.22,49.23,2.0,GURGAON,,REMOTE
+EMP01678,DevOps,2019.0,,Y,,8.81,13.25,35.66,5.0,Chennai,Bachelor's,Hybrid
+EMP02119,IT Support & Helpdesk,2015,,active,,7.53,11.32,25.84,9.0,Delhi,Diploma,Hybrid
+EMP00066,software development,2023,2023,exited,HIGHER SALARY ELSEWHERE,5.12,6.84,18.14,2.0,  Hyderabad  ,,REMOTE
+EMP02029,IT Support & Helpdesk,2020,,Active,,5.67,0.78,16.0,4.0,  Hyderabad  ,Bachelor's,Onsite
+EMP01729,QA & Testing,2023,,active,,7.12,10.11,19.0,1.0,Bangalore,Bachelor's,WFH
+EMP01010,,2017-01-01,,,,3.15,,13.22,,,,
+EMP00431,BUSINESS ANALYSIS,2018,2020,EXITED,Layoff,3.99,6.03,14.92,6.0,Pune,Diploma,Work From Home
+EMP00501,Data Science,2024.0,,Active,,9.33,16.8,47.86,0.0,Hyderabad,Bachelor's,Remote
+EMP01808,DevOps,2022,,Yes,,5.48,8.88,24.2,2.0,Gurgaon,Master's,Hybrid
+EMP01996,Networking,01/16,2024,exited,Company Restructuring,9.96,13.89,30.65,8.0,Delhi,,Onsite
+EMP00685,ui/ux design,01/23,,Active,,4.61,7.85,15.52,1.0,noida,Bachelor's,REMOTE
+EMP01954,BUSINESS ANALYSIS,01/23,,1,,5.97,8.85,17.88,2.0,Delhi,Bachelor's,REMOTE
+EMP02040,QA & Testing,2016,,Y,,1.78,2.5,5.99,8.0,Hyderabad,bachelor's,onsite
+EMP01787,Data Science,2023,,1,,7.07,11.77,25.37,1.0,BANGALORE,Diploma,Hybrid
+EMP00552,it support & helpdesk,2015,,Yes,,3.18,4.43,11.28,9.0,Gurgaon,Bachelor's,WFH
+EMP00055,Cloud Computing,2017.0,,active,,4.89,8.07,23.24,7.0,Pune,Master's,Onsite
+EMP01452,Software Development,2020-01-01,,1,,6.79,9.84,29.22,5.0,Bangalore,Master's,REMOTE
+EMP01269,Database Administration,2023,,Yes,,5.81,8.35,23.88,2.0,Mumbai,Bachelor's,Hybrid
+EMP01963,SOFTWARE DEVELOPMENT,2023,,1,,6.22,11.18,32.76,1.0,CHENNAI,Bachelor's,Onsite
+EMP02143,Networking,2017,,ACTIVE,,8.82,11.83,22.38,7.0,Mumbai,Bachelor's,Onsite
+EMP00214,Database Administration,2022,,active,,5.0,8.9,20.15,2.0,Gurgaon,Bachelor's,REMOTE
+EMP01754,  Data Science  ,01/24,,active,,3.46,5.39,11.33,0.0,Hyderabad,Bachelor's,Hybrid
+EMP00166,  IT Support & Helpdesk  ,2016,,active,,7.43,12.75,29.02,8.0,Gurgaon,Master's,Onsite
+EMP01605,qa & testing,2019.0,,active,,4.93,7.57,22.45,5.0,Noida,Master's,Hybrid
+EMP02130,Cybersecurity,2018,,Active,,1.77,2.5,6.0,6.0,Hyderabad,Bachelor's,Hybrid
+EMP02166,IT Support & Helpdesk,2017,,Yes,,6.11,9.21,22.88,7.0,Gurgaon,Master's,Onsite
+EMP00617,  DevOps  ,2016-01-01,,active,,4.22,6.46,18.86,8.0,Bangalore,Master's,Onsite
+EMP01962,UI/UX Design,2016-01-01,,ACTIVE,,6.86,12.05,27.39,9.0,Bangalore,Bachelor's,WFH
+EMP01154,Database_Administration,2019,,Working,,6.76,9.97,18.42,5.0,Bangalore,Bachelor's,Remote
+EMP00990,Cloud Computing,2019,01/19,Left,layoff,1.88,2.75,6.17,5.0,Pune,Bachelor's,Remote
+EMP00061,QA & Testing,2016,,ACTIVE,,4.76,6.82,13.12,8.0,bangalore,Bachelor's,Remote
+EMP01014,Software Development,01/23,,active,,3.23,5.43,14.63,1.0,mumbai,Bachelor's,Onsite
+EMP01001,  UI/UX Design  ,2018,,Yes,,7.81,12.44,24.08,6.0,Hyderabad,Bachelor's,Onsite
+EMP00366,IT Support & Helpdesk,2020,,active,,3.93,6.35,16.84,4.0,noida,MASTER'S,Remote
+EMP01619,Networking,2018.0,,active,,13.31,18.74,45.68,6.0,NOIDA,MASTER'S,Onsite
+EMP02023,Software Development,01/18,,Y,,3.58,5.89,13.1,6.0,gurgaon,Master's,onsite
+EMP00011,DATA SCIENCE,01/17,,ACTIVE,,4.26,6.1,14.17,7.0,Chennai,Bachelor's,Remote
+EMP01174,cybersecurity,2022,,Yes,,3.34,5.29,10.95,2.0,Hyderabad,Master's,WFH
+EMP01500,,2016-01-01,2024.0,,Company Restructuring,4.69,,18.73,,,,
+EMP00251,Cloud_Computing,2020,,Active,,6.51,8.83,17.23,5.0,NOIDA,Bachelor's,onsite
+EMP01461,  UI/UX Design  ,2020,,Y,,8.95,15.84,32.91,5.0,Hyderabad,Bachelor's,Onsite
+EMP01450,SOFTWARE DEVELOPMENT,2023,2024,Left,Retirement,8.77,12.87,31.15,1.0,Delhi,Master's,Remote
+EMP01095,Data Science,2019,2023,Left,Layoff,10.31,14.65,29.14,5.0,Delhi,Master's,Remote
+EMP00654,Software Development,2022,,1,,7.58,10.83,28.04,3.0,Delhi,Bachelor's,WFH
+EMP01827,DEVOPS,2018,2023,EXITED,Higher Salary Elsewhere,1.4,2.5,6.33,6.0,gurgaon,Master's,Hybrid
+EMP02145,it support & helpdesk,2022.0,,Active,,5.05,7.45,12.96,2.0,DELHI,Bachelor's,Remote
+EMP01720,AI/ML Engineering,2019,,Y,,3.28,5.2,11.39,5.0,mumbai,Master's,Hybrid
+EMP00978,DevOps,2018-01-01,2020.0,Exited,company restructuring,6.22,9.09,18.54,7.0,  Bangalore  ,Master's,Onsite
+EMP00680,Business Analysis,01/19,,Active,,6.83,11.06,20.27,6.0,Chennai,MASTER'S,REMOTE
+EMP00728,Data Science,2020-01-01,,Active,,8.4,14.8,37.92,5.0,Chennai,Bachelor's,Onsite
+EMP00770,Database Administration,01/15,,Yes,,1.89,2.83,7.74,10.0,Gurgaon,PhD,Hybrid
+EMP00014,Software Development,2022,2023-01-01,exited,Career_Growth,6.62,9.05,24.59,2.0,Noida,Diploma,Onsite
+EMP01796,Business Analysis,2022,2022,0,relocation,7.93,11.7,26.85,2.0,Hyderabad,Diploma,Onsite
+EMP00336,Data Science,2017,,Y,,1.89,2.84,6.9,7.0,Delhi,Bachelor's,Onsite
+EMP01224,QA & Testing,2019,2022,Resigned,Relocation,2.75,3.79,11.09,5.0,Bangalore,Bachelor's,Hybrid
+EMP00320,,2017.0,,,,6.38,,28.47,,,,
+EMP02071,business analysis,2020,,ACTIVE,,5.3,8.35,14.99,4.0,noida,Master's,Hybrid
+EMP01408,Software Development,2016,,Working,,7.35,11.6,20.16,9.0,noida,MASTER'S,WFH
+EMP00913,CLOUD COMPUTING,2018-01-01,,1,,4.84,0.69,14.36,6.0,Gurgaon,Diploma,Remote
+EMP00512,UI/UX Design,2023,2023-01-01,0,Higher Salary Elsewhere,1.85,3.28,6.2,1.0,DELHI,Bachelor's,WFH
+EMP01820,,01/20,,,,6.83,,24.81,,,,
+EMP02167,CYBERSECURITY,2020-01-01,01/20,Exited,Career_Growth,1.72,2.5,6.49,5.0,Mumbai,bachelor's,Hybrid
+EMP00271,CLOUD COMPUTING,01/20,,Active,,6.16,9.45,22.01,5.0,Bangalore,Bachelor's,Remote
+EMP00700,  Networking  ,2023,,Y,,6.29,8.41,23.72,1.0,Hyderabad,Master's,Remote
+EMP01468,Cloud Computing,2020,,Y,,3.48,6.04,17.32,4.0,Delhi,MASTER'S,Hybrid
+EMP01079,AI/ML ENGINEERING,2021.0,2021,Left,Higher Salary Elsewhere,2.43,3.38,6.3,4.0,Noida,Diploma,Work From Home
+EMP00693,QA & Testing,2019.0,2022-01-01,Exited,work-life balance,7.01,12.55,24.03,5.0,  Delhi  ,Bachelor's,Onsite
+EMP00026,UI/UX DESIGN,2019.0,,active,,2.1,3.4,9.46,6.0,Chennai,,Hybrid
+EMP00157,UI/UX DESIGN,2019-01-01,2024,0,  Retirement  ,2.19,2.97,5.48,5.0,Delhi,,Hybrid
+EMP00508,  Database Administration  ,2023,,active,,7.06,11.59,25.18,2.0,Delhi,Bachelor's,Hybrid
+EMP00875,  Cybersecurity  ,2019,,active,,4.05,5.49,13.62,6.0,pune,Bachelor's,Hybrid
+EMP00848,Business Analysis,2024,,ACTIVE,,2.34,3.87,10.2,0.0,Noida,Bachelor's,Onsite
+EMP01759,  AI/ML Engineering  ,01/15,2015-01-01,Left,  Career Growth  ,1.76,2.7,6.69,9.0,Noida,Bachelor's,Onsite
+EMP00948,,2022,,,,6.16,,19.02,,,,
+EMP00148,Cybersecurity,2020,,Working,,4.43,6.21,13.01,5.0,  Bangalore  ,Bachelor's,Remote
+EMP01312,IT_Support_&_Helpdesk,2015,,active,,7.35,10.4,24.41,10.0,NOIDA,,Hybrid
+EMP02139,Cybersecurity,2015-01-01,,ACTIVE,,6.21,10.07,17.68,9.0,Noida,Bachelor's,Onsite
+EMP00957,DevOps,2020,,Active,,10.45,15.73,30.54,5.0,Bangalore,Master's,Onsite
+EMP01813,AI/ML Engineering,2022,,active,,9.54,16.4,45.27,2.0,mumbai,Diploma,Onsite
+EMP01237,Software Development,01/22,,Working,,7.23,11.53,30.36,2.0,NOIDA,bachelor's,WFH
+EMP01772,Business Analysis,01/20,,Yes,,5.26,7.38,17.46,4.0,pune,Master's,onsite
+EMP02086,Business Analysis,2018.0,2020.0,Exited,Health Reasons,5.79,9.73,19.16,6.0,  Mumbai  ,Bachelor's,Onsite
+EMP01367,Software Development,2021,,Working,,4.21,5.75,14.17,3.0,Delhi,,Hybrid
+EMP01736,cloud computing,2019-01-01,,1,,9.21,14.35,26.57,6.0,Gurgaon,Bachelor's,Hybrid
+EMP00850,Cloud Computing,01/17,,Working,,10.49,16.39,30.88,7.0,hyderabad,Bachelor's,Onsite
+EMP01089,Cloud Computing,2015,,1,,4.67,7.27,14.5,10.0,Noida,Master's,onsite
+EMP00642,QA & Testing,2016-01-01,,1,,6.81,11.84,31.16,8.0,  Hyderabad  ,Bachelor's,Onsite
+EMP00997,  Data Science  ,2021-01-01,,1,,8.22,12.03,25.65,3.0,Pune,Master's,Hybrid
+EMP00872,IT Support & Helpdesk,2019,2019,Left,Layoff,3.77,6.64,18.69,6.0,mumbai,Bachelor's,Work From Home
+EMP01732,UI/UX Design,2017,2021-01-01,Exited,Career Growth,5.44,0.82,28.72,7.0,Pune,MASTER'S,Onsite
+EMP00808,Cybersecurity,2019,,Working,,3.49,5.87,11.9,5.0,Pune,Bachelor's,Work From Home
+EMP00782,Software_Development,2018,,Y,,3.98,5.5,13.35,6.0,Bangalore,,Onsite
+EMP01565,IT Support & Helpdesk,2018-01-01,2022.0,N,Relocation,5.81,9.34,24.65,6.0,Delhi,Diploma,Onsite
+EMP01824,,2020,2022,,career growth,9.56,,35.84,,,,
+EMP00803,Networking,01/15,,active,,1.62,2.5,4.29,9.0,HYDERABAD,MASTER'S,Onsite
+EMP00334,AI/ML ENGINEERING,2021,,1,,2.45,4.41,10.92,3.0,MUMBAI,Master's,onsite
+EMP01917,DEVOPS,2022.0,2022,Left,Career Switch,6.38,11.3,22.93,2.0,Bangalore,Bachelor's,Onsite
+EMP00524,DevOps,2024,,Active,,5.42,7.57,14.93,0.0,delhi,Bachelor's,Remote
+EMP00170,IT Support & Helpdesk,2020,,Yes,,3.89,6.25,12.58,4.0,Mumbai,,Onsite
+EMP01530,QA & Testing,2024,,1,,4.79,8.63,22.38,1.0,delhi,Bachelor's,Remote
+EMP00483,IT_Support_&_Helpdesk,01/24,2024,exited,Career Growth,6.89,9.78,19.68,0.0,Chennai,MASTER'S,Remote
+EMP00090,QA & Testing,2018,2023,N,Relocation,8.34,0.96,26.95,6.0,chennai,Diploma,Remote
+EMP02103,devops,2024.0,,Yes,,6.79,11.76,27.99,1.0,Pune,Master's,Work From Home
+EMP00277,IT SUPPORT & HELPDESK,2022-01-01,,Y,,5.42,7.83,14.71,3.0,Mumbai,MASTER'S,Work From Home
+EMP01009,it support & helpdesk,2022-01-01,,active,,8.17,11.81,21.14,2.0,Pune,MASTER'S,WFH
+EMP01255,Cybersecurity,01/21,,Working,,8.9,13.31,23.31,4.0,Bangalore,Bachelor's,Hybrid
+EMP00743,DevOps,2019,,Y,,7.06,12.79,29.53,5.0,GURGAON,Bachelor's,Hybrid
+EMP01166,Networking,2022,,Y,,6.95,10.81,29.76,3.0,Hyderabad,Bachelor's,REMOTE
+EMP00475,AI/ML Engineering,2021.0,,Yes,,3.74,5.08,11.18,3.0,gurgaon,Bachelor's,Hybrid
+EMP00038,Software Development,2023-01-01,,Yes,,10.29,16.25,33.58,1.0,noida,Master's,Onsite
+EMP01630,cybersecurity,2018,,1,,7.44,10.28,20.15,6.0,BANGALORE,Master's,Onsite
+EMP01955,Data Science,2021,2024,No,Higher Studies,7.59,11.59,31.42,4.0,  Mumbai  ,Bachelor's,Remote
+EMP00223,Cloud Computing,2019,,active,,6.22,8.32,23.97,5.0,Bangalore,Bachelor's,WFH
+EMP01597,Cybersecurity,2022,,ACTIVE,,7.07,12.49,37.35,2.0,NOIDA,Master's,WFH
+EMP00238,cybersecurity,2019-01-01,2020-01-01,Exited,HIGHER STUDIES,5.21,7.81,23.14,5.0,hyderabad,Bachelor's,WFH
+EMP01629,networking,01/16,,Working,,5.17,7.62,18.75,8.0,Noida,Master's,Onsite
+EMP00372,DevOps,01/15,,Yes,,1.49,2.5,5.04,9.0,DELHI,Bachelor's,Hybrid
+EMP00751,Cybersecurity,2023-01-01,,1,,10.5,18.89,52.75,1.0,pune,Bachelor's,Work From Home
+EMP01309,DevOps,2017,,Y,,6.64,11.62,27.68,7.0,hyderabad,Bachelor's,Onsite
+EMP01947,DATABASE ADMINISTRATION,01/21,,Yes,,8.48,13.05,33.22,3.0,Hyderabad,Bachelor's,onsite
+EMP00744,software development,01/15,2020-01-01,exited,Work-Life Balance,3.11,4.5,10.75,9.0,Pune,MASTER'S,Onsite
+EMP01558,IT Support & Helpdesk,2022-01-01,,Yes,,4.49,7.9,17.32,2.0,Noida,Bachelor's,onsite
+EMP00212,DevOps,2018-01-01,01/24,N,Health Reasons,4.66,7.63,14.28,7.0,Gurgaon,PhD,Onsite
+EMP01338,ai/ml engineering,2021,,Working,,5.47,8.46,17.44,3.0,Noida,Bachelor's,onsite
+EMP02042,Networking,2021.0,,Yes,,4.65,7.35,20.81,3.0,Mumbai,Diploma,Onsite
+EMP01938,Database Administration,2015-01-01,,Yes,,6.69,10.03,22.01,9.0,Chennai,Master's,Remote
+EMP02101,Business Analysis,2020-01-01,,Yes,,10.65,14.51,33.62,5.0,Hyderabad,PhD,Onsite
+EMP00890,IT Support & Helpdesk,2024-01-01,,Yes,,7.51,12.68,28.14,1.0,  Pune  ,Master's,Onsite
+EMP01758,AI/ML Engineering,2020,,Yes,,3.52,6.02,16.61,4.0,BANGALORE,Diploma,Remote
+EMP01233,Data Science,01/24,01/24,Left,HIGHER STUDIES,8.19,14.68,31.69,1.0,PUNE,bachelor's,Remote
+EMP00466,IT Support & Helpdesk,01/21,,Yes,,8.82,14.1,26.48,4.0,  Hyderabad  ,Master's,onsite
+EMP01120,  Software Development  ,2019,2024.0,exited,COMPANY RESTRUCTURING,7.54,12.12,35.21,5.0,Noida,Master's,Remote
+EMP01551,Database Administration,2023.0,01/23,0,WORK-LIFE BALANCE,6.44,9.11,21.3,1.0,Gurgaon,Bachelor's,Hybrid
+EMP01579,data science,01/24,,Yes,,5.91,10.53,29.78,0.0,Bangalore,PhD,WFH
+EMP00369,Cybersecurity,01/20,,Working,,4.62,7.25,14.94,4.0,Mumbai,Master's,Remote
+EMP02109,Data Science,2022-01-01,,Y,,4.68,8.43,22.82,3.0,Delhi,Bachelor's,WFH
+EMP00370,  Software Development  ,2018,,Working,,1.7,2.5,4.58,6.0,Pune,MASTER'S,Onsite
+EMP01862,ui/ux design,2016,,ACTIVE,,3.24,5.6,12.06,9.0,  Chennai  ,,Onsite
+EMP00538,Cloud Computing,2019,,Active,,5.55,9.36,19.73,6.0,Bangalore,Master's,WFH
+EMP00329,IT SUPPORT & HELPDESK,01/20,,Yes,,8.85,12.6,31.07,4.0,Noida,,Work From Home
+EMP01913,Data Science,2019.0,2022,Exited,CAREER GROWTH,5.4,7.41,22.16,5.0,Gurgaon,Bachelor's,Onsite
+EMP01195,DevOps,2017.0,2018,0,Higher Studies,2.95,4.51,13.36,7.0,Gurgaon,PhD,Remote
+EMP00156,Cloud Computing,2015,,Y,,8.65,14.86,29.09,9.0,Hyderabad,Master's,WFH
+EMP01783,IT Support & Helpdesk,01/17,,Y,,3.52,5.55,10.78,7.0,Hyderabad,Master's,Onsite
+EMP00267,cybersecurity,2024,,ACTIVE,,5.06,8.64,16.3,1.0,HYDERABAD,Master's,Hybrid
+EMP00878,DevOps,2019,,1,,8.53,14.76,27.6,5.0,  Mumbai  ,Master's,WFH
+EMP01890,QA & Testing,2021,2021,No,company restructuring,9.59,12.89,38.26,4.0,Mumbai,Master's,Hybrid
+EMP00017,UI/UX Design,01/21,2022-01-01,EXITED,Company Restructuring,7.87,12.02,20.73,3.0,Mumbai,Bachelor's,Remote
+EMP02157,UI/UX Design,2018-01-01,,Y,,4.72,7.09,13.43,7.0,hyderabad,Master's,Remote
+EMP00686,SOFTWARE DEVELOPMENT,2021-01-01,2023,exited,RETIREMENT,1.82,2.5,6.77,3.0,Chennai,Bachelor's,Work From Home
+EMP01683,,2024,,,,5.14,,14.06,,,,
+EMP01991,  IT Support & Helpdesk  ,2019,2019-01-01,exited,career growth,4.63,7.83,20.07,5.0,Delhi,MASTER'S,Onsite
+EMP00914,Database Administration,2019-01-01,2020.0,0,career switch,8.76,12.41,32.6,5.0,NOIDA,bachelor's,Work From Home
+EMP01196,UI/UX DESIGN,2020,,Y,,7.48,10.26,26.57,4.0,Noida,Bachelor's,Hybrid
+EMP02060,Data Science,2019,,Working,,1.72,2.5,5.93,6.0,Delhi,Bachelor's,REMOTE
+EMP00972,,2024,2024,,Retirement,5.29,,21.1,,,,
+EMP01205,Data Science,01/24,2024.0,Exited,Higher Salary Elsewhere,6.42,11.35,31.39,1.0,Mumbai,Master's,Onsite
+EMP00557,AI/ML ENGINEERING,2017,,Y,,6.89,10.88,23.45,8.0,  Chennai  ,Bachelor's,Remote
+EMP00095,Networking,2021,,Active,,4.85,7.11,15.44,3.0,Bangalore,Diploma,REMOTE
+EMP00514,  IT Support & Helpdesk  ,01/20,,Working,,1.56,2.5,6.02,4.0,Gurgaon,Bachelor's,onsite
+EMP02075,CLOUD COMPUTING,2017-01-01,,ACTIVE,,7.61,11.65,21.69,7.0,BANGALORE,Bachelor's,Work From Home
+EMP00865,DATA SCIENCE,2022,,Working,,7.62,10.91,26.04,2.0,  Bangalore  ,Bachelor's,Onsite
+EMP01239,Cybersecurity,2015-01-01,2022-01-01,0,Layoff,9.88,13.96,29.02,9.0,Pune,Diploma,Remote
+EMP01771,Data Science,01/20,,ACTIVE,,4.76,7.36,13.4,4.0,Chennai,Master's,Hybrid
+EMP00699,DATABASE ADMINISTRATION,2020-01-01,,Yes,,7.0,11.0,29.29,5.0,mumbai,Diploma,Remote
+EMP01349,Cloud Computing,01/17,,Active,,3.25,4.5,11.61,8.0,Mumbai,Master's,Remote
+EMP00763,cloud computing,01/17,2020.0,Resigned,HIGHER SALARY ELSEWHERE,5.84,9.66,17.54,7.0,Pune,Master's,Remote
+EMP00078,Software Development,2015,,Y,,8.05,10.94,23.5,9.0,MUMBAI,Master's,Hybrid
+EMP00541,DevOps,2016,,Yes,,4.09,6.27,15.21,8.0,Hyderabad,MASTER'S,Hybrid
+EMP01847,QA & Testing,2024.0,2024,No,Company Restructuring,9.12,13.16,36.8,0.0,MUMBAI,Master's,Hybrid
+EMP01343,UI/UX Design,2019,2024,EXITED,retirement,7.5,11.0,25.88,5.0,  Mumbai  ,Master's,Remote
+EMP00967,devops,2019,2019.0,Left,RETIREMENT,6.68,11.96,21.71,5.0,Mumbai,Bachelor's,Remote
+EMP01402,Database Administration,2019,,Y,,7.7,10.35,23.37,5.0,CHENNAI,MASTER'S,onsite
+EMP01714,Networking,2017,2017,N,Company_Restructuring,3.97,6.56,14.02,7.0,Noida,Master's,Onsite
+EMP00376,qa & testing,2022,2024.0,No,Retirement,3.3,5.34,9.97,2.0,hyderabad,Diploma,Hybrid
+EMP00423,  Cloud Computing  ,2015-01-01,,Active,,5.21,9.18,19.77,9.0,Bangalore,Master's,Onsite
+EMP00747,Database Administration,2015,,Yes,,6.44,9.69,23.11,9.0,Hyderabad,MASTER'S,Onsite
+EMP00308,Software Development,2020-01-01,2021,N,Layoff,8.99,15.07,41.72,4.0,BANGALORE,PhD,Hybrid
+EMP00287,Cybersecurity,2019,,Y,,6.22,11.09,32.89,5.0,Chennai,Master's,Onsite
+EMP01765,DevOps,2015,,Working,,4.19,7.53,18.65,9.0,hyderabad,Master's,Hybrid
+EMP00076,DevOps,2019-01-01,,active,,4.74,8.35,19.7,5.0,mumbai,PhD,Onsite
+EMP02189,IT Support & Helpdesk,2016,,Y,,3.06,4.4,10.66,9.0,Gurgaon,Master's,Hybrid
+EMP01970,QA & Testing,2023-01-01,,Active,,7.72,13.54,28.73,1.0,Hyderabad,Master's,Hybrid
+EMP02062,Database Administration,01/18,,active,,3.54,5.1,11.79,6.0,chennai,Master's,Remote
+EMP01851,Business Analysis,2021,2022,Exited,  Relocation  ,4.83,7.76,16.75,3.0,Mumbai,Master's,Onsite
+EMP00189,Cybersecurity,2018,,Active,,5.8,7.87,19.77,6.0,Mumbai,Bachelor's,Hybrid
+EMP00978,DevOps,2018-01-01,2020.0,Exited,company restructuring,6.22,9.09,18.54,7.0,  Bangalore  ,Master's,Onsite
+EMP00739,IT SUPPORT & HELPDESK,2015,,active,,7.02,11.11,26.02,9.0,Mumbai,Master's,Hybrid
+EMP01638,IT Support & Helpdesk,2017,,Y,,2.95,5.33,15.86,7.0,Delhi,bachelor's,Onsite
+EMP00756,Business_Analysis,2023-01-01,,Working,,9.39,16.31,39.47,1.0,Gurgaon,Diploma,Onsite
+EMP00306,AI/ML Engineering,2023,01/23,Exited,CAREER SWITCH,6.71,9.81,18.5,1.0,MUMBAI,Bachelor's,Hybrid
+EMP00757,Networking,2022,,Yes,,5.12,9.02,16.99,2.0,  Gurgaon  ,bachelor's,Hybrid
+EMP01535,Cloud Computing,01/23,2024,No,HIGHER SALARY ELSEWHERE,2.58,4.32,12.59,1.0,Mumbai,Master's,Onsite
+EMP02090,IT Support & Helpdesk,01/24,,Active,,8.0,11.35,26.85,1.0,Pune,Diploma,Onsite
+EMP02045,IT Support & Helpdesk,2022,,1,,1.94,3.45,10.25,2.0,gurgaon,PhD,onsite
+EMP02092,,2024,2024.0,,Retirement,3.94,,10.23,,,,
+EMP02021,DATA SCIENCE,01/18,,Yes,,1.46,2.5,5.33,6.0,Noida,Master's,onsite
+EMP02025,  IT Support & Helpdesk  ,01/16,2021.0,Left,RELOCATION,1.6,2.5,5.77,8.0,Noida,Diploma,Remote
+EMP00406,Database Administration,2017-01-01,2018,Left,Higher Studies,1.52,2.5,6.65,7.0,Pune,bachelor's,Hybrid
+EMP01859,IT Support & Helpdesk,01/17,2021-01-01,0,Career Switch,5.21,7.68,21.69,7.0,mumbai,bachelor's,Hybrid
+EMP02175,cybersecurity,2017,,Active,,4.84,7.49,19.65,7.0,Chennai,Master's,Onsite
+EMP00294,,2015,,,,3.03,,10.75,,,,
+EMP01390,DevOps,2022,,active,,8.15,11.4,28.35,2.0,Gurgaon,PhD,Onsite
+EMP00357,  AI/ML Engineering  ,2024-01-01,,Y,,1.51,2.5,6.72,0.0,Chennai,Master's,Remote
+EMP00624,Cybersecurity,2019,,Working,,2.41,3.66,8.25,6.0,Mumbai,Bachelor's,Onsite
+EMP01247,Networking,2019-01-01,,1,,5.06,7.73,16.48,5.0,Chennai,bachelor's,Hybrid
+EMP01259,business analysis,2015.0,,Active,,3.81,5.26,12.62,9.0,HYDERABAD,MASTER'S,Onsite
+EMP00536,QA & Testing,2017-01-01,,1,,2.76,3.87,6.89,8.0,Delhi,Diploma,Onsite
+EMP02113,  Business Analysis  ,2017,2020,No,  Layoff  ,3.63,5.73,11.15,8.0,Delhi,Master's,Onsite
+EMP00804,DevOps,2023,,Y,,7.39,12.15,33.85,2.0,Noida,bachelor's,Hybrid
+EMP01376,Business Analysis,2023,,Y,,5.57,7.53,13.27,1.0,  Hyderabad  ,Bachelor's,Hybrid
+EMP01561,DATA SCIENCE,2016,,active,,5.33,7.94,20.07,8.0,Bangalore,Master's,Hybrid
+EMP01126,Cybersecurity,01/23,,Y,,7.34,11.69,25.83,2.0,Delhi,bachelor's,Onsite
+EMP00128,QA & Testing,2024,2024-01-01,N,Higher Salary Elsewhere,8.8,12.15,35.72,0.0,Delhi,Bachelor's,Onsite
+EMP01097,Cybersecurity,2023.0,,ACTIVE,,6.69,9.12,23.3,1.0,Delhi,Bachelor's,Onsite
+EMP00633,UI/UX Design,2019,,Y,,9.57,13.99,34.57,6.0,GURGAON,Master's,Hybrid
+EMP00292,ui/ux design,2023-01-01,01/24,N,Company Restructuring,7.25,10.28,18.9,2.0,Bangalore,Bachelor's,Hybrid
+EMP00551,Data Science,2018,,Active,,8.11,12.1,33.79,6.0,Chennai,MASTER'S,Onsite
+EMP00253,Networking,2022.0,2022,No,Higher Salary Elsewhere,5.53,9.36,20.23,2.0,Pune,Master's,Hybrid
+EMP00137,IT SUPPORT & HELPDESK,2020,,Active,,6.44,9.85,27.43,4.0,Mumbai,Master's,Hybrid
+EMP01617,QA & TESTING,2024,,active,,5.21,8.46,16.3,1.0,Chennai,,Hybrid
+EMP01066,UI/UX Design,2018,2020,0,Career Growth,6.85,11.01,20.97,6.0,  Gurgaon  ,Bachelor's,Hybrid
+EMP01351,data science,2019,,ACTIVE,,5.34,7.14,18.47,6.0,NOIDA,Bachelor's,Onsite
+EMP00716,software development,2023,2024,Resigned,RELOCATION,8.42,13.96,36.78,2.0,Delhi,bachelor's,Onsite
+EMP01201,IT Support & Helpdesk,2017-01-01,,Y,,3.18,4.25,10.01,7.0,Hyderabad,Master's,Onsite
+EMP02078,IT Support & Helpdesk,01/22,,1,,6.41,11.1,32.29,2.0,Mumbai,Bachelor's,Onsite
+EMP00572,,2024.0,2024.0,,career growth,9.83,,23.76,,,,
+EMP00709,  DevOps  ,2020,,Working,,5.82,10.25,28.13,4.0,Delhi,Master's,Onsite
+EMP00154,  Cloud Computing  ,2016-01-01,,ACTIVE,,7.89,11.09,29.79,8.0,Pune,Bachelor's,Hybrid
+EMP00769,Business Analysis,2019,,Working,,3.73,5.52,13.7,5.0,Delhi,Bachelor's,Onsite
+EMP00175,Database Administration,2022.0,,Y,,4.04,6.34,17.3,2.0,Mumbai,Bachelor's,WFH
+EMP01302,NETWORKING,2023,,Yes,,3.55,5.82,12.34,1.0,delhi,MASTER'S,Remote
+EMP01978,UI/UX DESIGN,2019.0,,Active,,1.66,2.82,5.18,6.0,GURGAON,Master's,Onsite
+EMP00660,QA & Testing,01/20,2023-01-01,0,Health Reasons,1.64,2.5,5.43,4.0,Chennai,Master's,Hybrid
+EMP01731,AI/ML Engineering,2017,2022-01-01,EXITED,  Company Restructuring  ,5.58,8.51,17.25,7.0,Delhi,Diploma,Hybrid
+EMP00836,Business Analysis,2015,,Y,,3.97,107.4,18.97,9.0,Delhi,Diploma,Onsite
+EMP01080,BUSINESS ANALYSIS,2024,,1,,3.85,6.79,18.57,0.0,delhi,Bachelor's,REMOTE
+EMP01133,UI/UX Design,2021-01-01,,Working,,4.95,7.79,13.3,4.0,gurgaon,Diploma,Remote
+EMP01128,IT Support & Helpdesk,2016,2022,No,career switch,4.92,6.56,17.17,8.0,GURGAON,Bachelor's,Hybrid
+EMP01002,BUSINESS ANALYSIS,2024,,Working,,4.36,7.06,19.13,0.0,Mumbai,Bachelor's,Remote
+EMP00427,Data Science,2016-01-01,,Working,,1.74,0.21,6.22,9.0,HYDERABAD,Bachelor's,Onsite
+EMP01178,Cloud Computing,2019,2021-01-01,exited,Relocation,1.83,3.02,7.1,6.0,Gurgaon,Master's,Hybrid
+EMP01249,it support & helpdesk,01/17,,Y,,4.58,6.83,12.19,7.0,Chennai,Master's,Hybrid
+EMP01568,ui/ux design,2018,,Active,,8.12,11.51,30.56,6.0,gurgaon,Bachelor's,onsite
+EMP01227,DevOps,2016-01-01,,Yes,,7.03,10.0,24.35,8.0,Chennai,Bachelor's,Hybrid
+EMP01093,,2020,,,,7.34,,22.51,,,,
+EMP00718,it support & helpdesk,01/16,,active,,2.05,3.0,5.59,8.0,  Gurgaon  ,Bachelor's,Remote
+EMP01981,CYBERSECURITY,2018,01/19,0,RETIREMENT,2.81,4.56,9.73,6.0,Delhi,Master's,Remote
+EMP01223,software development,2021,,Y,,6.26,8.56,22.23,3.0,  Hyderabad  ,Bachelor's,Hybrid
+EMP01855,Software Development,2019,,Y,,1.78,2.5,4.4,5.0,Delhi,Master's,Hybrid
+EMP00902,DATABASE ADMINISTRATION,2023,2024,Exited,Higher Salary Elsewhere,5.14,8.23,21.4,2.0,noida,Bachelor's,Hybrid
+EMP01708,,2024,,,,9.18,,25.63,,,,
+EMP00667,Cloud Computing,2015-01-01,,Y,,6.05,9.46,16.75,9.0,Noida,MASTER'S,Onsite
+EMP01874,software development,2016,,ACTIVE,,1.5,2.5,4.54,8.0,Chennai,Master's,Hybrid
+EMP02087,SOFTWARE DEVELOPMENT,2024,2024,Left,Layoff,3.81,5.82,16.34,1.0,Pune,MASTER'S,Onsite
+EMP02196,Networking,2022.0,,Active,,6.81,10.21,23.39,2.0,NOIDA,Bachelor's,WFH
+EMP02192,cloud computing,2022-01-01,,Active,,4.69,7.93,17.94,2.0,  Delhi  ,Bachelor's,Remote
+EMP00983,Database Administration,2015-01-01,,active,,4.74,6.65,15.68,9.0,Bangalore,Bachelor's,Remote
+EMP01248,DATA SCIENCE,01/21,,Active,,4.97,7.88,14.65,3.0,Delhi,Bachelor's,Hybrid
+EMP00519,Cloud Computing,01/20,,1,,3.74,5.23,10.12,4.0,Chennai,Master's,Onsite
+EMP01451,,2019,,,,7.08,,31.3,,,,
+EMP02110,Software Development,2023,,Y,,11.76,20.29,56.75,1.0,chennai,,Onsite
+EMP01932,Data Science,2024,,Working,,9.97,13.31,31.34,0.0,Bangalore,Bachelor's,Hybrid
+EMP02144,Cybersecurity,01/15,,1,,7.04,10.11,25.57,10.0,Pune,Bachelor's,Onsite
+EMP02076,DevOps,2024,,Active,,10.01,17.07,32.42,0.0,bangalore,Bachelor's,Onsite
+EMP00506,Data Science,01/24,,active,,8.89,12.69,36.64,0.0,Mumbai,Diploma,Onsite
+EMP00002,IT Support & Helpdesk,2016.0,2016,Left,Retirement,3.61,6.44,12.8,9.0,mumbai,Master's,Hybrid
+EMP00371,business analysis,2017,,active,,6.57,10.94,30.15,7.0,Pune,Bachelor's,Onsite
+EMP00183,AI/ML Engineering,2017-01-01,,ACTIVE,,6.46,9.8,26.32,7.0,Pune,Bachelor's,Remote
+EMP02012,  Software Development  ,2017,,Yes,,4.33,7.2,19.38,7.0,Chennai,Master's,Remote
+EMP01273,Cloud Computing,2019-01-01,,Yes,,8.18,11.6,22.95,5.0,Chennai,PhD,WFH
+EMP01632,ui/ux design,2022,01/22,exited,Relocation,6.7,10.57,30.32,2.0,bangalore,bachelor's,Remote
+EMP01721,Cybersecurity,2019,,Working,,3.65,5.74,16.69,6.0,Gurgaon,Bachelor's,Hybrid
+EMP00566,Cybersecurity,2017,,Y,,6.05,10.5,30.57,7.0,gurgaon,,Onsite
+EMP01659,Data Science,2023.0,,Working,,3.94,6.86,17.87,2.0,Chennai,Bachelor's,Hybrid
+EMP01922,Business Analysis,2016,,ACTIVE,,7.07,12.12,34.98,8.0,Gurgaon,Bachelor's,Hybrid
+EMP01791,business analysis,2022-01-01,,1,,4.91,7.81,17.32,2.0,HYDERABAD,Bachelor's,Onsite
+EMP00120,DATABASE ADMINISTRATION,2018,2019,exited,  Layoff  ,11.71,15.89,44.92,7.0,bangalore,MASTER'S,Remote
+EMP01300,,2015.0,,,,10.9,,33.2,,,,
+EMP00553,Software Development,2024.0,,1,,7.77,10.96,29.33,1.0,Gurgaon,,Remote
+EMP00509,AI/ML ENGINEERING,2015,2024,Resigned,Health Reasons,9.41,13.25,26.11,10.0,MUMBAI,Master's,Onsite
+EMP01578,devops,01/18,,active,,8.04,11.95,29.27,6.0,chennai,PhD,Onsite
+EMP01447,Data Science,2022-01-01,,ACTIVE,,12.35,16.62,31.91,3.0,mumbai,Bachelor's,Remote
+EMP00463,Software Development,2017.0,2024,EXITED,Work-Life Balance,2.01,3.19,8.93,7.0,Mumbai,Bachelor's,Remote
+EMP01454,IT SUPPORT & HELPDESK,2017,,ACTIVE,,3.84,6.92,17.12,7.0,Mumbai,MASTER'S,Hybrid
+EMP01601,AI/ML Engineering,2021,,1,,7.47,10.38,21.97,4.0,Pune,Master's,Onsite
+EMP01113,Networking,2017,2021-01-01,Left,  Career Switch  ,7.36,10.03,27.24,7.0,Noida,,Remote
+EMP00517,QA & TESTING,2020-01-01,2024,Resigned,Layoff,3.51,5.32,14.71,5.0,Mumbai,Bachelor's,Remote
+EMP00771,cybersecurity,2024,2024.0,No,higher studies,7.85,11.46,22.6,0.0,Hyderabad,Bachelor's,Hybrid
+EMP01328,QA & TESTING,01/15,,Yes,,4.61,6.23,15.36,9.0,Bangalore,Master's,Remote
+EMP00576,  Software Development  ,2016,,Yes,,4.25,6.13,17.22,8.0,Pune,Master's,Onsite
+EMP00168,Networking,2024,,Y,,7.68,13.03,23.59,0.0,Noida,,Hybrid
+EMP01563,  Business Analysis  ,01/21,,Yes,,2.45,4.34,12.17,4.0,DELHI,Diploma,Hybrid
+EMP00855,Business Analysis,2024,,1,,7.98,12.51,29.13,1.0,Delhi,Master's,Onsite
+EMP00293,AI/ML Engineering,2023,,1,,11.44,15.53,38.89,1.0,Mumbai,Bachelor's,Work From Home
+EMP01997,Business Analysis,01/15,2021,Left,HEALTH REASONS,10.86,15.92,31.63,10.0,Bangalore,Bachelor's,Work From Home
+EMP01078,DATA SCIENCE,2015-01-01,,Y,,7.44,10.73,23.26,9.0,Noida,Master's,Onsite
+EMP02068,Database Administration,2021,,Active,,8.45,12.21,36.04,3.0,chennai,PhD,Onsite
+EMP00082,IT Support & Helpdesk,2019,,Active,,8.37,12.78,26.52,5.0,Gurgaon,Bachelor's,Hybrid
+EMP01298,  Data Science  ,01/20,,Yes,,4.19,5.81,15.54,4.0,  Bangalore  ,Diploma,Onsite
+EMP00283,BUSINESS ANALYSIS,2016.0,,Yes,,1.85,2.5,6.13,9.0,chennai,Bachelor's,Remote
+EMP01043,Software Development,2023,,active,,5.81,8.34,21.94,1.0,Noida,PhD,Hybrid
+EMP00810,DevOps,2018,,Active,,5.99,0.49150000000000005,20.76,6.0,Chennai,Master's,Onsite
+EMP00998,  Networking  ,01/24,,Y,,6.0,8.75,14.89,0.0,noida,Bachelor's,Onsite
+EMP00625,Data Science,2020.0,2021,exited,  Health Reasons  ,6.8,11.74,28.01,5.0,Mumbai,Master's,Remote
+EMP01393,Software Development,2017-01-01,,active,,2.88,4.89,12.87,7.0,bangalore,bachelor's,Onsite
+EMP00656,UI/UX Design,2021,,active,,6.27,10.21,26.5,4.0,Delhi,Master's,Remote
+EMP00707,Data Science,2023-01-01,,Y,,6.04,9.22,21.65,1.0,  Pune  ,Bachelor's,Hybrid
+EMP02008,Database Administration,2019,,Active,,10.94,15.91,45.53,5.0,gurgaon,Bachelor's,Onsite
+EMP00426,QA & Testing,2022,,Working,,5.37,8.68,23.95,2.0,Bangalore,Bachelor's,Onsite
+EMP01403,Networking,01/16,,ACTIVE,,1.64,0.21,6.49,9.0,HYDERABAD,MASTER'S,Hybrid
+EMP02067,UI/UX Design,2021,,Working,,10.26,13.75,36.88,3.0,Pune,Bachelor's,Onsite
+EMP01265,,2024,,,,4.49,,14.88,,,,
+EMP00665,  Database Administration  ,2015-01-01,,active,,4.39,6.95,18.23,9.0,Mumbai,Bachelor's,onsite
+EMP00971,business analysis,2015-01-01,,Y,,4.69,6.44,12.86,9.0,  Mumbai  ,Master's,Remote
+EMP00649,Database Administration,2022,2022.0,Exited,Retirement,9.07,12.59,31.75,2.0,Bangalore,Bachelor's,Remote
+EMP01191,SOFTWARE DEVELOPMENT,2023,,1,,6.26,11.12,26.09,1.0,Delhi,MASTER'S,Hybrid
+EMP02085,IT Support & Helpdesk,2020-01-01,,ACTIVE,,11.45,18.84,39.48,5.0,Bangalore,Bachelor's,Hybrid
+EMP00141,QA & Testing,2015-01-01,,ACTIVE,,3.42,5.16,12.11,10.0,Noida,Bachelor's,Remote
+EMP00650,software development,2017,,Working,,5.13,7.99,22.26,8.0,CHENNAI,Bachelor's,Hybrid
+EMP00831,devops,01/16,,1,,3.95,5.38,12.32,9.0,Hyderabad,Master's,Remote
+EMP00241,Cloud Computing,2016,2017-01-01,Left,  Retirement  ,5.57,7.77,20.4,8.0,Bangalore,Diploma,Remote
+EMP01865,Software Development,2019-01-01,,Y,,10.42,14.55,27.49,5.0,Hyderabad,Diploma,Remote
+EMP01431,Business Analysis,2020-01-01,,Yes,,13.35,21.53,43.7,5.0,Delhi,Bachelor's,Remote
+EMP01207,UI/UX DESIGN,2024,,Active,,7.56,11.04,32.81,0.0,GURGAON,Bachelor's,WFH
+EMP00456,  Cloud Computing  ,2018,,active,,7.19,11.63,25.84,7.0,Hyderabad,MASTER'S,Hybrid
+EMP01829,IT Support & Helpdesk,2019.0,2023,Exited,higher studies,4.24,5.7,14.14,5.0,Delhi,Bachelor's,Hybrid
+EMP01488,Business_Analysis,2019,,Active,,6.15,9.99,25.99,6.0,Noida,bachelor's,onsite
+EMP01637,Software_Development,2021,,Active,,4.52,6.7,14.73,3.0,Pune,Master's,Hybrid
+EMP01385,Cybersecurity,2017-01-01,,Yes,,3.6,6.18,14.78,7.0,Bangalore,,Hybrid
+EMP00024,software development,2023-01-01,,Active,,13.78,18.52,37.79,1.0,PUNE,Bachelor's,Remote
+EMP01999,Data Science,2017-01-01,,active,,4.5,7.57,16.25,8.0,Pune,Master's,Remote
+EMP00843,Cloud_Computing,2021,01/21,EXITED,  Higher Studies  ,7.38,12.44,31.17,4.0,Delhi,Master's,Onsite
+EMP01660,cybersecurity,2018,2023,exited,HIGHER SALARY ELSEWHERE,7.64,11.42,29.91,7.0,Delhi,Master's,Hybrid
+EMP00521,AI/ML Engineering,2018.0,2019-01-01,EXITED,LAYOFF,2.42,3.77,9.84,6.0,  Bangalore  ,Master's,Remote
+EMP00488,Cybersecurity,2023,2023,0,Higher Studies,6.23,9.84,23.0,1.0,Hyderabad,Master's,Onsite
+EMP00813,Cloud Computing,2018,,active,,5.24,7.03,12.09,6.0,mumbai,Master's,Onsite
+EMP00905,Business Analysis,2015.0,,Working,,6.51,166.95000000000002,32.94,10.0,Bangalore,Diploma,Remote
+EMP01242,data science,2024-01-01,,ACTIVE,,7.85,11.49,33.86,0.0,Chennai,Master's,Remote
+EMP02091,AI/ML Engineering,2024,,Y,,5.02,8.86,23.27,1.0,  Chennai  ,Bachelor's,Hybrid
+EMP02135,UI/UX Design,2017.0,,ACTIVE,,1.8,2.63,7.68,7.0,  Chennai  ,Bachelor's,Hybrid
+EMP01295,  Networking  ,2016,,Active,,5.49,8.69,16.05,9.0,Delhi,Master's,Onsite
+EMP01254,CYBERSECURITY,2019,,active,,6.68,11.24,33.16,6.0,  Noida  ,PhD,Remote
+EMP00345,QA & Testing,01/16,,Active,,2.21,3.81,10.81,8.0,gurgaon,,Hybrid
+EMP00638,Data Science,2020-01-01,,Active,,2.4,3.93,7.64,5.0,Noida,Master's,Onsite
+EMP02168,Software Development,01/15,,Y,,6.12,10.9,31.8,9.0,Bangalore,,Remote
+EMP01940,Database Administration,2016,,Y,,1.85,3.25,5.58,8.0,noida,Diploma,Hybrid
+EMP01973,AI/ML ENGINEERING,2024,,Active,,9.52,14.07,35.87,1.0,Gurgaon,Master's,Hybrid
+EMP01008,networking,2024-01-01,,ACTIVE,,4.97,7.43,16.63,0.0,NOIDA,Diploma,Onsite
+EMP00097,UI/UX DESIGN,2017,,1,,11.85,17.64,47.9,7.0,Pune,Master's,Onsite
+EMP00695,ui/ux design,2023,,1,,6.47,9.95,27.14,1.0,CHENNAI,MASTER'S,Work From Home
+EMP00705,UI/UX Design,2024,,ACTIVE,,10.05,14.71,39.98,0.0,Gurgaon,Bachelor's,Hybrid
+EMP00939,Cloud Computing,2021,,Working,,4.54,7.45,15.78,3.0,Noida,Master's,Remote
+EMP00669,cybersecurity,2015,,1,,3.61,5.23,14.54,9.0,Mumbai,Bachelor's,onsite
+EMP01549,,2024-01-01,,,,7.4,,38.26,,,,
+EMP01571,AI/ML ENGINEERING,2019.0,,active,,1.62,2.5,5.11,5.0,Mumbai,Diploma,Onsite
+EMP00423,  Cloud Computing  ,2015-01-01,,Active,,5.21,9.18,19.77,9.0,Bangalore,Master's,Onsite
+EMP01814,,2016,,,,3.72,,14.88,,,,
+EMP01879,  Database Administration  ,2016.0,,active,,13.15,17.76,41.01,8.0,pune,Bachelor's,Remote
+EMP02046,AI/ML Engineering,2022.0,,ACTIVE,,6.5,10.6,18.22,2.0,Gurgaon,Master's,Hybrid
+EMP00396,QA & Testing,2016.0,,Yes,,8.66,12.19,30.2,8.0,DELHI,Master's,Remote
+EMP02127,AI/ML ENGINEERING,2016,,active,,2.23,3.49,8.07,8.0,noida,Bachelor's,Hybrid
+EMP01276,DATABASE ADMINISTRATION,2015,,Yes,,5.33,8.22,16.4,9.0,GURGAON,Master's,Work From Home
+EMP01567,NETWORKING,2021,,ACTIVE,,11.33,15.9,43.43,3.0,MUMBAI,Diploma,Work From Home
+EMP01344,Data Science,2021,,ACTIVE,,6.92,12.12,23.45,4.0,Mumbai,MASTER'S,Onsite
+EMP01610,Business Analysis,01/16,,1,,6.96,9.87,16.87,8.0,gurgaon,Master's,Onsite
+EMP00741,IT Support & Helpdesk,2024,,Working,,6.69,11.77,33.87,0.0,Chennai,Bachelor's,Remote
+EMP01153,Business_Analysis,01/23,,Active,,5.4,0.79,19.42,1.0,Noida,Master's,WFH
+EMP00377,DATABASE ADMINISTRATION,2020,,Y,,2.3,3.66,8.61,5.0,  Hyderabad  ,Master's,Remote
+EMP00072,BUSINESS ANALYSIS,01/19,,ACTIVE,,6.0,8.07,14.31,6.0,Gurgaon,Bachelor's,REMOTE
+EMP00767,Data Science,2021,,ACTIVE,,9.91,16.23,42.98,3.0,hyderabad,Bachelor's,Hybrid
+EMP00313,business analysis,01/21,2022,EXITED,Work-Life Balance,10.02,15.19,33.77,3.0,Chennai,Diploma,Remote
+EMP01177,Cybersecurity,2021-01-01,2023,EXITED,Career Switch,11.98,17.09,49.99,4.0,Pune,Bachelor's,REMOTE
+EMP01347,Cybersecurity,2020,,1,,6.44,9.47,17.23,4.0,chennai,Master's,Onsite
+EMP01828,NETWORKING,2024,2024,EXITED,Work-Life Balance,3.47,5.63,10.32,1.0,Hyderabad,bachelor's,Onsite
+EMP00918,networking,2022,,Active,,5.27,8.84,24.54,2.0,Noida,bachelor's,Onsite
+EMP00733,Database Administration,2023,2023,EXITED,Retirement,9.38,13.49,26.52,1.0,Gurgaon,Bachelor's,Hybrid
+EMP00858,Software Development,2021,,active,,6.26,11.18,25.59,3.0,Noida,Bachelor's,Remote
+EMP01514,Networking,2022,,1,,4.24,7.6,13.11,2.0,MUMBAI,Diploma,Onsite
+EMP00931,  QA & Testing  ,01/23,,ACTIVE,,7.91,0.93,32.09,1.0,Gurgaon,Master's,WFH
+EMP02149,Cloud Computing,2015,,Active,,4.88,7.22,18.82,9.0,Delhi,Bachelor's,Remote
+EMP01905,  Cloud Computing  ,2020,,Active,,4.02,0.3025,16.11,4.0,bangalore,bachelor's,Onsite
+EMP00359,ai/ml engineering,2015,,active,,5.24,7.2,15.24,10.0,Pune,Master's,Onsite
+EMP00310,Cybersecurity,2018-01-01,,active,,1.71,2.91,6.14,7.0,Gurgaon,Diploma,Hybrid
+EMP00138,DevOps,01/23,,Working,,3.53,5.05,13.57,1.0,Noida,bachelor's,Onsite
+EMP00785,BUSINESS ANALYSIS,2021.0,,Y,,3.95,6.9,18.43,4.0,Chennai,Bachelor's,Work From Home
+EMP01969,DATA SCIENCE,2017,,Active,,6.71,9.39,17.47,7.0,Chennai,Bachelor's,Hybrid
+EMP00337,,2018,2024,,career switch,6.65,,24.26,,,,
+EMP01679,cybersecurity,01/19,,Yes,,5.02,8.34,18.77,5.0,gurgaon,Master's,Onsite
+EMP02096,ui/ux design,2022,2023-01-01,exited,Health Reasons,8.82,14.97,32.6,2.0,Noida,Master's,Onsite
+EMP00726,Business Analysis,2023,,Yes,,3.53,5.43,9.99,1.0,Delhi,Master's,Hybrid
+EMP01607,  Cybersecurity  ,01/18,,1,,14.37,20.62,59.64,6.0,Hyderabad,,WFH
+EMP01899,ui/ux design,2015,,Y,,2.88,4.12,8.32,9.0,Chennai,Master's,Onsite
+EMP00286,software development,2016,,Active,,5.91,7.94,15.03,8.0,HYDERABAD,Master's,Remote
+EMP01069,,2020,,,,9.73,,25.86,,,,
+EMP01334,QA & TESTING,2019.0,,Y,,4.39,6.06,16.27,5.0,pune,Master's,Onsite
+EMP01016,NETWORKING,2016,,Yes,,7.0,10.63,30.91,9.0,CHENNAI,Master's,REMOTE
+EMP00421,  Data Science  ,2024,2024,N,Career Switch,5.01,8.04,19.07,1.0,HYDERABAD,Master's,Remote
+EMP00498,Database Administration,2021,,ACTIVE,,5.9,9.15,15.94,4.0,Delhi,Bachelor's,Remote
+EMP00526,QA & Testing,01/23,,Yes,,11.77,16.2,39.75,1.0,NOIDA,MASTER'S,Onsite
+EMP00105,Cybersecurity,2021-01-01,,Active,,7.47,11.75,29.78,3.0,BANGALORE,Diploma,Remote
+EMP02107,Networking,2020,01/20,EXITED,career growth,10.07,14.74,34.27,4.0,Noida,MASTER'S,Hybrid
+EMP00272,ai/ml engineering,2018,,Yes,,8.73,14.47,41.98,6.0,GURGAON,Master's,Onsite
+EMP00273,Database Administration,2022.0,,active,,7.89,12.1,30.44,3.0,Delhi,Master's,Onsite
+EMP01951,  Database Administration  ,2021,,active,,5.97,8.91,17.69,3.0,Hyderabad,Master's,Onsite
+EMP01904,QA & TESTING,2022,2022-01-01,EXITED,Company_Restructuring,8.84,11.94,25.42,3.0,Bangalore,Master's,Onsite
+EMP00479,DevOps,2024,,Active,,8.42,12.38,22.34,1.0,  Mumbai  ,Bachelor's,Remote
+EMP00074,,2019,,,,8.37,,42.7,,,,
+EMP00302,Data_Science,2016,,Active,,5.55,7.6,13.17,9.0,Delhi,Bachelor's,Remote
+EMP01280,CLOUD COMPUTING,2024,2024-01-01,exited,Relocation,8.67,11.92,21.01,1.0,Mumbai,Bachelor's,Remote
+EMP00034,devops,2021,,active,,6.75,11.94,21.7,3.0,  Mumbai  ,Master's,Hybrid
+EMP01486,DevOps,2021,,Y,,4.28,6.74,15.75,3.0,Mumbai,bachelor's,Onsite
+EMP00513,AI/ML Engineering,2019-01-01,,Y,,2.34,4.07,9.37,5.0,Pune,Bachelor's,WFH
+EMP00993,QA_&_Testing,2018.0,,active,,9.16,13.9,34.97,6.0,Pune,Diploma,Remote
+EMP00454,Software Development,2022,,Active,,4.64,7.2,13.07,3.0,Bangalore,Master's,Remote
+EMP02137,  UI/UX Design  ,2021-01-01,,Yes,,6.57,10.39,20.1,3.0,Pune,MASTER'S,Onsite
+EMP02185,Cybersecurity,2024,,Yes,,7.17,9.61,21.13,0.0,delhi,Bachelor's,Onsite
+EMP00093,Cloud Computing,2021,,active,,5.61,9.75,26.42,4.0,Pune,Diploma,Onsite
+EMP02199,Software Development,2022,2024,Exited,Work-Life Balance,7.35,9.85,19.29,3.0,Pune,Bachelor's,Onsite
+EMP01419,UI/UX Design,01/17,,Active,,6.88,9.62,27.28,7.0,mumbai,MASTER'S,Remote
+EMP01260,Data Science,2023,,ACTIVE,,6.55,8.84,19.38,2.0,Pune,PhD,Onsite
+EMP00634,DevOps,2018,,Active,,5.26,0.69,16.6,6.0,mumbai,Bachelor's,Onsite
+EMP00419,UI/UX Design,2021,,Yes,,8.67,11.75,24.3,3.0,hyderabad,Master's,Work From Home
+EMP00979,Cloud Computing,2021,,ACTIVE,,8.16,14.07,29.67,3.0,Hyderabad,Diploma,Hybrid
+EMP01462,ai/ml engineering,2024,2024.0,0,COMPANY RESTRUCTURING,11.32,16.39,46.35,0.0,Chennai,Bachelor's,Remote
+EMP00383,DevOps,2023-01-01,,Working,,5.99,9.17,19.65,1.0,Hyderabad,Bachelor's,Remote
+EMP01006,Cloud Computing,01/20,,Yes,,11.69,15.68,43.92,4.0,Delhi,Master's,Remote
+EMP01164,AI/ML Engineering,2015.0,2018,Resigned,Higher Salary Elsewhere,3.24,5.27,12.83,10.0,Gurgaon,Bachelor's,Remote
+EMP01867,DATABASE ADMINISTRATION,2016-01-01,,Yes,,3.32,5.06,13.57,9.0,Mumbai,Bachelor's,Hybrid
+EMP01493,DATA SCIENCE,2022-01-01,,Yes,,6.7,11.28,32.96,2.0,  Bangalore  ,Master's,Hybrid
+EMP00659,UI/UX Design,01/21,01/24,EXITED,Layoff,10.81,17.63,40.21,4.0,Gurgaon,Bachelor's,Onsite
+EMP00296,Cloud Computing,2022,2022,N,CAREER GROWTH,10.5,14.21,41.52,2.0,mumbai,Master's,Onsite
+EMP01570,Cloud Computing,2021,,ACTIVE,,10.47,14.45,28.25,3.0,noida,Master's,Onsite
+EMP01715,QA & Testing,2017,,active,,5.6,9.99,18.91,8.0,gurgaon,Bachelor's,onsite
+EMP00030,Cybersecurity,2015,2023-01-01,EXITED,Health Reasons,4.63,6.33,16.96,9.0,PUNE,Bachelor's,Onsite
+EMP01972,DevOps,2016,,Active,,1.87,2.75,4.74,8.0,Mumbai,Master's,Work From Home
+EMP00663,Cybersecurity,2021-01-01,,1,,9.93,0.8140000000000001,43.95,3.0,Gurgaon,Bachelor's,Hybrid
+EMP00636,cloud computing,2021,,Active,,3.49,5.61,10.87,3.0,bangalore,Diploma,WFH
+EMP00817,UI/UX Design,2023,2024,N,career switch,9.95,13.44,36.78,1.0,chennai,Bachelor's,Hybrid
+EMP02093,Cybersecurity,2023,,ACTIVE,,6.03,8.25,21.79,1.0,Delhi,Diploma,Hybrid
+EMP02106,ai/ml engineering,2023,01/24,EXITED,retirement,10.19,13.72,38.98,1.0,MUMBAI,Master's,Onsite
+EMP01902,DevOps,2020.0,,ACTIVE,,6.12,10.73,21.59,5.0,Pune,Master's,Onsite
+EMP00792,QA & Testing,2021-01-01,,active,,9.08,13.87,32.5,3.0,Pune,MASTER'S,Hybrid
+EMP01022,Software Development,2018,,1,,2.24,3.03,8.5,6.0,bangalore,Bachelor's,REMOTE
+EMP01898,Business Analysis,2020.0,,Yes,,9.95,14.82,37.55,4.0,Mumbai,Bachelor's,Remote
+EMP00077,Business Analysis,01/23,,Working,,7.7,0.98,20.04,1.0,hyderabad,Diploma,Remote
+EMP00827,  Networking  ,2016-01-01,2016.0,Left,Company Restructuring,7.73,11.72,27.05,8.0,noida,Bachelor's,Hybrid
+EMP00849,software development,2022,,active,,8.91,12.9,28.66,2.0,Mumbai,Master's,Onsite
+EMP00260,Database Administration,2016,2016,EXITED,  Higher Salary Elsewhere  ,7.78,10.81,24.43,8.0,gurgaon,Bachelor's,Onsite
+EMP01371,QA & Testing,2024.0,,Yes,,4.93,6.71,14.27,0.0,bangalore,Bachelor's,Work From Home
+EMP01495,AI/ML Engineering,2022,,Yes,,5.63,0.84,27.59,2.0,Gurgaon,Master's,Hybrid
+EMP02010,qa & testing,01/22,,1,,2.91,4.46,11.67,2.0,Delhi,Master's,Hybrid
+EMP00163,data science,2020.0,2024,exited,Higher Studies,11.5,16.94,49.87,4.0,Delhi,Bachelor's,Onsite
+EMP01553,AI/ML Engineering,2016.0,,ACTIVE,,3.02,5.29,13.37,9.0,bangalore,Bachelor's,Remote
+EMP01900,DevOps,2022-01-01,,Working,,8.14,11.78,33.58,3.0,Noida,Diploma,Remote
+EMP00010,IT Support & Helpdesk,01/15,,active,,7.0,10.4,19.69,9.0,Gurgaon,Bachelor's,Hybrid
+EMP01266,Database_Administration,2016,2021,N,Health_Reasons,5.71,0.86,23.94,8.0,Noida,Master's,Onsite
+EMP01544,Data Science,2016.0,2022,Left,  Retirement  ,6.63,10.89,28.34,8.0,Chennai,Master's,Onsite
+EMP02054,Database Administration,2021-01-01,,active,,2.59,4.35,9.22,3.0,Pune,Bachelor's,Hybrid
+EMP01838,Cybersecurity,2024-01-01,,Active,,6.9,11.06,19.67,0.0,  Noida  ,PhD,Hybrid
+EMP00876,devops,2024,,1,,5.24,0.78,23.27,0.0,Chennai,Master's,Remote
+EMP00534,DevOps,2023,,active,,3.17,5.36,9.56,1.0,  Mumbai  ,Bachelor's,Onsite
+EMP01067,Cloud_Computing,2019-01-01,2021,N,Relocation,10.11,13.9,40.24,5.0,delhi,Master's,Hybrid
+EMP00127,Cybersecurity,2020-01-01,,Working,,6.31,11.45,27.2,4.0,Chennai,PhD,Hybrid
+EMP00318,,2016,2022,,Work-Life Balance,3.7,,13.36,,,,
+EMP00678,,01/24,2024-01-01,,higher studies,4.63,,19.01,,,,
+EMP01734,DevOps,2023-01-01,2023,Resigned,Relocation,7.13,12.47,27.26,2.0,NOIDA,Master's,Onsite
+EMP01810,  Networking  ,2023,,1,,4.62,7.58,17.73,1.0,GURGAON,Diploma,Onsite
+EMP02147,software development,2022,,Yes,,6.29,8.81,17.8,2.0,hyderabad,Bachelor's,Onsite
+,,,,,,,,,,,,
+EMP01594,Software Development,2019,2023-01-01,0,  Higher Salary Elsewhere  ,7.63,12.48,34.71,5.0,Pune,Bachelor's,Onsite
+EMP00871,Database Administration,2019,2021.0,0,  Retirement  ,6.46,9.12,23.76,6.0,mumbai,Master's,REMOTE
+EMP00989,AI/ML ENGINEERING,01/15,,ACTIVE,,9.41,13.4,36.32,9.0,DELHI,Master's,Hybrid
+EMP02070,UI/UX DESIGN,2022-01-01,,Yes,,8.75,12.36,34.16,3.0,Delhi,bachelor's,Hybrid
+EMP00324,IT Support & Helpdesk,2019,,Working,,2.8,4.56,11.8,5.0,Mumbai,Diploma,Onsite
+EMP00319,Software Development,2022,,Y,,3.9,0.59,16.01,3.0,mumbai,bachelor's,REMOTE
+EMP02176,Business Analysis,2020,,Active,,7.42,11.73,32.23,4.0,gurgaon,Diploma,Hybrid
+EMP01794,,2019,,,,6.63,,18.02,,,,
+EMP01206,Business_Analysis,2023,,1,,7.19,10.74,31.43,1.0,Chennai,,Onsite
+EMP01751,NETWORKING,2017,2021,0,HIGHER STUDIES,8.2,0.6970000000000001,36.17,7.0,Hyderabad,Master's,Hybrid
+EMP01003,Data Science,2023,,Working,,9.79,14.94,33.01,1.0,Noida,Master's,Onsite
+EMP00491,  Software Development  ,2019-01-01,2020,EXITED,LAYOFF,4.54,6.74,19.47,5.0,  Mumbai  ,Bachelor's,Hybrid
+EMP01958,QA & Testing,2024,,Y,,6.21,11.1,26.9,0.0,  Delhi  ,Master's,Remote
+EMP00035,Networking,2022,,active,,1.38,2.5,5.85,2.0,Noida,Bachelor's,Onsite
+EMP00380,DEVOPS,2024,,Working,,7.24,12.86,37.31,0.0,Noida,Bachelor's,Hybrid
+EMP01946,Cloud Computing,2020,,Active,,4.45,7.72,15.2,4.0,HYDERABAD,Bachelor's,Remote
+EMP00325,Cybersecurity,2020,,Yes,,8.57,11.88,24.21,4.0,Bangalore,Bachelor's,Hybrid
+EMP02142,Cloud Computing,2016,,active,,8.53,11.65,34.92,8.0,pune,Master's,Hybrid
+EMP01841,,2015,2015.0,,LAYOFF,5.17,,21.17,,,,
+EMP01075,DevOps,2016,,Working,,9.43,12.97,30.63,8.0,delhi,Master's,Remote
+EMP01322,IT Support & Helpdesk,2018,2024,Resigned,Company Restructuring,6.41,10.25,26.77,6.0,  Mumbai  ,Bachelor's,Onsite
+EMP00746,Networking,2023,2023,0,Company_Restructuring,5.09,7.93,18.03,2.0,Hyderabad,Diploma,Remote
+EMP01144,  DevOps  ,2021,,Y,,3.96,5.91,17.7,3.0,Mumbai,Master's,Hybrid
+EMP01401,qa & testing,2016,01/20,Resigned,Relocation,7.66,10.49,25.04,9.0,Bangalore,Master's,Onsite
+EMP00132,AI/ML Engineering,2018,2023.0,0,Higher Salary Elsewhere,4.26,7.45,14.48,6.0,Pune,Bachelor's,WFH
+EMP02024,software development,2019,2021,N,HIGHER SALARY ELSEWHERE,3.04,4.6,13.32,6.0,Hyderabad,Master's,Hybrid
+EMP00898,CLOUD COMPUTING,2023.0,,Yes,,4.31,6.22,15.85,1.0,Pune,Bachelor's,Remote
+EMP00965,,2019,,,,8.67,,27.69,,,,
+EMP01641,Cloud Computing,2017,,Y,,3.76,5.62,15.66,8.0,Chennai,Bachelor's,Remote
+EMP01204,Data Science,2017,,ACTIVE,,6.31,8.71,24.94,8.0,Chennai,Bachelor's,Hybrid
+EMP00535,networking,2023,,Y,,6.35,0.92,28.41,2.0,Hyderabad,Master's,onsite
+EMP00676,Networking,2019.0,,Active,,1.47,2.5,6.53,5.0,BANGALORE,Master's,Onsite
+EMP00938,DevOps,2015,,Working,,3.0,4.38,11.13,9.0,GURGAON,Master's,Onsite
+EMP02084,Database Administration,2023,01/23,Left,  Work-Life Balance  ,5.32,8.76,20.67,2.0,Delhi,bachelor's,Hybrid
+EMP00391,Business Analysis,2020,,active,,7.22,10.14,24.71,4.0,bangalore,Bachelor's,Onsite
+EMP01161,  Business Analysis  ,2019.0,2021,Resigned,Health Reasons,8.17,11.41,31.76,5.0,Noida,Master's,Onsite
+EMP00992,IT SUPPORT & HELPDESK,2024,,ACTIVE,,6.68,8.97,17.62,0.0,Chennai,Master's,Hybrid
+EMP01317,Database Administration,2015,,Yes,,2.33,3.38,6.71,10.0,mumbai,Bachelor's,Onsite
+EMP00812,,2022,2023,,Career Switch,6.12,,18.71,,,,
+EMP01400,DATABASE ADMINISTRATION,2019,2020-01-01,EXITED,Higher Studies,8.99,1.0,27.17,5.0,Delhi,PhD,Onsite
+EMP00894,qa & testing,2023,,Active,,8.17,13.17,32.02,1.0,BANGALORE,Master's,Remote
+EMP01185,DEVOPS,2022,2023-01-01,Exited,Company Restructuring,1.52,2.5,4.61,2.0,delhi,Master's,Hybrid
+EMP01926,AI/ML Engineering,2022,,Working,,4.76,7.54,13.8,3.0,Hyderabad,Diploma,Remote
+EMP00094,QA & Testing,2022,2024-01-01,Resigned,Relocation,6.09,9.8,27.5,2.0,  Noida  ,Master's,Remote
+EMP00437,business analysis,2023,,Active,,8.11,12.68,26.86,1.0,hyderabad,Bachelor's,Hybrid
+EMP01052,DATA SCIENCE,2023,,Working,,9.31,12.85,35.57,2.0,pune,Bachelor's,Hybrid
+EMP01542,AI/ML Engineering,2022,2022,No,Layoff,4.01,6.28,11.49,2.0,  Hyderabad  ,PhD,Hybrid
+EMP00022,Cloud Computing,01/16,,ACTIVE,,4.98,8.92,24.2,9.0,  Hyderabad  ,Master's,Remote
+EMP01234,Database Administration,2018-01-01,,Y,,4.48,6.89,13.38,6.0,hyderabad,Master's,Hybrid
+EMP00805,Database_Administration,2020-01-01,,Working,,7.28,10.45,25.71,4.0,mumbai,Master's,Remote
+EMP00838,Business Analysis,2021,,Yes,,3.4,5.4,15.51,3.0,Pune,Bachelor's,Hybrid
+EMP00404,Business_Analysis,2016,,ACTIVE,,7.06,10.04,21.07,9.0,mumbai,Master's,Onsite
+EMP01690,  Data Science  ,2021,01/23,N,Retirement,6.62,9.64,25.19,3.0,Mumbai,Bachelor's,Remote
+EMP01521,SOFTWARE DEVELOPMENT,01/20,,Y,,3.39,5.19,12.68,5.0,Gurgaon,Bachelor's,Hybrid
+EMP00673,IT_Support_&_Helpdesk,01/24,,ACTIVE,,7.88,11.94,27.04,1.0,Chennai,Bachelor's,Onsite
+EMP00933,Cloud_Computing,2016,2020-01-01,Left,Health Reasons,5.5,7.77,18.69,8.0,Chennai,,Onsite
+EMP01389,DATABASE ADMINISTRATION,2023,2024.0,EXITED,RETIREMENT,7.73,13.0,37.44,1.0,  Delhi  ,MASTER'S,Hybrid
+EMP02051,ui/ux design,2020,2023,Left,WORK-LIFE BALANCE,10.88,18.25,46.86,4.0,Mumbai,Master's,Remote
+EMP00602,Business_Analysis,2021,,Yes,,3.29,5.24,13.86,4.0,HYDERABAD,Bachelor's,Onsite
+EMP01615,UI/UX Design,2019-01-01,,active,,4.01,5.54,14.41,5.0,Gurgaon,Master's,Remote
+EMP01984,IT SUPPORT & HELPDESK,2019-01-01,,Y,,5.07,8.54,17.41,5.0,DELHI,Master's,Hybrid
+EMP01888,IT Support & Helpdesk,2020,,Working,,1.68,2.5,5.51,4.0,Pune,Bachelor's,Remote
+EMP00326,database administration,2016,2021,EXITED,retirement,5.99,8.08,20.51,8.0,CHENNAI,Bachelor's,REMOTE
+EMP00844,Cloud Computing,2022-01-01,,1,,5.06,7.09,19.89,2.0,  Chennai  ,bachelor's,REMOTE
+EMP01706,UI/UX Design,2022,,Active,,6.31,10.61,28.97,2.0,Chennai,Master's,Onsite
+EMP00575,UI/UX Design,2017.0,01/22,EXITED,HEALTH REASONS,3.71,5.66,13.77,8.0,Chennai,Diploma,REMOTE
+EMP01115,Cybersecurity,01/19,,Yes,,6.65,9.64,27.68,5.0,Hyderabad,PhD,Remote
+EMP01595,Cybersecurity,01/20,,1,,1.44,2.5,6.87,4.0,Hyderabad,Bachelor's,Hybrid
+EMP01473,QA & Testing,2019,,ACTIVE,,1.76,2.5,6.59,5.0,HYDERABAD,Bachelor's,Onsite
+EMP00417,Software Development,2022-01-01,01/22,Resigned,work-life balance,6.07,8.61,22.42,2.0,Gurgaon,Diploma,Hybrid
+EMP00333,database administration,2015,,ACTIVE,,3.84,78.75,12.95,9.0,Pune,Bachelor's,WFH
+EMP00623,QA & Testing,01/16,,Y,,6.6,11.51,29.79,8.0,BANGALORE,PhD,Remote
+EMP01772,Business Analysis,01/20,,Yes,,5.26,7.38,17.46,4.0,pune,Master's,onsite
+EMP00265,Data Science,2022-01-01,,Y,,10.96,15.94,32.76,2.0,Hyderabad,Bachelor's,Remote
+EMP00384,  Cloud Computing  ,2021.0,2023,No,  Retirement  ,3.47,6.01,14.5,3.0,bangalore,Bachelor's,Hybrid
+EMP00531,,2023-01-01,,,,8.16,,30.07,,,,
+EMP01068,NETWORKING,2021,,Active,,1.54,2.5,5.47,3.0,Noida,Bachelor's,Onsite
+EMP00434,Software Development,2018-01-01,2019-01-01,N,Career Switch,7.87,11.0,31.21,6.0,Pune,Bachelor's,Hybrid
+EMP01021,Business Analysis,2019,,Working,,3.59,4.87,12.37,5.0,Bangalore,PhD,Hybrid
+EMP00985,UI/UX_Design,2017,,Active,,6.15,10.97,30.34,7.0,delhi,Bachelor's,REMOTE
+EMP01864,IT Support & Helpdesk,2016-01-01,,ACTIVE,,7.79,11.57,33.13,8.0,PUNE,Master's,Onsite
+EMP01297,  Business Analysis  ,2018,,Y,,7.77,13.64,25.6,6.0,Chennai,Master's,Hybrid
+EMP00268,cybersecurity,2020,,1,,6.29,10.74,23.42,4.0,Bangalore,bachelor's,REMOTE
+EMP02033,IT Support & Helpdesk,01/18,,Active,,3.41,5.15,15.22,6.0,Delhi,Diploma,Onsite
+EMP00119,IT SUPPORT & HELPDESK,2024.0,,1,,4.63,8.11,17.2,1.0,NOIDA,Bachelor's,Onsite
+EMP02155,networking,01/16,01/23,Exited,Higher Studies,9.83,14.35,35.9,8.0,Pune,Diploma,WFH
+EMP01800,Database Administration,2023,,Working,,7.04,11.62,30.42,1.0,Hyderabad,Master's,Remote
+EMP01743,Data Science,2016.0,2016-01-01,Left,Career Switch,7.84,11.06,26.65,9.0,pune,Bachelor's,Hybrid
+EMP01226,AI/ML_Engineering,2022.0,,Yes,,6.22,9.41,18.47,2.0,Chennai,Master's,Remote
+EMP00593,Software Development,2020.0,,active,,5.99,8.02,14.98,5.0,HYDERABAD,Master's,Remote
+EMP01060,Business Analysis,2020-01-01,2023-01-01,EXITED,company restructuring,5.02,8.17,24.49,5.0,GURGAON,Bachelor's,Onsite
+EMP01155,Business Analysis,2020,,Y,,10.4,15.08,26.96,4.0,  Hyderabad  ,Bachelor's,Hybrid
+EMP01858,Business Analysis,2022,,active,,3.89,6.7,15.93,3.0,NOIDA,Diploma,Onsite
+EMP01889,Data Science,2018,2022,No,Company Restructuring,7.85,10.66,23.93,6.0,Hyderabad,Bachelor's,Hybrid
+EMP00505,Business Analysis,2016,,Working,,3.09,4.88,12.57,8.0,Delhi,Bachelor's,WFH
+EMP00486,  AI/ML Engineering  ,2022,,Y,,4.65,7.53,18.86,2.0,Chennai,Bachelor's,Remote
+EMP00591,ai/ml engineering,2023.0,,ACTIVE,,6.95,10.3,18.63,1.0,NOIDA,Bachelor's,onsite
+EMP01381,Data Science,2017,2020,N,CAREER GROWTH,3.63,6.05,16.45,8.0,PUNE,Master's,Onsite
+EMP01652,  Business Analysis  ,01/16,,Yes,,9.57,14.27,34.46,8.0,HYDERABAD,Master's,Hybrid
+EMP02039,DevOps,2018.0,,Working,,8.78,12.53,36.57,7.0,Hyderabad,PhD,Onsite
+EMP00200,UI/UX Design,2020-01-01,,Y,,5.55,10.09,26.94,5.0,PUNE,Diploma,Hybrid
+EMP01792,  Software Development  ,2016-01-01,,Yes,,4.28,7.13,13.36,9.0,Bangalore,PhD,REMOTE
+EMP01496,DevOps,2021,,1,,3.73,5.88,14.6,3.0,Chennai,Bachelor's,Onsite
+EMP00297,  Networking  ,2016,2024-01-01,No,Work-Life Balance,8.69,15.65,37.04,8.0,Chennai,Bachelor's,Hybrid
+EMP00100,  AI/ML Engineering  ,2016,,Yes,,4.5,6.41,12.1,8.0,Chennai,Bachelor's,Hybrid
+EMP01730,Cybersecurity,01/20,,Yes,,10.23,14.37,42.14,4.0,PUNE,Bachelor's,Onsite
+EMP01183,UI/UX Design,01/16,2020,Left,Career Growth,10.14,17.07,39.81,8.0,Noida,Bachelor's,Onsite
+EMP00233,Cybersecurity,2021,,Active,,9.87,13.69,25.12,3.0,Chennai,Master's,Work From Home
+EMP01556,  Networking  ,2015,,Working,,1.74,2.5,7.28,9.0,chennai,Bachelor's,onsite
+EMP01833,  IT Support & Helpdesk  ,2016-01-01,,Yes,,1.62,2.5,4.36,8.0,Delhi,Bachelor's,Onsite
+EMP00407,  IT Support & Helpdesk  ,2022,2023,N,  Career Switch  ,9.72,15.45,30.92,3.0,PUNE,,Remote
+EMP00840,CLOUD COMPUTING,2023-01-01,,Yes,,10.97,16.87,33.0,1.0,Mumbai,Master's,Remote
+EMP01712,Software Development,2018,2020.0,0,  Layoff  ,3.57,5.9,10.37,6.0,PUNE,Bachelor's,onsite
+EMP01329,Networking,2022,,ACTIVE,,2.32,3.79,8.77,3.0,  Bangalore  ,Master's,Onsite
+EMP00632,  IT Support & Helpdesk  ,2017,,1,,5.36,8.29,23.72,7.0,Noida,Bachelor's,Remote
+EMP00317,,2015.0,,,,11.18,,33.6,,,,
+EMP00472,Networking,2015,,Working,,4.85,8.47,22.39,9.0,Hyderabad,Bachelor's,Onsite
+EMP02022,ai/ml engineering,2022,2024,0,Work-Life Balance,7.83,10.62,25.37,2.0,  Delhi  ,Bachelor's,Onsite
+,,,,,,,,,,,,
+EMP01406,  Database Administration  ,2019-01-01,2024.0,0,Retirement,8.75,15.66,40.23,5.0,Chennai,Bachelor's,Remote
+EMP02100,BUSINESS ANALYSIS,2018,,ACTIVE,,6.19,9.69,23.39,6.0,mumbai,PhD,Remote
+EMP01728,Networking,2016-01-01,,1,,3.62,5.94,16.87,8.0,gurgaon,Bachelor's,Onsite
+EMP00476,Database Administration,2017,2020,Left,retirement,7.47,11.88,24.35,8.0,  Mumbai  ,Master's,WFH
+EMP00868,Networking,2020,,1,,2.68,4.83,9.73,4.0,Bangalore,Diploma,Onsite
+EMP00643,Cloud Computing,2024,,Yes,,4.07,6.6,15.22,0.0,Mumbai,Master's,Remote
+EMP02030,AI/ML ENGINEERING,2023,,Yes,,6.39,11.37,19.49,1.0,Hyderabad,Master's,Hybrid
+EMP01383,Networking,2024-01-01,,Active,,5.97,9.35,18.65,0.0,Gurgaon,Bachelor's,Remote
+EMP01650,UI/UX DESIGN,2023,,Y,,9.51,12.77,36.17,1.0,Delhi,PhD,Onsite
+EMP01554,Database Administration,01/19,,ACTIVE,,7.09,10.03,20.6,5.0,GURGAON,bachelor's,Remote
+EMP00662,IT Support & Helpdesk,2018-01-01,,Working,,3.09,4.68,12.46,6.0,Chennai,Master's,Hybrid
+EMP00489,networking,2016,01/24,exited,HIGHER STUDIES,4.02,7.01,20.03,9.0,bangalore,bachelor's,Remote
+EMP00847,cybersecurity,2018.0,,Y,,9.71,16.48,29.98,6.0,Mumbai,Master's,Remote
+EMP01391,  Data Science  ,2016-01-01,,Yes,,1.97,3.27,8.32,8.0,Gurgaon,Bachelor's,REMOTE
+EMP00399,Software Development,2018,,1,,8.78,15.07,30.76,6.0,Mumbai,,Hybrid
+EMP01065,  QA & Testing  ,2021,,Working,,5.61,8.18,23.93,3.0,Hyderabad,Bachelor's,Onsite
+EMP01531,UI/UX DESIGN,2022,,ACTIVE,,4.17,6.46,14.85,3.0,Noida,bachelor's,Onsite
+EMP01332,software development,2022,2023.0,Left,Higher Salary Elsewhere,8.88,16.05,35.69,3.0,Hyderabad,,Onsite
+EMP01465,BUSINESS ANALYSIS,2023-01-01,,Working,,11.0,19.62,38.78,1.0,pune,bachelor's,Hybrid
+EMP01091,AI/ML Engineering,2024,,active,,8.83,14.49,30.54,0.0,PUNE,Master's,Hybrid
+EMP00470,UI/UX Design,2015,,ACTIVE,,3.89,7.04,18.44,10.0,Noida,PhD,Remote
+EMP01513,Database Administration,2023-01-01,2023-01-01,Left,Work-Life Balance,6.05,10.7,19.86,1.0,GURGAON,Diploma,Onsite
+EMP01634,Cloud Computing,2016,2021,No,Health Reasons,8.61,11.76,29.03,8.0,Chennai,Diploma,Hybrid
+EMP00044,DevOps,01/23,2023,N,health reasons,4.39,0.62,18.34,2.0,Hyderabad,,Hybrid
+EMP01340,DevOps,2019,2022-01-01,No,company restructuring,3.18,4.54,8.85,5.0,Chennai,Master's,Onsite
+EMP00280,,2024.0,01/24,,Retirement,8.39,,37.2,,,,
+EMP02020,networking,2022,2022,N,Career Growth,6.93,11.14,30.49,3.0,  Hyderabad  ,Bachelor's,Hybrid
+EMP01935,UI/UX Design,2023,,1,,3.89,5.68,16.93,1.0,DELHI,bachelor's,Onsite
+EMP00217,Cloud Computing,2021,2023,EXITED,HEALTH REASONS,5.04,7.43,14.79,4.0,Mumbai,PhD,Remote
+EMP00809,UI/UX Design,2017,2024,Resigned,Health Reasons,4.24,7.69,18.83,7.0,  Pune  ,bachelor's,Onsite
+EMP01684,Data Science,2018,,Working,,5.33,9.46,16.37,6.0,PUNE,Bachelor's,Onsite
+EMP01719,QA & Testing,2015,,1,,9.87,16.58,34.96,9.0,Mumbai,Bachelor's,Onsite
+EMP00696,  Business Analysis  ,2019.0,2021,EXITED,company restructuring,3.85,5.5,14.26,5.0,Chennai,Bachelor's,Onsite
+EMP01346,Networking,2021,,Working,,11.83,15.84,33.07,3.0,Bangalore,Bachelor's,Remote
+EMP00194,  DevOps  ,2015,2017,EXITED,Higher Salary Elsewhere,3.49,4.77,9.04,9.0,Gurgaon,Master's,Onsite
+EMP00790,QA & TESTING,01/24,,Yes,,7.16,12.5,35.33,0.0,  Pune  ,Master's,Onsite
+EMP01527,,2020-01-01,01/20,,Company_Restructuring,6.74,,25.96,,,,
+EMP00323,Data Science,2024,01/24,N,Career Switch,4.0,7.07,16.14,0.0,Pune,Bachelor's,Onsite
+EMP00725,,2018-01-01,2023,,Relocation,7.45,,33.27,,,,
+EMP01971,cloud computing,2019-01-01,,Yes,,9.82,15.21,34.14,5.0,Noida,Bachelor's,Onsite
+EMP01445,Data Science,2017.0,2023,EXITED,Layoff,2.51,3.4,9.49,8.0,  Mumbai  ,Diploma,Onsite
+EMP00975,,2018.0,,,,7.1,,29.74,,,,
+EMP01355,DevOps,2019,2019.0,exited,Retirement,7.37,12.53,35.9,5.0,  Hyderabad  ,Bachelor's,Onsite
+EMP02009,Business_Analysis,2022,2022,0,Career Switch,6.09,9.24,21.44,3.0,Mumbai,Bachelor's,Onsite
+EMP01370,UI/UX Design,01/16,,ACTIVE,,4.5,7.01,17.82,8.0,  Noida  ,Bachelor's,Remote
+EMP01845,IT Support & Helpdesk,2018,,active,,8.39,11.64,19.87,6.0,pune,Master's,Hybrid
+EMP00135,networking,2024,,active,,4.35,6.39,12.53,0.0,Gurgaon,Master's,Onsite
+EMP01575,business analysis,2018-01-01,,Yes,,7.88,12.59,27.8,6.0,Chennai,Bachelor's,Remote
+EMP00201,,01/19,,,,1.79,,4.48,,,,
+EMP01604,UI/UX Design,2024-01-01,,ACTIVE,,8.37,12.49,30.6,1.0,Chennai,Bachelor's,Onsite
+EMP00706,NETWORKING,2020-01-01,,1,,8.03,11.73,24.96,5.0,Noida,Master's,Remote
+EMP01085,DATA SCIENCE,2016,,Yes,,3.61,5.86,14.83,9.0,Noida,MASTER'S,Remote
+EMP01165,UI/UX Design,2017,,ACTIVE,,6.18,9.23,16.91,7.0,Mumbai,Master's,Remote
+EMP01582,Cybersecurity,2020,,ACTIVE,,3.42,4.73,11.97,5.0,  Pune  ,Bachelor's,Onsite
+EMP00402,Cybersecurity,2019-01-01,,Active,,6.93,12.35,35.65,5.0,Gurgaon,Master's,Hybrid
+EMP00922,UI/UX Design,2015,,ACTIVE,,8.84,1.29,43.04,9.0,Pune,Bachelor's,Onsite
+EMP01837,qa & testing,2020-01-01,,active,,5.79,10.5,26.06,4.0,CHENNAI,Master's,onsite
+EMP00980,UI/UX Design,2020,,active,,9.33,13.75,28.25,4.0,Mumbai,Bachelor's,Hybrid
+EMP00019,UI/UX Design,2023-01-01,2023,N,  Company Restructuring  ,8.45,11.5,32.9,2.0,BANGALORE,Bachelor's,Onsite
+EMP00219,Cybersecurity,2022,,Working,,6.7,9.32,18.6,2.0,  Delhi  ,Bachelor's,WFH
+EMP01492,Software Development,2018-01-01,,active,,3.45,6.22,16.37,7.0,Mumbai,Bachelor's,Onsite
+EMP00400,QA & TESTING,2020,,Yes,,8.08,13.82,33.53,4.0,HYDERABAD,Diploma,Onsite
+EMP01801,networking,2019.0,2019,Exited,HEALTH REASONS,8.65,12.45,23.02,5.0,delhi,Bachelor's,WFH
+EMP01103,DevOps,2023,2023-01-01,EXITED,Retirement,5.26,9.52,27.25,1.0,CHENNAI,MASTER'S,Remote
+EMP02148,Data Science,2017,2020-01-01,EXITED,CAREER GROWTH,12.14,20.3,42.28,7.0,gurgaon,Bachelor's,Hybrid
+EMP01936,networking,01/22,,Working,,4.01,6.25,13.09,2.0,Chennai,Bachelor's,REMOTE
+EMP01203,UI/UX Design,2019,,1,,4.14,6.12,10.54,5.0,Hyderabad,Master's,Onsite
+EMP00577,it support & helpdesk,2016-01-01,,Yes,,6.75,10.94,28.54,8.0,  Chennai  ,Master's,Onsite
+EMP01705,Software Development,01/21,,ACTIVE,,1.61,2.5,5.43,3.0,Hyderabad,MASTER'S,Remote
+EMP02178,software development,2017.0,,ACTIVE,,4.73,6.9,18.61,7.0,  Pune  ,Bachelor's,Hybrid
+EMP00064,QA & Testing,2019,,Yes,,10.05,16.0,34.84,5.0,Gurgaon,Master's,Remote
+EMP01096,AI/ML Engineering,2018,2020,Exited,Career Growth,8.94,15.69,34.54,6.0,Noida,PhD,Remote
+EMP00027,qa & testing,2017,,1,,5.01,6.98,19.77,7.0,  Hyderabad  ,Bachelor's,Onsite
+EMP00869,ui/ux design,2019,,Working,,1.53,2.5,5.71,5.0,Hyderabad,Bachelor's,Onsite
+EMP01909,Data Science,2017,,1,,1.51,2.5,5.45,7.0,  Pune  ,Master's,Onsite
+EMP01599,Database Administration,01/17,,Working,,6.25,10.16,18.5,8.0,Pune,Bachelor's,Hybrid
+EMP00969,it support & helpdesk,2019,,active,,7.09,11.77,33.94,5.0,GURGAON,Master's,WFH
+EMP00721,it support & helpdesk,2018,,active,,1.72,2.5,5.46,6.0,Bangalore,Master's,Onsite
+EMP00073,Cloud Computing,2017-01-01,,Working,,5.16,9.03,22.54,8.0,Pune,Master's,Hybrid
+EMP01600,software development,2016,,Active,,5.45,9.65,19.13,8.0,HYDERABAD,Master's,Remote
+EMP00588,DATA SCIENCE,2017,01/22,Left,Higher Studies,9.41,13.29,39.29,7.0,  Delhi  ,Bachelor's,Hybrid
+EMP02038,Cloud Computing,2021,2021,EXITED,Higher Studies,5.81,8.26,17.38,3.0,pune,Master's,Onsite
+EMP01656,Cloud Computing,2019,,ACTIVE,,6.55,10.11,26.1,5.0,mumbai,Bachelor's,Hybrid
+EMP01379,AI/ML Engineering,2023,,Working,,3.42,5.46,10.5,1.0,Gurgaon,PhD,Onsite
+EMP00393,AI/ML Engineering,2022-01-01,,Active,,4.44,6.56,12.63,2.0,Bangalore,Master's,Onsite
+EMP00600,database administration,2018,,Yes,,5.08,7.78,16.91,7.0,  Pune  ,,REMOTE
+EMP01193,AI/ML Engineering,2015,01/20,exited,Work-Life Balance,3.86,5.41,13.59,9.0,Mumbai,Diploma,Onsite
+EMP01083,UI/UX DESIGN,2020,,1,,2.9,90.0,7.87,4.0,hyderabad,Bachelor's,Onsite
+EMP00867,Cloud Computing,2015,,Working,,1.6,2.5,6.49,9.0,bangalore,Master's,Onsite
+EMP00091,cloud computing,2023.0,,Working,,8.37,12.59,30.26,1.0,  Chennai  ,Master's,WFH
+EMP00917,Cloud Computing,2024,,ACTIVE,,4.17,5.76,13.45,0.0,gurgaon,Master's,Hybrid
+EMP00910,  UI/UX Design  ,2021-01-01,,Y,,7.68,10.93,28.47,3.0,BANGALORE,Master's,Onsite
+EMP01884,it support & helpdesk,2021-01-01,,Y,,6.36,11.22,31.69,4.0,Delhi,Diploma,Remote
+EMP01977,  Database Administration  ,2024,,Working,,5.85,10.26,18.98,0.0,Noida,Bachelor's,Remote
+EMP01040,,01/18,2020,,Retirement,4.09,,14.99,,,,
+EMP01321,,01/18,2019.0,,CAREER GROWTH,3.11,,15.84,,,,
+EMP01150,database administration,2024-01-01,2024.0,Left,Career Switch,7.57,11.31,33.78,0.0,BANGALORE,PhD,Hybrid
+EMP02187,database administration,2021-01-01,,Active,,4.14,6.72,18.82,3.0,Chennai,Bachelor's,REMOTE
+EMP01857,Cybersecurity,2024,,active,,4.01,6.47,13.2,1.0,Gurgaon,PhD,Onsite
+EMP00174,AI/ML Engineering,2015,2016,0,layoff,7.71,11.82,28.16,9.0,  Bangalore  ,Bachelor's,Onsite
+EMP01598,IT Support & Helpdesk,2021,,Yes,,1.55,2.6,6.51,3.0,Mumbai,MASTER'S,Onsite
+EMP00420,  Cloud Computing  ,01/21,,ACTIVE,,1.39,50.0,6.97,3.0,Pune,Bachelor's,Hybrid
+EMP00672,DevOps,2024,,1,,6.45,11.55,21.42,1.0,Hyderabad,bachelor's,Hybrid
+EMP00046,CLOUD COMPUTING,2015.0,2023.0,No,Career Growth,1.62,2.5,4.9,10.0,Pune,Bachelor's,onsite
+EMP00199,QA & Testing,2017,2017.0,N,  Layoff  ,8.51,12.36,32.74,7.0,Bangalore,Diploma,Hybrid
+EMP02140,IT Support & Helpdesk,2023,,Working,,2.34,3.83,11.2,1.0,PUNE,Bachelor's,WFH
+EMP00004,  Cloud Computing  ,2016,,Y,,6.44,9.93,21.31,8.0,Bangalore,Master's,Onsite
+EMP00586,CYBERSECURITY,01/23,,Active,,6.53,11.61,29.26,2.0,Gurgaon,Bachelor's,Onsite
+EMP01717,UI/UX DESIGN,2022,2023-01-01,Exited,Higher Studies,4.19,5.62,11.02,3.0,Pune,Diploma,Remote
+EMP00341,,2020,,,,11.35,,35.41,,,,
+EMP01296,Software Development,2021,,Active,,11.24,16.34,39.13,4.0,Chennai,Master's,Onsite
+EMP01639,it support & helpdesk,2016-01-01,,1,,5.77,8.74,20.63,8.0,Bangalore,Bachelor's,Remote
+EMP00257,UI/UX Design,2016,,1,,4.24,0.3215,13.36,8.0,Delhi,Bachelor's,Remote
+EMP01806,,2017-01-01,2020,,Retirement,3.91,,15.27,,,,
+EMP01854,Cloud Computing,2016,,1,,3.57,4.86,10.28,8.0,Chennai,,Hybrid
+EMP01635,business analysis,2017,01/17,exited,Layoff,1.41,2.5,6.8,7.0,PUNE,Bachelor's,Hybrid
+EMP00130,Data Science,2016-01-01,,active,,6.21,9.43,18.82,9.0,Noida,Bachelor's,Hybrid
+EMP01788,UI/UX Design,01/22,2024,EXITED,  Higher Studies  ,2.3,3.94,9.63,2.0,Bangalore,,Onsite
+EMP00689,Networking,01/21,,Active,,9.65,14.29,32.83,4.0,Chennai,Master's,Remote
+EMP00494,Data Science,01/18,,ACTIVE,,3.93,6.92,12.45,6.0,BANGALORE,PhD,Onsite
+EMP01015,AI/ML Engineering,2022,,active,,5.56,8.57,14.84,2.0,Gurgaon,Bachelor's,Hybrid
+EMP01846,QA & Testing,2022-01-01,,1,,6.59,9.6,25.07,3.0,Mumbai,Bachelor's,Remote
+EMP01870,Data_Science,2016,,1,,4.17,5.94,12.66,8.0,  Gurgaon  ,Master's,Onsite
+EMP01199,Database Administration,2017,,active,,9.19,16.29,43.25,7.0,Hyderabad,Bachelor's,Hybrid
+EMP01797,networking,2019,,Y,,3.38,6.09,12.2,5.0,Hyderabad,bachelor's,Remote
+EMP00687,QA & TESTING,2020,,Working,,5.58,9.3,21.65,4.0,delhi,Master's,Hybrid
+EMP00347,DevOps,01/16,2023,Resigned,work-life balance,5.99,9.98,28.97,8.0,Hyderabad,Master's,Hybrid
+EMP02001,DATA SCIENCE,01/16,,1,,5.57,8.0,14.1,8.0,Pune,Bachelor's,Hybrid
+EMP01484,SOFTWARE DEVELOPMENT,2018,,ACTIVE,,1.47,2.5,4.98,6.0,Mumbai,MASTER'S,Onsite
+EMP00146,data science,2016,,Y,,4.04,6.24,14.4,8.0,Chennai,Bachelor's,Onsite
+EMP00325,Cybersecurity,2020,,Yes,,8.57,11.88,24.21,4.0,Bangalore,Bachelor's,Hybrid
+EMP00231,  Software Development  ,2019,,ACTIVE,,5.11,8.69,24.82,5.0,  Bangalore  ,Bachelor's,Hybrid
+EMP00397,Networking,2018,,Yes,,5.66,9.05,18.87,6.0,Hyderabad,Master's,REMOTE
+EMP01895,Cloud Computing,2020-01-01,2024,exited,Company Restructuring,3.34,4.59,10.3,4.0,  Pune  ,Bachelor's,Hybrid
+EMP02066,BUSINESS ANALYSIS,01/15,,active,,6.2,10.01,19.85,9.0,delhi,PhD,REMOTE
+EMP01382,QA & TESTING,2015,,Y,,1.85,2.5,6.4,9.0,gurgaon,Master's,Remote
+EMP00710,IT Support & Helpdesk,2018-01-01,,Active,,8.82,14.07,32.4,6.0,Chennai,Bachelor's,Onsite
+EMP00984,QA & Testing,2021-01-01,,Working,,5.69,8.24,14.81,3.0,Noida,Bachelor's,Onsite
+EMP00461,,2020,,,,5.69,,24.95,,,,
+EMP00864,Cybersecurity,2020-01-01,2024,EXITED,COMPANY RESTRUCTURING,7.82,11.3,29.3,4.0,Delhi,Master's,Hybrid
+EMP01167,Business Analysis,2016,,Working,,7.09,9.62,19.6,8.0,Gurgaon,Master's,Onsite
+EMP01606,Database Administration,2024-01-01,2024,Exited,RETIREMENT,5.95,10.61,26.75,0.0,Mumbai,Bachelor's,Hybrid
+EMP00278,Cybersecurity,2018-01-01,,Active,,4.8,7.2,16.47,6.0,MUMBAI,,Onsite
+EMP00392,DevOps,2021,2024,Resigned,Career Switch,8.33,12.95,31.55,3.0,  Bangalore  ,Bachelor's,Hybrid
+EMP01590,DevOps,2018-01-01,,1,,7.56,11.76,31.62,6.0,Gurgaon,Master's,Onsite
+EMP00628,IT Support & Helpdesk,2015,01/19,EXITED,Health Reasons,6.31,9.54,23.61,9.0,noida,PhD,Hybrid
+EMP00352,AI/ML Engineering,2017,,Y,,11.46,16.53,32.55,7.0,Hyderabad,Bachelor's,Hybrid
+EMP01929,DevOps,2019,2020,0,Health Reasons,9.16,12.35,21.1,5.0,Gurgaon,Bachelor's,Hybrid
+EMP01275,Business Analysis,2017-01-01,,Yes,,4.65,7.01,18.58,7.0,Chennai,Bachelor's,Hybrid
+EMP00284,AI/ML Engineering,2016.0,2020,No,COMPANY RESTRUCTURING,5.02,7.41,19.39,8.0,Hyderabad,Bachelor's,Onsite
+EMP00401,UI/UX Design,2016,,Active,,4.68,8.06,15.1,8.0,gurgaon,Master's,Onsite
+EMP01064,AI/ML Engineering,2023-01-01,,ACTIVE,,4.41,6.02,14.25,2.0,Pune,Bachelor's,Onsite
+EMP00787,UI/UX Design,2020,,ACTIVE,,5.48,9.53,20.71,4.0,  Chennai  ,Master's,Onsite
+EMP01007,cybersecurity,2021-01-01,,ACTIVE,,3.95,7.12,16.09,3.0,noida,Master's,Onsite
+EMP00664,UI/UX Design,2018,,Working,,7.55,10.31,23.35,6.0,gurgaon,Bachelor's,Onsite
+EMP02037,Software Development,2018,2018.0,No,Company Restructuring,10.88,15.14,28.51,6.0,Hyderabad,Bachelor's,Onsite
+EMP00460,  AI/ML Engineering  ,2019,,Active,,7.73,10.45,21.35,6.0,hyderabad,MASTER'S,Hybrid
+EMP00608,  Data Science  ,2020-01-01,2020,0,Career Switch,9.91,15.19,38.78,4.0,NOIDA,Master's,Remote
+EMP00989,AI/ML ENGINEERING,01/15,,ACTIVE,,9.41,13.4,36.32,9.0,DELHI,Master's,Hybrid
+EMP00311,  Networking  ,2024.0,,Y,,4.72,8.08,14.51,1.0,  Bangalore  ,Bachelor's,Remote
+EMP01427,it support & helpdesk,2019,,Yes,,1.82,2.5,5.27,5.0,Bangalore,Diploma,Hybrid
+EMP01541,,2021,,,,5.09,,16.13,,,,
+EMP00301,database administration,2023-01-01,,Active,,8.31,11.72,32.76,2.0,gurgaon,Diploma,onsite
+EMP01774,ai/ml engineering,2016,,active,,6.27,9.68,28.77,8.0,Delhi,Diploma,Hybrid
+EMP01753,  DevOps  ,01/17,,Yes,,4.54,8.04,17.81,8.0,pune,Bachelor's,Remote
+EMP00959,networking,2021,,Yes,,7.5,12.83,26.75,3.0,PUNE,Bachelor's,Remote
+EMP01048,  Database Administration  ,2020-01-01,,Yes,,2.57,4.48,13.38,4.0,gurgaon,Bachelor's,Onsite
+EMP01392,DevOps,01/24,,Working,,7.03,11.19,31.77,1.0,Chennai,Master's,Onsite
+EMP01313,  UI/UX Design  ,2015,2017-01-01,No,Work-Life Balance,5.23,9.25,17.14,9.0,Delhi,,onsite
+EMP02109,Data Science,2022-01-01,,Y,,4.68,8.43,22.82,3.0,Delhi,Bachelor's,WFH
+EMP00916,Cybersecurity,2022.0,,1,,7.11,9.88,20.35,3.0,pune,Master's,Hybrid
+EMP01272,Networking,2016,,1,,4.48,6.8,16.75,9.0,hyderabad,Master's,Onsite
+EMP00039,,2016-01-01,,,,9.98,,30.51,,,,
+EMP01950,  Networking  ,2019,,Y,,9.21,14.25,36.14,5.0,GURGAON,Master's,Hybrid
+EMP00205,AI/ML_Engineering,01/21,,Y,,4.93,8.35,20.39,3.0,Chennai,Bachelor's,Onsite
+EMP00885,Cybersecurity,01/22,,Y,,8.75,12.98,32.08,3.0,Hyderabad,PhD,Work From Home
+EMP01657,Cybersecurity,2017.0,,Y,,1.77,2.5,6.79,8.0,HYDERABAD,Bachelor's,Hybrid
+EMP00856,AI/ML Engineering,2019,,Working,,6.25,8.96,16.01,5.0,  Pune  ,Master's,Hybrid
+EMP00443,,2018-01-01,2024,,retirement,10.69,,36.22,,,,
+EMP00232,AI/ML Engineering,2017.0,,active,,4.04,6.52,18.0,7.0,Gurgaon,Bachelor's,onsite
+EMP01236,AI/ML Engineering,2020,2023,Left,Relocation,10.62,16.94,49.27,4.0,pune,,Work From Home
+EMP01775,data science,2023-01-01,,Working,,7.86,11.62,20.31,1.0,DELHI,PhD,Remote
+EMP01698,business analysis,2021-01-01,,Y,,8.33,12.13,32.6,4.0,Noida,Master's,REMOTE
+EMP00243,business analysis,2018,,Yes,,8.3,14.0,37.06,6.0,mumbai,Bachelor's,Hybrid
+EMP01073,  DevOps  ,01/22,,Yes,,4.54,6.79,16.34,2.0,Mumbai,Bachelor's,Hybrid
+EMP00499,Cybersecurity,2015,,ACTIVE,,1.9,2.85,4.89,9.0,CHENNAI,Master's,Remote
+EMP01324,DATA SCIENCE,2018,,active,,1.52,2.5,6.45,7.0,gurgaon,Bachelor's,Onsite
+EMP01780,NETWORKING,2019,,Working,,7.4,13.2,32.93,5.0,Pune,Master's,onsite
+EMP01050,cybersecurity,2018,,Active,,3.1,5.59,11.71,6.0,Pune,Bachelor's,Onsite
+EMP00895,cybersecurity,2023,,Active,,7.3,9.83,20.78,1.0,HYDERABAD,Master's,onsite
+EMP01920,CYBERSECURITY,01/15,2020,0,Career Switch,3.64,5.34,13.39,9.0,Noida,PhD,REMOTE
+EMP01348,Networking,2022,,Yes,,5.67,8.74,22.22,3.0,Delhi,Bachelor's,Hybrid
+EMP00131,IT SUPPORT & HELPDESK,01/23,,Active,,5.59,7.93,16.97,2.0,Chennai,Diploma,Hybrid
+EMP01148,AI/ML Engineering,2019,2020,Left,Higher Studies,3.96,6.01,13.5,6.0,Mumbai,Bachelor's,Work From Home
+EMP00485,DEVOPS,2022,,Active,,5.36,0.7,18.14,2.0,Hyderabad,Bachelor's,Remote
+EMP01770,Business Analysis,2018.0,,Y,,5.84,10.16,29.81,6.0,Noida,Master's,Hybrid
+EMP00799,DevOps,2020,,1,,5.41,7.86,13.74,4.0,Gurgaon,Diploma,Onsite
+EMP02141,UI/UX Design,2021,,1,,9.95,14.37,38.49,3.0,Mumbai,,Onsite
+EMP01543,database administration,2024,2024,N,Higher Salary Elsewhere,5.36,9.2,25.94,0.0,Noida,MASTER'S,onsite
+EMP00063,Cybersecurity,2021.0,,active,,5.63,9.4,24.84,3.0,  Chennai  ,Bachelor's,Hybrid
+EMP02077,Networking,2016-01-01,,Active,,2.21,3.05,7.81,8.0,Delhi,bachelor's,Hybrid
+EMP01258,SOFTWARE DEVELOPMENT,01/19,,Working,,4.7,8.33,21.85,5.0,NOIDA,,Remote
+EMP01793,data science,2020-01-01,,active,,6.24,8.77,17.86,5.0,Pune,Bachelor's,Remote
+EMP00839,networking,2022.0,,active,,7.07,10.23,26.48,2.0,Hyderabad,Diploma,Hybrid
+EMP01726,NETWORKING,2015,2015-01-01,No,Career Growth,6.51,8.7,20.63,9.0,noida,Bachelor's,Onsite
+EMP02058,cloud computing,2015.0,,1,,4.73,6.49,14.25,10.0,GURGAON,Bachelor's,Onsite
+EMP01586,Business_Analysis,01/21,,Active,,6.69,10.85,18.81,4.0,pune,Diploma,Remote
+EMP00083,UI/UX Design,2019,,active,,6.59,10.86,21.49,5.0,  Bangalore  ,Master's,Work From Home
+EMP00210,Data Science,2022,,Working,,5.58,9.41,21.55,2.0,GURGAON,bachelor's,Hybrid
+EMP01968,Cybersecurity,2015-01-01,,Yes,,2.61,4.53,8.25,9.0,Bangalore,Master's,Onsite
+EMP00555,Database Administration,2017,,Y,,2.82,4.08,10.7,8.0,delhi,Master's,Hybrid
+EMP00114,DevOps,2023,,Y,,8.46,12.66,24.64,1.0,chennai,Master's,Remote
+EMP00533,Networking,2021,,Working,,3.91,6.02,10.34,4.0,Gurgaon,Bachelor's,Hybrid
+EMP00540,,2023,,,,6.69,,26.63,,,,
+EMP00080,Business Analysis,2016,2020,exited,Career Switch,1.44,2.5,6.82,8.0,Noida,Bachelor's,Remote
+EMP00861,QA & Testing,2023.0,,1,,10.44,18.77,41.7,2.0,Chennai,Master's,Remote
+EMP00523,Networking,2017-01-01,2017,No,Relocation,4.18,5.61,15.91,8.0,Mumbai,Master's,Onsite
+EMP01127,DEVOPS,01/19,,Yes,,3.68,5.83,9.98,5.0,Chennai,MASTER'S,Onsite
+EMP01023,QA & Testing,2020,2022-01-01,N,  Career Growth  ,7.17,11.17,19.16,5.0,Hyderabad,Master's,Hybrid
+EMP01989,IT Support & Helpdesk,2017-01-01,,Active,,7.99,12.58,25.35,8.0,Hyderabad,Master's,onsite
+EMP01681,Cybersecurity,2017-01-01,,Y,,3.9,6.84,16.91,7.0,PUNE,Master's,Hybrid
+EMP00125,Networking,2019,,active,,5.99,8.9,23.32,5.0,DELHI,Bachelor's,Hybrid
+EMP00860,IT SUPPORT & HELPDESK,2019-01-01,,active,,9.34,12.91,31.44,5.0,  Mumbai  ,Master's,Hybrid
+EMP00224,Database Administration,2018,,active,,4.64,7.99,16.33,6.0,hyderabad,Master's,Onsite
+EMP00966,networking,2017-01-01,,Yes,,6.63,9.28,21.82,7.0,  Hyderabad  ,Diploma,onsite
+EMP02159,AI/ML ENGINEERING,01/21,,Working,,4.38,6.28,12.36,4.0,Chennai,Bachelor's,Hybrid
+EMP01216,IT SUPPORT & HELPDESK,2018,,Working,,3.75,5.98,16.96,7.0,bangalore,,Onsite
+EMP00150,Data Science,2016,,ACTIVE,,1.65,2.5,5.51,9.0,DELHI,Bachelor's,Onsite
+EMP01871,UI/UX DESIGN,01/22,,Y,,13.2,17.63,49.86,2.0,Hyderabad,Diploma,Onsite
+EMP00881,Cybersecurity,2024,,Active,,4.74,8.36,22.78,0.0,Hyderabad,Master's,Hybrid
+EMP00269,Software Development,2018,,active,,4.84,6.89,19.35,6.0,DELHI,Bachelor's,Hybrid
+EMP02197,Business Analysis,2016,2020,0,Layoff,8.86,14.77,32.75,9.0,Pune,Bachelor's,Remote
+EMP00675,QA & Testing,01/24,,Working,,5.96,10.09,17.76,1.0,  Noida  ,MASTER'S,Remote
+EMP01559,IT Support & Helpdesk,2016,01/24,0,Layoff,1.44,2.5,5.4,8.0,Bangalore,Bachelor's,Hybrid
+,,,,,,,,,,,,
+EMP01070,Business Analysis,2023,2024,Resigned,health reasons,6.48,9.73,20.51,1.0,Noida,PhD,Hybrid
+EMP00228,Database Administration,2019,2024,EXITED,career switch,3.98,6.24,17.3,5.0,Bangalore,Bachelor's,Hybrid
+EMP00618,QA & TESTING,2023-01-01,,Active,,6.68,9.88,20.6,1.0,hyderabad,Bachelor's,Hybrid
+EMP00405,software development,2016,2022,EXITED,Career Growth,5.31,8.86,22.71,9.0,Bangalore,Bachelor's,Onsite
+EMP02098,BUSINESS ANALYSIS,01/18,,Working,,7.28,13.1,29.67,6.0,gurgaon,Bachelor's,Hybrid
+EMP00123,QA & Testing,2019-01-01,2020,Left,CAREER GROWTH,7.14,11.75,33.66,5.0,Mumbai,,Onsite
+EMP00944,SOFTWARE DEVELOPMENT,01/16,2023,Left,health reasons,8.85,12.65,22.87,9.0,Mumbai,Bachelor's,Onsite
+EMP01212,AI/ML ENGINEERING,2019,2020.0,Resigned,Work-Life Balance,6.72,8.97,22.28,5.0,NOIDA,Master's,Work From Home
+EMP01171,IT Support & Helpdesk,2021,,Yes,,9.1,14.8,38.22,3.0,Noida,Bachelor's,Onsite
+EMP01032,BUSINESS ANALYSIS,2020,,Y,,12.11,16.28,39.1,4.0,Gurgaon,,Hybrid
+EMP00439,AI/ML Engineering,2015,,1,,5.55,9.25,27.48,10.0,Hyderabad,Diploma,Onsite
+EMP00165,,2017,,,,7.54,,21.33,,,,
+EMP00211,QA & Testing,01/15,01/17,0,Work-Life_Balance,2.03,3.45,10.27,9.0,BANGALORE,Bachelor's,Onsite
+,,,,,,,,,,,,
+EMP01407,UI/UX Design,2022,2024,exited,Layoff,10.46,17.56,44.22,3.0,Delhi,Master's,Onsite
+EMP01303,SOFTWARE DEVELOPMENT,01/24,,Y,,8.1,13.46,36.5,1.0,Delhi,Bachelor's,Hybrid
+EMP00121,data science,2020-01-01,,active,,5.54,7.94,15.36,5.0,Mumbai,Bachelor's,Remote
+EMP01041,Data Science,2020,,Yes,,4.72,7.68,13.76,4.0,CHENNAI,Master's,Onsite
+EMP01464,Business Analysis,2022,01/23,Resigned,Higher Studies,5.26,9.35,18.58,2.0,Pune,bachelor's,Onsite
+EMP01264,Networking,2021-01-01,,Y,,6.87,12.03,26.75,3.0,pune,Bachelor's,Hybrid
+EMP01104,Cloud Computing,01/21,2021-01-01,Left,Higher Studies,1.84,2.5,6.21,3.0,Noida,Bachelor's,Hybrid
+EMP00963,  Software Development  ,2015,,active,,8.33,11.11,20.75,9.0,Chennai,Master's,REMOTE
+EMP00115,Networking,01/20,01/22,exited,career switch,2.66,4.57,11.32,4.0,Bangalore,Bachelor's,Work From Home
+EMP00825,AI/ML_Engineering,2021,,active,,5.33,8.24,15.91,3.0,chennai,PhD,Remote
+EMP01470,NETWORKING,2023,,ACTIVE,,7.67,12.09,32.93,2.0,Gurgaon,,Onsite
+EMP01194,,2024,,,,7.59,,30.82,,,,
+EMP01749,database administration,2019,,Working,,3.7,6.26,15.38,5.0,NOIDA,Bachelor's,Hybrid
+EMP01446,Business Analysis,2015,,ACTIVE,,4.95,8.45,17.2,9.0,MUMBAI,MASTER'S,Onsite
+EMP02165,BUSINESS ANALYSIS,2020.0,,Y,,8.87,13.01,32.15,4.0,Mumbai,Bachelor's,WFH
+EMP00428,CYBERSECURITY,2022-01-01,2024,No,Layoff,5.82,10.05,28.81,2.0,GURGAON,Master's,WFH
+EMP00053,CLOUD COMPUTING,2021,01/22,exited,Health Reasons,6.94,10.21,23.75,4.0,Bangalore,,Onsite
+EMP02158,SOFTWARE DEVELOPMENT,2019,,Active,,7.63,12.23,30.69,6.0,Gurgaon,Diploma,onsite
+EMP02099,it support & helpdesk,01/18,,Active,,6.37,9.15,17.75,6.0,Pune,Diploma,Onsite
+EMP00888,software development,2023,,Y,,4.89,7.42,15.33,1.0,Noida,MASTER'S,Remote
+EMP00929,database administration,2023,01/24,Resigned,Health Reasons,7.82,12.08,33.43,1.0,Noida,Bachelor's,onsite
+EMP00761,ui/ux design,01/21,,Y,,4.17,7.44,14.16,3.0,Noida,Bachelor's,Hybrid
+EMP01812,  DevOps  ,2015,,Active,,8.5,11.99,24.68,9.0,Mumbai,Master's,Onsite
+EMP01189,Software Development,2023.0,,active,,7.49,13.44,34.14,1.0,Noida,PhD,Hybrid
+EMP01593,Data Science,2020-01-01,2023,No,WORK-LIFE BALANCE,5.72,141.0,18.52,4.0,Bangalore,Master's,Hybrid
+EMP01817,IT Support & Helpdesk,01/18,,ACTIVE,,3.75,5.32,13.04,7.0,Mumbai,Bachelor's,Onsite
+EMP00697,Data Science,2017-01-01,2020,Resigned,Layoff,6.98,9.67,17.84,7.0,pune,Master's,Hybrid
+EMP00842,DevOps,2024-01-01,,Active,,6.62,8.88,22.44,1.0,PUNE,Master's,Remote
+EMP00690,DevOps,01/20,,Working,,4.84,6.79,16.43,5.0,NOIDA,Bachelor's,Onsite
+EMP01816,QA & Testing,2024,,active,,5.35,9.41,25.54,0.0,Bangalore,Diploma,Hybrid
+EMP01506,DevOps,01/17,,Y,,3.23,4.55,13.06,8.0,Hyderabad,Master's,Onsite
+EMP02196,Networking,2022.0,,Active,,6.81,10.21,23.39,2.0,NOIDA,Bachelor's,WFH
+EMP00338,Data Science,2020,,Yes,,2.62,3.74,6.72,4.0,Mumbai,Bachelor's,Onsite
+EMP01760,software development,2018,,ACTIVE,,6.58,10.02,22.63,6.0,Noida,Bachelor's,Remote
+EMP00874,IT_Support_&_Helpdesk,2019-01-01,,Active,,5.02,6.91,19.2,6.0,Noida,bachelor's,Hybrid
+EMP00455,UI/UX DESIGN,2024-01-01,,Yes,,6.07,8.14,23.96,0.0,Noida,Bachelor's,Onsite
+EMP01942,Cloud Computing,2016-01-01,2017,N,  Layoff  ,3.39,5.41,10.01,8.0,gurgaon,Bachelor's,onsite
+EMP00912,QA & Testing,2016,,Active,,9.1,12.58,24.82,8.0,bangalore,Bachelor's,Remote
+EMP00085,Software Development,2020,,Y,,5.07,8.72,24.38,4.0,Gurgaon,Master's,Hybrid
+EMP02065,IT SUPPORT & HELPDESK,01/17,,active,,11.28,17.35,43.51,7.0,Pune,Bachelor's,Onsite
+EMP01803,Business Analysis,2022,,1,,2.69,4.49,7.93,2.0,Noida,Bachelor's,Remote
+EMP01937,  AI/ML Engineering  ,2015,,Working,,6.03,10.58,30.29,10.0,DELHI,Master's,Hybrid
+EMP01816,QA & Testing,2024,,active,,5.35,9.41,25.54,0.0,Bangalore,Diploma,Hybrid
+EMP00495,,2022,01/22,,Work-Life Balance,2.52,,8.07,,,,
+EMP00772,UI/UX DESIGN,2015,,Working,,4.26,6.91,13.91,10.0,Chennai,Bachelor's,Onsite
+EMP01024,devops,2016,2017.0,N,Retirement,4.32,0.3315,15.54,8.0,  Pune  ,Diploma,Onsite
+EMP02136,UI/UX Design,2016-01-01,,Working,,6.08,9.25,19.46,8.0,Gurgaon,Bachelor's,Onsite
+EMP00264,AI/ML ENGINEERING,2019,2019,N,  Layoff  ,7.21,10.71,27.34,5.0,BANGALORE,Master's,Onsite
+EMP01374,business analysis,2022,2023,exited,Health Reasons,6.51,9.4,15.99,3.0,PUNE,Master's,Onsite
+EMP01458,Data Science,2015,,Yes,,7.08,11.59,29.2,9.0,Mumbai,,Hybrid
+EMP00468,AI/ML Engineering,2016,,Active,,3.2,4.96,13.23,9.0,Delhi,Master's,Hybrid
+EMP01658,Networking,2021,2022,No,  Company Restructuring  ,1.86,2.5,4.46,3.0,Hyderabad,Diploma,Onsite
+EMP00529,Networking,2015.0,,Y,,6.45,9.02,24.29,9.0,Bangalore,MASTER'S,Onsite
+EMP02133,DATA SCIENCE,2016.0,,1,,6.54,9.36,25.56,8.0,  Pune  ,MASTER'S,Remote
+EMP01345,Networking,2024,,1,,10.32,14.79,40.23,1.0,gurgaon,Diploma,Hybrid
+EMP00516,Business Analysis,01/23,,ACTIVE,,5.3,9.4,21.86,2.0,delhi,Bachelor's,Remote
+EMP00379,IT SUPPORT & HELPDESK,2019-01-01,,Y,,5.97,9.13,20.57,5.0,Bangalore,Master's,Remote
+EMP00752,UI/UX_Design,2021,,Active,,6.0,10.44,25.88,3.0,delhi,Bachelor's,Hybrid
+EMP01778,UI/UX Design,2024,2024,N,higher salary elsewhere,6.07,10.44,30.18,1.0,Delhi,bachelor's,Work From Home
+EMP00692,  Business Analysis  ,01/24,,Active,,5.5,133.95,17.78,0.0,noida,Bachelor's,Onsite
+EMP00627,Cloud Computing,2020-01-01,,ACTIVE,,3.98,6.49,15.43,4.0,Delhi,Master's,Hybrid
+EMP00245,DATA SCIENCE,2020,,Yes,,8.41,12.45,23.41,5.0,Delhi,Bachelor's,Hybrid
+EMP00385,Business Analysis,2016,,Working,,1.43,2.5,5.8,8.0,Pune,,Remote
+EMP01608,  DevOps  ,2021,2021-01-01,Left,career growth,9.15,14.35,37.21,3.0,  Gurgaon  ,Bachelor's,Onsite
+EMP01034,Cybersecurity,2020-01-01,,Active,,6.2,8.56,22.47,4.0,Delhi,Bachelor's,Remote
+EMP01318,Cloud Computing,2021,,1,,10.77,15.8,29.35,3.0,Bangalore,Master's,Remote
+EMP01809,cloud computing,2019-01-01,,ACTIVE,,4.45,7.9,22.51,6.0,Bangalore,Bachelor's,Onsite
+EMP01163,Database Administration,2024,,Working,,6.75,9.68,22.49,1.0,Mumbai,Bachelor's,Onsite
+EMP01645,Networking,2023,,1,,9.26,14.06,37.75,2.0,Bangalore,,Remote
+EMP01847,QA & Testing,2024.0,2024,No,Company Restructuring,9.12,13.16,36.8,0.0,MUMBAI,Master's,Hybrid
+EMP01377,BUSINESS ANALYSIS,01/19,01/21,exited,Company Restructuring,5.29,8.29,21.64,5.0,Delhi,PhD,Hybrid
+EMP00071,,2018,,,,9.94,,29.27,,,,
+EMP00052,  QA & Testing  ,2022,,Yes,,6.48,11.05,30.31,2.0,PUNE,Bachelor's,Onsite
+EMP01197,DATA SCIENCE,2015,,Working,,4.33,5.81,14.37,9.0,Chennai,Bachelor's,Remote
+EMP02163,DevOps,2015,01/18,exited,Higher Studies,6.83,10.3,17.91,9.0,Chennai,Master's,Onsite
+EMP00589,  DevOps  ,2015,,Y,,9.91,14.62,32.11,10.0,NOIDA,Master's,Remote
+EMP00007,Cybersecurity,2021,2023-01-01,0,HEALTH REASONS,6.73,9.8,21.51,3.0,Pune,Master's,Onsite
+EMP00670,business analysis,2017,2019,N,Higher_Studies,1.58,2.63,4.54,7.0,NOIDA,Bachelor's,Hybrid
+EMP00196,NETWORKING,2017,,Active,,9.88,16.86,43.68,7.0,Chennai,Diploma,WFH
+EMP01308,Cloud_Computing,2016-01-01,,Active,,5.7,8.6,17.46,8.0,MUMBAI,Bachelor's,Remote
+EMP00925,Business_Analysis,2020,,Working,,4.17,6.58,19.36,4.0,Hyderabad,Bachelor's,REMOTE
+EMP01746,CYBERSECURITY,2017,2018,Resigned,  Work-Life Balance  ,5.35,7.68,17.16,7.0,NOIDA,Master's,Onsite
+EMP02031,Database Administration,2015,,Yes,,5.09,8.98,26.18,9.0,BANGALORE,Bachelor's,Remote
+EMP01529,UI/UX Design,2018,,ACTIVE,,7.0,0.46950000000000003,18.66,6.0,  Bangalore  ,Master's,Onsite
+EMP00322,DevOps,2016,,Working,,6.45,9.19,17.4,8.0,  Noida  ,PhD,Onsite
+EMP01848,,2022,,,,4.12,,18.77,,,,
+EMP00715,  Cloud Computing  ,2021-01-01,,active,,8.06,12.34,21.06,3.0,Bangalore,Master's,Remote
+EMP01930,networking,2022,,Y,,5.51,7.62,21.38,2.0,Hyderabad,Bachelor's,Remote
+EMP01819,Networking,2018.0,,1,,3.24,5.39,13.71,6.0,  Chennai  ,bachelor's,Onsite
+EMP00492,Networking,01/16,,ACTIVE,,7.27,11.36,23.1,8.0,PUNE,Master's,WFH
+EMP01277,,2016-01-01,2017-01-01,,Work-Life Balance,7.8,,22.38,,,,
+EMP02057,  Cybersecurity  ,2019-01-01,,Working,,6.49,9.62,27.98,5.0,MUMBAI,Bachelor's,Hybrid
+EMP02056,qa & testing,2023,,active,,7.45,212.39999999999998,28.68,1.0,  Hyderabad  ,PhD,Hybrid
+EMP00351,AI/ML ENGINEERING,2023-01-01,,ACTIVE,,13.36,20.95,46.44,1.0,Noida,Bachelor's,Remote
+EMP00816,DATA SCIENCE,2020,,Yes,,4.38,6.49,11.77,5.0,Hyderabad,Master's,Remote
+EMP00216,Software Development,2017,,Working,,4.03,6.31,16.95,7.0,Hyderabad,MASTER'S,Onsite
+EMP00571,UI/UX Design,2024,2024,Exited,Health Reasons,5.86,9.36,24.57,0.0,PUNE,,Onsite
+EMP00666,AI/ML_Engineering,2021,,active,,2.63,4.67,12.81,4.0,Pune,Bachelor's,Onsite
+EMP01903,Database Administration,01/16,,ACTIVE,,4.06,7.17,18.69,8.0,Mumbai,Master's,Hybrid
+EMP01039,Database Administration,2020.0,,Y,,8.71,12.6,21.93,4.0,Pune,,Hybrid
+EMP01707,  IT Support & Helpdesk  ,2020-01-01,,Active,,5.44,8.99,22.99,5.0,Chennai,Bachelor's,Remote
+EMP01012,  Data Science  ,01/23,01/24,EXITED,  Higher Salary Elsewhere  ,7.36,9.95,18.71,1.0,Pune,bachelor's,Hybrid
+EMP01136,Software Development,2019,2020-01-01,Resigned,Company Restructuring,7.63,11.13,20.68,5.0,Pune,PhD,Hybrid
+EMP01975,QA & Testing,01/23,2024-01-01,Left,Health Reasons,14.35,19.83,43.3,2.0,NOIDA,Master's,Onsite
+EMP00661,IT Support & Helpdesk,2023,,1,,3.89,5.86,17.04,1.0,hyderabad,Bachelor's,Remote
+EMP00530,IT SUPPORT & HELPDESK,2022-01-01,2023,No,Health Reasons,5.95,10.7,18.38,2.0,Bangalore,Bachelor's,Hybrid
+EMP00015,DATABASE ADMINISTRATION,2017,,active,,4.24,7.63,18.83,8.0,Chennai,Bachelor's,Remote
+EMP00307,UI/UX Design,2015,2018,Resigned,Company Restructuring,5.69,7.72,18.74,9.0,NOIDA,Bachelor's,Hybrid
+EMP00235,DATABASE ADMINISTRATION,2015,,Working,,6.98,9.59,17.79,9.0,Gurgaon,Bachelor's,Onsite
+EMP01151,Data Science,2018,,Y,,5.78,9.95,23.84,7.0,Mumbai,Bachelor's,Remote
+EMP01839,Cybersecurity,2021,,Yes,,5.55,8.84,16.21,3.0,Mumbai,Master's,Remote
+EMP01825,AI/ML Engineering,2019,,active,,3.49,6.19,10.79,6.0,Bangalore,Master's,Work From Home
+EMP00928,Data Science,2023-01-01,2023,0,Retirement,5.84,10.54,29.32,2.0,Delhi,Master's,Remote
+EMP00563,DevOps,01/15,,ACTIVE,,5.0,7.26,12.43,9.0,Mumbai,Master's,REMOTE
+EMP02185,Cybersecurity,2024,,Yes,,7.17,9.61,21.13,0.0,delhi,Bachelor's,Onsite
+EMP00124,UI/UX DESIGN,2019,,Yes,,5.42,9.72,21.69,5.0,Pune,PhD,Onsite
+EMP00609,Database Administration,01/18,,active,,4.71,7.76,19.02,7.0,Pune,Bachelor's,Hybrid
+EMP00570,UI/UX_Design,2023,,ACTIVE,,8.87,12.83,31.89,2.0,  Delhi  ,Master's,Onsite
+EMP02002,Cybersecurity,2020,,active,,6.5,11.54,23.71,4.0,  Bangalore  ,,Onsite
+EMP00789,UI/UX Design,2021,2023,N,Career Growth,5.04,7.72,13.88,3.0,Mumbai,Bachelor's,Hybrid
+EMP01611,AI/ML Engineering,2018,2018,Exited,career growth,3.84,5.99,17.74,6.0,NOIDA,Bachelor's,Hybrid
+EMP00712,Data_Science,2020,,Y,,3.32,6.03,16.51,5.0,Bangalore,,Remote
+EMP01928,Business Analysis,2024,,Y,,5.12,0.69,17.98,0.0,  Delhi  ,Bachelor's,Hybrid
+EMP01625,  Data Science  ,2021-01-01,,Active,,3.71,6.21,12.58,3.0,Mumbai,PhD,Hybrid
+EMP00639,NETWORKING,2022,,Active,,6.84,9.27,16.05,2.0,HYDERABAD,Master's,Remote
+EMP00197,cloud computing,2016-01-01,,active,,1.38,2.5,5.12,8.0,NOIDA,Diploma,WFH
+EMP01966,AI/ML Engineering,2016,,Y,,5.1,7.84,21.58,9.0,chennai,Bachelor's,Remote
+EMP01437,  UI/UX Design  ,2021,,active,,9.58,14.35,27.34,3.0,DELHI,Master's,Onsite
+EMP01169,  Database Administration  ,01/15,,active,,7.32,0.53,27.94,9.0,Noida,,Onsite
+EMP01134,Networking,2017.0,,Y,,6.55,192.0,21.94,8.0,Delhi,,Work From Home
+EMP00946,CLOUD COMPUTING,2022,,Working,,9.38,13.05,28.71,2.0,Mumbai,Master's,onsite
+EMP01030,SOFTWARE DEVELOPMENT,2023-01-01,,Working,,9.34,13.94,23.75,2.0,Hyderabad,Bachelor's,Onsite
+EMP01716,Networking,01/24,,1,,3.44,5.01,13.3,0.0,Delhi,PhD,Onsite
+EMP01757,CLOUD COMPUTING,2019-01-01,2021-01-01,No,  Work-Life Balance  ,6.41,8.92,23.53,5.0,Mumbai,Bachelor's,Remote
+EMP01170,UI/UX Design,2015,,ACTIVE,,1.79,2.5,5.73,10.0,PUNE,bachelor's,Onsite
+EMP01510,ai/ml engineering,2020.0,,Y,,3.84,6.97,17.49,4.0,DELHI,Master's,Hybrid
+EMP00413,Data Science,01/22,,Working,,4.73,6.78,17.04,2.0,Hyderabad,Bachelor's,Onsite
+EMP00500,Data Science,2019,,Active,,6.74,10.27,20.44,5.0,chennai,Bachelor's,Hybrid
+EMP02095,  Cloud Computing  ,2022,,1,,7.93,11.3,23.02,2.0,Noida,PhD,Work From Home
+EMP00358,AI/ML Engineering,01/17,,ACTIVE,,5.29,8.9,15.17,8.0,Chennai,Master's,Onsite
+EMP01537,CLOUD COMPUTING,2021.0,2021-01-01,N,  Higher Studies  ,5.03,8.19,22.89,3.0,Noida,Master's,Work From Home
+EMP00160,Database Administration,2022,,active,,9.69,14.02,23.94,2.0,Hyderabad,Bachelor's,Hybrid
+EMP01422,DATABASE ADMINISTRATION,01/22,01/24,EXITED,Health Reasons,6.84,11.07,30.69,3.0,GURGAON,Master's,Onsite
+EMP00502,data science,01/16,,ACTIVE,,1.8,2.5,5.23,9.0,Noida,Master's,Remote
+EMP00103,Software Development,2015.0,,Yes,,6.43,9.57,24.46,10.0,mumbai,Master's,Hybrid
+EMP00023,,2015,2017-01-01,,Health Reasons,3.89,,11.11,,,,
+EMP00181,ui/ux design,2020,2021-01-01,EXITED,  Work-Life Balance  ,4.38,7.59,12.97,5.0,Noida,Master's,Onsite
+EMP00780,IT SUPPORT & HELPDESK,2015,,1,,7.51,11.7,20.11,10.0,HYDERABAD,Bachelor's,Hybrid
+EMP01044,Software Development,2024,,active,,6.36,10.95,21.8,0.0,Hyderabad,Bachelor's,Onsite
+EMP01832,AI/ML Engineering,2020-01-01,2020.0,No,Layoff,7.86,11.78,26.8,4.0,bangalore,PhD,Hybrid
+EMP00184,Data Science,2018,,Active,,10.23,13.78,34.19,6.0,  Mumbai  ,Bachelor's,Onsite
+EMP00067,devops,2017-01-01,,Y,,2.32,3.83,10.57,8.0,pune,Master's,Hybrid
+EMP00363,SOFTWARE DEVELOPMENT,2017,,Active,,4.87,6.66,11.52,7.0,Hyderabad,Bachelor's,Hybrid
+EMP00644,Cybersecurity,2024.0,,active,,4.73,7.17,20.87,1.0,  Mumbai  ,Bachelor's,Hybrid
+EMP00754,QA & Testing,2018-01-01,,Working,,2.72,4.6,8.81,7.0,NOIDA,Diploma,WFH
+EMP01218,Networking,2022.0,,Yes,,2.65,4.12,7.62,3.0,Delhi,Diploma,Remote
+EMP01320,Cybersecurity,2021.0,,Y,,7.39,10.61,22.82,3.0,noida,Diploma,Hybrid
+EMP00580,ai/ml engineering,2016,,Y,,3.96,5.45,16.17,9.0,Noida,Bachelor's,Onsite
+EMP01222,Database Administration,2023,,1,,9.92,14.22,28.71,1.0,Gurgaon,Bachelor's,Onsite
+EMP00835,Business Analysis,2018,,Y,,3.62,6.16,17.78,6.0,MUMBAI,Master's,Hybrid
+EMP00829,UI/UX Design,2024-01-01,,Working,,4.1,6.84,12.05,0.0,mumbai,,Onsite
+EMP01175,BUSINESS ANALYSIS,2022,2023,exited,relocation,7.37,13.26,33.52,2.0,Mumbai,Bachelor's,onsite
+EMP00504,Business Analysis,2024,,Active,,5.92,0.79,22.46,0.0,Bangalore,Master's,Onsite
+EMP01131,  IT Support & Helpdesk  ,2023,01/24,Resigned,Work-Life Balance,7.29,11.69,27.46,2.0,  Mumbai  ,Bachelor's,Hybrid
+EMP01983,cybersecurity,2016-01-01,,ACTIVE,,1.39,2.5,4.26,9.0,Pune,Bachelor's,Remote
+EMP01042,Cloud Computing,2021-01-01,2023-01-01,Exited,retirement,3.07,4.49,11.67,3.0,Delhi,Bachelor's,Hybrid
+EMP00776,BUSINESS ANALYSIS,2020,2021,No,  Company Restructuring  ,7.22,0.6315000000000001,35.31,4.0,noida,Bachelor's,Onsite
+EMP01038,Database_Administration,2018,,Yes,,2.66,4.52,9.03,6.0,DELHI,Bachelor's,Hybrid
+EMP00596,QA & Testing,2020,2021,Resigned,Health Reasons,3.62,5.62,15.45,4.0,Bangalore,Master's,Remote
+EMP00986,AI/ML Engineering,2022-01-01,,Active,,11.92,19.51,47.73,2.0,Pune,MASTER'S,Hybrid
+EMP01702,Networking,2023-01-01,2023,EXITED,higher salary elsewhere,7.87,11.64,29.62,2.0,Noida,Bachelor's,WFH
+EMP00464,software development,2024,2024,Exited,Work-Life Balance,3.9,6.93,14.15,1.0,PUNE,MASTER'S,Hybrid
+EMP01960,UI/UX Design,2017,,Y,,4.42,5.97,16.26,8.0,noida,Bachelor's,Onsite
+EMP00735,Cybersecurity,2022-01-01,2022.0,0,WORK-LIFE BALANCE,8.22,14.3,35.12,2.0,Pune,Master's,Onsite
+EMP00314,AI/ML Engineering,2022,,ACTIVE,,7.11,11.34,28.26,2.0,Noida,Bachelor's,Hybrid
+EMP00056,Data Science,2015,,Working,,4.03,6.76,15.43,9.0,BANGALORE,Bachelor's,Hybrid
+EMP00134,UI/UX Design,2019,,Y,,6.59,10.04,19.01,5.0,noida,Master's,Onsite
+EMP00291,networking,2020.0,2022,0,HEALTH REASONS,7.51,11.47,24.07,4.0,  Delhi  ,Bachelor's,Onsite
+EMP01654,Networking,2022-01-01,,ACTIVE,,4.84,7.23,15.12,2.0,mumbai,Bachelor's,Hybrid
+EMP01696,UI/UX Design,2016,,Working,,7.6,12.17,27.58,8.0,Hyderabad,Master's,Onsite
+EMP01693,Cloud Computing,2023,,ACTIVE,,7.97,14.45,29.2,1.0,HYDERABAD,Master's,Remote
+EMP01665,QA & TESTING,2020,,active,,4.52,8.2,18.42,4.0,Noida,Bachelor's,Remote
+EMP01122,DevOps,2016,,Yes,,2.15,3.17,6.54,9.0,Chennai,MASTER'S,REMOTE
+EMP01366,,2020,,,,9.28,,42.24,,,,
+EMP01627,CLOUD COMPUTING,2019,,Y,,7.06,10.98,26.42,5.0,Pune,Master's,Onsite
+EMP00943,IT Support & Helpdesk,2020,,ACTIVE,,8.7,13.77,40.35,4.0,Chennai,Master's,onsite
+EMP00510,UI/UX Design,2015.0,,Yes,,4.86,8.71,26.08,9.0,Gurgaon,bachelor's,Onsite
+EMP01711,,01/17,01/22,,  Higher Studies  ,6.22,,24.02,,,,
+EMP00040,Cloud Computing,01/20,,Y,,4.83,8.18,14.12,4.0,  Noida  ,Bachelor's,Hybrid
+EMP01229,  AI/ML Engineering  ,2024,2024.0,EXITED,Retirement,7.81,13.56,27.7,0.0,Chennai,MASTER'S,Remote
+EMP00195,Software Development,2024,,Working,,1.69,2.5,4.3,1.0,BANGALORE,PhD,Onsite
+EMP01624,Data Science,2018-01-01,,1,,4.63,8.15,17.58,6.0,noida,Master's,Onsite
+EMP01756,Cybersecurity,01/19,,Yes,,3.38,5.24,12.75,5.0,Pune,bachelor's,Remote
+EMP00432,Business_Analysis,01/23,2023-01-01,N,  Higher Salary Elsewhere  ,9.38,14.05,32.91,1.0,Chennai,Master's,Remote
+EMP01363,Software Development,2023,,Y,,5.85,10.57,25.11,1.0,  Gurgaon  ,Master's,Onsite
+EMP00318,,2016,2022,,Work-Life Balance,3.7,,13.36,,,,
+EMP00958,Cloud Computing,2024-01-01,,active,,8.7,13.2,36.2,0.0,Chennai,Master's,Onsite
+EMP01235,DevOps,2021-01-01,,1,,6.16,10.14,30.02,3.0,NOIDA,Bachelor's,Onsite
+EMP02180,CYBERSECURITY,2020-01-01,,Y,,6.48,9.06,17.8,4.0,Bangalore,Master's,Onsite
+EMP00088,Networking,2015,,Working,,9.34,13.19,34.31,10.0,Delhi,Bachelor's,Hybrid
+EMP02200,Data_Science,01/24,,1,,3.64,5.43,10.4,0.0,Pune,bachelor's,Remote
+EMP00177,Business Analysis,01/24,,Yes,,10.81,14.54,37.82,0.0,CHENNAI,Bachelor's,Onsite
+EMP01636,Cybersecurity,01/20,,Active,,8.66,12.51,24.77,4.0,Noida,Bachelor's,Onsite
+EMP01017,qa & testing,2020,,Yes,,10.69,14.87,33.92,5.0,  Hyderabad  ,Bachelor's,Hybrid
+EMP01892,Networking,2017,,Active,,6.89,9.42,24.13,7.0,Hyderabad,MASTER'S,Onsite
+EMP01172,QA & Testing,2019,,Y,,1.47,2.5,5.77,5.0,HYDERABAD,Diploma,Remote
+EMP00149,Database Administration,2022-01-01,,Working,,5.38,8.98,17.29,2.0,Noida,Master's,Onsite
+EMP01722,Business Analysis,2016,,ACTIVE,,2.68,3.68,10.76,8.0,hyderabad,Diploma,Remote
+EMP01768,QA & Testing,2015,,Y,,7.22,11.45,28.81,10.0,  Gurgaon  ,Master's,Hybrid
+EMP00126,ai/ml engineering,2020,,1,,9.13,1.05,29.57,5.0,  Mumbai  ,bachelor's,Onsite
+EMP00683,  DevOps  ,2020,,Yes,,9.97,13.47,39.93,4.0,  Chennai  ,Master's,Hybrid
+EMP01417,AI/ML ENGINEERING,2015,,Active,,4.08,7.04,16.85,9.0,Mumbai,Bachelor's,Hybrid
+EMP01141,UI/UX Design,2021-01-01,2021.0,0,CAREER GROWTH,10.16,14.85,27.85,4.0,pune,Master's,Onsite
+EMP01501,QA & Testing,01/17,,Yes,,7.06,9.46,23.09,7.0,Gurgaon,Master's,Hybrid
+EMP01836,Networking,2020,,Working,,10.96,16.59,45.43,4.0,Noida,Master's,Remote
+EMP01435,AI/ML Engineering,01/24,2024-01-01,Resigned,Layoff,7.49,10.13,20.47,0.0,Pune,Master's,Remote
+EMP00599,Data Science,2021-01-01,2024,Exited,Retirement,12.21,17.42,36.04,3.0,Chennai,PhD,Hybrid
+EMP00079,IT SUPPORT & HELPDESK,2020,,Working,,5.73,8.73,22.38,5.0,Bangalore,Bachelor's,Onsite
+EMP00641,  Networking  ,2020,,Y,,5.91,10.39,28.7,5.0,Bangalore,Master's,Onsite
+EMP01835,Database Administration,01/19,,active,,2.8,4.49,12.52,6.0,  Pune  ,Bachelor's,Onsite
+EMP00882,DATABASE ADMINISTRATION,01/20,,active,,10.47,14.3,41.82,4.0,  Chennai  ,Bachelor's,Hybrid
+EMP01893,BUSINESS ANALYSIS,2017.0,2017,Left,Company Restructuring,5.56,9.13,16.37,7.0,Gurgaon,Bachelor's,Hybrid
+EMP00583,cloud computing,2024,2024,0,Career Switch,11.32,18.29,37.62,0.0,PUNE,PhD,Hybrid
+EMP01802,Cybersecurity,2019.0,,Active,,9.73,16.17,46.96,6.0,Pune,Bachelor's,REMOTE
+EMP00658,UI/UX Design,2021-01-01,,Working,,5.35,7.37,15.37,3.0,Delhi,Master's,Onsite
+EMP00883,database administration,01/16,,1,,6.5,10.11,21.95,8.0,PUNE,Diploma,Work From Home
+EMP01459,,2022,,,,9.31,,26.45,,,,
+EMP00299,QA & Testing,2019,,active,,8.8,15.92,41.05,5.0,delhi,,Hybrid
+EMP01285,  IT Support & Helpdesk  ,2019-01-01,01/19,Exited,CAREER SWITCH,1.67,2.5,4.59,5.0,Gurgaon,Bachelor's,WFH
+EMP01961,  Cloud Computing  ,2016,2018,No,Work-Life Balance,5.36,7.42,19.12,8.0,DELHI,PhD,Hybrid
+EMP02071,business analysis,2020,,ACTIVE,,5.3,8.35,14.99,4.0,noida,Master's,Hybrid
+EMP00447,  Data Science  ,2023,,Yes,,9.79,13.54,39.23,1.0,HYDERABAD,Master's,Onsite
+EMP01546,  AI/ML Engineering  ,2015-01-01,,active,,4.88,8.81,23.18,9.0,Hyderabad,Bachelor's,Hybrid
+EMP00846,Database Administration,2015,2016,Exited,  Health Reasons  ,9.17,14.22,32.07,9.0,Noida,Bachelor's,Hybrid
+EMP02169,DATA SCIENCE,2015,2020,EXITED,Career_Switch,3.88,6.27,18.15,9.0,Chennai,Bachelor's,Work From Home
+EMP01769,it support & helpdesk,2020,,ACTIVE,,6.47,9.19,15.64,4.0,Chennai,Bachelor's,Remote
+EMP01463,SOFTWARE DEVELOPMENT,2019.0,,Active,,6.09,10.7,30.28,5.0,delhi,Master's,Onsite
+EMP00449,  Software Development  ,2020-01-01,,1,,8.97,13.74,36.68,5.0,Chennai,Diploma,Hybrid
+EMP00590,CYBERSECURITY,2021,2023,exited,Health Reasons,7.38,12.13,23.86,3.0,  Pune  ,Master's,WFH
+EMP01616,  Data Science  ,2021,,Yes,,1.6,2.5,4.61,3.0,Delhi,Bachelor's,Onsite
+EMP00574,,2022-01-01,,,,11.15,,40.13,,,,
+EMP00951,Database Administration,2020.0,,Working,,11.56,16.71,33.02,4.0,Pune,Master's,Hybrid
+EMP00911,DevOps,2022,,ACTIVE,,11.41,16.18,32.62,2.0,Gurgaon,Bachelor's,onsite
+EMP01418,database administration,2022,,ACTIVE,,6.61,10.16,19.47,2.0,Chennai,bachelor's,REMOTE
+EMP02193,IT Support & Helpdesk,2016,2022,EXITED,Health Reasons,10.94,15.91,37.0,8.0,Noida,Master's,Onsite
+EMP01378,SOFTWARE DEVELOPMENT,2015-01-01,,1,,4.2,6.77,14.87,9.0,Hyderabad,Master's,Hybrid
+EMP00249,  UI/UX Design  ,2019-01-01,2019,Exited,Retirement,4.93,0.73,17.25,5.0,Chennai,Master's,Hybrid
+EMP00167,UI/UX Design,2021,,Active,,4.78,7.01,16.61,4.0,delhi,Master's,Hybrid
+EMP00768,DEVOPS,2019,,active,,4.97,8.99,26.38,5.0,Noida,Diploma,WFH
+EMP01976,Database Administration,2024,,active,,6.47,11.14,22.69,0.0,BANGALORE,Master's,Hybrid
+EMP01404,Database Administration,2018.0,,ACTIVE,,8.97,13.43,22.88,6.0,Chennai,Master's,Onsite
+EMP00952,AI/ML Engineering,2022,,Active,,4.38,7.94,20.96,2.0,Pune,Bachelor's,onsite
+EMP01692,  Cybersecurity  ,2021,,ACTIVE,,5.06,8.97,23.01,3.0,GURGAON,PhD,Onsite
+EMP01628,UI/UX Design,2024-01-01,,Active,,6.72,11.48,27.05,0.0,Bangalore,Diploma,Hybrid
+EMP00430,DATA SCIENCE,2023,,active,,6.65,0.74,17.6,1.0,Pune,Bachelor's,Remote
+EMP01047,data science,2023,,Active,,7.35,10.09,19.48,1.0,Gurgaon,Diploma,Onsite
+EMP00962,Data Science,2017,,Yes,,6.02,10.11,17.6,7.0,Bangalore,Master's,Remote
+EMP01697,IT Support & Helpdesk,2023,,active,,4.33,5.94,12.56,2.0,BANGALORE,Diploma,Remote
+EMP01436,BUSINESS ANALYSIS,2022,,Working,,12.04,17.06,42.75,3.0,NOIDA,Bachelor's,Hybrid
+EMP00724,AI/ML Engineering,2022-01-01,,1,,6.33,10.53,22.99,3.0,delhi,Bachelor's,Hybrid
+EMP01680,data science,2022,2024,exited,Retirement,9.22,12.55,23.44,2.0,pune,bachelor's,onsite
+EMP01142,UI/UX Design,2019,2024-01-01,Exited,layoff,6.55,8.83,24.32,5.0,  Chennai  ,Master's,REMOTE
+EMP00729,QA & Testing,01/17,,active,,6.11,8.25,21.95,7.0,Chennai,MASTER'S,Onsite
+EMP00350,Networking,2019-01-01,,ACTIVE,,3.63,6.25,15.84,5.0,pune,Bachelor's,onsite
+EMP02116,Software Development,2018,,1,,5.87,9.29,18.94,6.0,Noida,Master's,Hybrid
+EMP00924,Business Analysis,01/17,,Yes,,5.44,7.38,14.99,8.0,Noida,bachelor's,Remote
+EMP00653,Database Administration,01/16,,Active,,3.42,5.95,15.0,9.0,delhi,Diploma,Hybrid
+EMP00429,IT SUPPORT & HELPDESK,2015,,active,,3.42,5.27,12.32,9.0,  Noida  ,Bachelor's,Onsite
+EMP01188,NETWORKING,2016,,ACTIVE,,1.76,2.5,6.43,8.0,Chennai,bachelor's,Onsite
+EMP01944,IT Support & Helpdesk,2023,,Yes,,9.06,12.13,24.32,2.0,Pune,Bachelor's,Hybrid
+EMP00321,networking,2024.0,2024,EXITED,Retirement,8.13,13.25,29.01,0.0,Chennai,Bachelor's,Hybrid
+EMP00381,Business Analysis,2016,2024,exited,Layoff,6.93,12.01,33.24,8.0,Chennai,Diploma,Onsite
+EMP00512,UI/UX Design,2023,2023-01-01,0,Higher Salary Elsewhere,1.85,3.28,6.2,1.0,DELHI,Bachelor's,WFH
+EMP01525,IT Support & Helpdesk,2019,01/22,Exited,  Career Growth  ,8.96,13.94,38.02,5.0,  Noida  ,PhD,REMOTE
+EMP00367,,2018,,,,6.73,,18.83,,,,
+EMP02128,DEVOPS,2016,2024-01-01,Resigned,HIGHER SALARY ELSEWHERE,5.26,0.40850000000000003,20.13,9.0,Gurgaon,Bachelor's,WFH
+EMP01897,CLOUD COMPUTING,01/17,,1,,1.65,2.64,4.86,7.0,Gurgaon,Master's,Onsite
+EMP01384,AI/ML Engineering,2024-01-01,2024,No,Layoff,5.33,9.57,20.12,0.0,CHENNAI,Bachelor's,Onsite
+EMP01074,cybersecurity,01/23,,1,,7.73,10.58,19.4,2.0,HYDERABAD,Diploma,Hybrid
+EMP00873,UI/UX DESIGN,01/21,2024,EXITED,Work-Life Balance,5.1,6.9,18.32,3.0,Chennai,Bachelor's,onsite
+EMP00537,UI/UX DESIGN,2017.0,,Working,,9.98,14.05,24.09,7.0,DELHI,Diploma,Onsite
+EMP01190,IT Support & Helpdesk,2016,01/19,N,Work-Life Balance,2.02,3.46,9.83,8.0,CHENNAI,,REMOTE
+EMP01372,SOFTWARE DEVELOPMENT,2018-01-01,,Yes,,5.72,9.74,24.33,7.0,noida,bachelor's,Hybrid
+EMP00823,Networking,01/15,,Working,,7.24,11.02,27.28,9.0,gurgaon,Bachelor's,Work From Home
+EMP00140,  AI/ML Engineering  ,2015,2022,Resigned,Health Reasons,5.79,9.49,22.76,10.0,pune,Bachelor's,REMOTE
+EMP01852,UI/UX Design,2023,,active,,9.99,13.99,30.74,1.0,Delhi,Diploma,Hybrid
+EMP01834,Networking,2023.0,,Active,,8.16,12.27,35.57,1.0,Pune,Bachelor's,Onsite
+EMP01365,,01/21,2022,,Career Growth,3.59,,11.06,,,,
+EMP01640,QA & Testing,2015-01-01,,Active,,10.83,14.69,42.53,9.0,Gurgaon,Master's,Hybrid
+EMP01502,devops,2018,,Active,,4.89,6.64,17.27,6.0,Hyderabad,,Remote
+EMP00335,qa & testing,2024,,Yes,,6.98,11.99,31.7,0.0,Hyderabad,Master's,Onsite
+EMP00627,Cloud Computing,2020-01-01,,ACTIVE,,3.98,6.49,15.43,4.0,Delhi,Master's,Hybrid
+EMP01727,IT Support & Helpdesk,01/24,2024,Exited,Career Switch,7.62,12.01,20.96,0.0,pune,,Remote
+EMP01293,business analysis,2017-01-01,,Yes,,1.86,2.5,4.57,7.0,Pune,Bachelor's,Hybrid
+EMP00188,BUSINESS ANALYSIS,2019,,Y,,9.04,12.12,27.74,5.0,Mumbai,Bachelor's,Hybrid
+EMP01333,CLOUD COMPUTING,01/21,,Working,,8.79,14.88,35.62,3.0,DELHI,Bachelor's,Remote
+EMP01337,Database Administration,2020,01/20,N,Career Switch,4.91,6.57,14.93,5.0,Noida,Bachelor's,Hybrid
+EMP01644,Networking,2015,,Active,,1.47,2.5,4.6,9.0,GURGAON,Master's,Onsite
+EMP00388,database administration,01/23,,Working,,6.91,9.7,28.73,1.0,Noida,MASTER'S,WFH
+EMP00250,QA & Testing,2015,2022,0,Career Growth,1.43,2.5,4.75,9.0,Chennai,Diploma,Remote
+EMP01993,BUSINESS ANALYSIS,01/19,,Y,,3.68,5.01,11.85,5.0,NOIDA,Master's,Hybrid
+EMP01398,Networking,2018,,Active,,2.57,4.18,8.39,7.0,Mumbai,Bachelor's,Remote
+EMP00681,IT Support & Helpdesk,2023,2023,Left,  Company Restructuring  ,4.27,7.7,17.79,1.0,Gurgaon,Diploma,Work From Home
+EMP00955,Cloud Computing,2015,2015.0,Left,HEALTH REASONS,4.87,8.32,16.06,9.0,Gurgaon,Master's,Hybrid
+EMP02184,Cybersecurity,01/24,,Active,,4.95,7.1,13.49,0.0,Gurgaon,Master's,Onsite
+EMP01125,Networking,2021-01-01,,1,,4.31,6.18,12.02,3.0,Hyderabad,Bachelor's,Onsite
+EMP01560,QA & TESTING,2016,,Yes,,7.06,9.55,21.97,8.0,CHENNAI,Bachelor's,Hybrid
+EMP01475,DevOps,2022-01-01,2024.0,Left,work-life balance,10.46,14.01,30.57,3.0,chennai,Master's,Onsite
+EMP01666,QA & Testing,2020-01-01,01/21,Left,  Health Reasons  ,1.49,2.5,6.38,4.0,pune,MASTER'S,Onsite
+EMP00909,,2015,,,,1.74,,7.08,,,,
+EMP01279,DATA SCIENCE,2023,,Working,,8.74,14.84,31.78,1.0,Pune,Bachelor's,Onsite
+EMP01217,  Database Administration  ,2015,,Active,,5.32,8.29,15.93,9.0,Chennai,bachelor's,Onsite
+EMP01908,IT Support & Helpdesk,2015,,Working,,3.55,6.3,14.43,9.0,Chennai,,Onsite
+EMP00418,DEVOPS,2021,,Active,,4.48,7.35,21.24,4.0,hyderabad,Bachelor's,Hybrid
+EMP01881,Business Analysis,2023,2023,Left,CAREER GROWTH,4.37,7.24,18.24,1.0,Mumbai,Bachelor's,Onsite
+EMP02073,Cloud Computing,01/15,,active,,5.96,9.23,25.93,9.0,Pune,Bachelor's,Onsite
+EMP00330,QA & Testing,2024-01-01,,ACTIVE,,6.86,9.74,20.58,1.0,Chennai,Master's,WFH
+EMP01118,devops,2024,,Working,,8.29,13.55,24.67,0.0,Hyderabad,Master's,Onsite
+EMP01160,IT_Support_&_Helpdesk,2016,,Y,,1.85,2.5,7.16,8.0,Hyderabad,Bachelor's,Remote
+EMP00730,,2017,,,,2.45,,6.33,,,,
+EMP01685,UI/UX DESIGN,2018,,active,,12.57,16.91,30.47,6.0,Gurgaon,Bachelor's,Remote
+EMP02019,QA & TESTING,2018,,ACTIVE,,5.42,7.78,13.33,7.0,GURGAON,Master's,Remote
+EMP01662,  AI/ML Engineering  ,01/19,,Yes,,5.27,9.29,21.03,5.0,gurgaon,Bachelor's,Remote
+EMP01220,it support & helpdesk,2021-01-01,,Active,,6.87,9.86,24.78,3.0,Pune,bachelor's,Remote
+EMP01423,Software Development,2015,,Active,,4.51,8.15,15.71,9.0,Noida,Master's,Onsite
+EMP01491,DevOps,2017,,Working,,4.36,6.36,11.76,8.0,Gurgaon,Master's,Onsite
+EMP01503,,2020,2020,,Company Restructuring,2.04,,9.55,,,,
+EMP01077,Database Administration,01/21,2021,0,Layoff,1.47,2.5,5.83,3.0,Delhi,Master's,Onsite
+EMP02049,Data Science,2019,,Y,,6.04,9.88,26.02,6.0,Delhi,Master's,Hybrid
+EMP00714,  QA & Testing  ,01/17,2019,Exited,Higher Studies,10.08,17.26,34.84,7.0,HYDERABAD,Bachelor's,Remote
+EMP00207,DEVOPS,2020,,Working,,7.12,10.7,31.05,4.0,  Bangalore  ,Master's,Onsite
+EMP01146,database administration,01/15,,Y,,6.67,12.11,28.6,9.0,  Pune  ,Bachelor's,Hybrid
+EMP01086,Networking,01/15,,Active,,5.13,7.79,17.86,9.0,MUMBAI,Master's,Hybrid
+EMP00048,Cybersecurity,01/23,2023,Left,  Higher Studies  ,13.92,19.39,57.79,1.0,Hyderabad,Bachelor's,Remote
+EMP00777,,01/18,,,,6.6,,28.02,,,,
+EMP01562,database administration,2018,,Active,,5.75,10.38,22.39,6.0,hyderabad,,Onsite
+EMP01051,,2023,,,,3.23,,10.29,,,,
+EMP01455,,2017-01-01,,,,6.0,,24.82,,,,
+EMP00960,AI/ML Engineering,2023,2023,Left,Health Reasons,6.01,8.14,23.14,1.0,  Delhi  ,Master's,Onsite
+EMP00698,Software Development,2021,2024,EXITED,Company Restructuring,2.56,3.58,9.3,3.0,PUNE,MASTER'S,Remote
+EMP00607,,2019-01-01,,,,8.91,,25.18,,,,
+EMP00903,Cybersecurity,01/16,2024-01-01,Left,  Company Restructuring  ,3.98,5.39,10.76,9.0,PUNE,Master's,Onsite
+EMP00262,AI/ML Engineering,2021.0,,ACTIVE,,7.35,13.06,24.27,3.0,Pune,MASTER'S,Remote
+EMP02102,business analysis,01/22,,Working,,6.1,9.61,28.33,2.0,chennai,Bachelor's,Hybrid
+EMP00032,Cloud Computing,2018.0,2021.0,Left,CAREER SWITCH,7.46,13.19,38.03,6.0,Bangalore,Master's,Onsite
+EMP00208,UI/UX Design,2021-01-01,,1,,9.15,13.04,22.6,4.0,Noida,Master's,Remote
+EMP01591,UI/UX DESIGN,2023,2023,No,Higher Studies,3.21,5.81,17.39,1.0,  Bangalore  ,Master's,Onsite
+EMP00339,CYBERSECURITY,2024,,Active,,7.7,10.3,27.35,0.0,Hyderabad,Master's,Onsite
+EMP00136,,2024,,,,1.96,,9.9,,,,
+EMP01676,UI/UX Design,01/16,,Active,,5.89,9.67,17.3,8.0,bangalore,PhD,Onsite
+EMP01518,UI/UX Design,2017.0,2018-01-01,Left,RELOCATION,1.73,2.5,4.44,7.0,DELHI,MASTER'S,Hybrid
+EMP01725,AI/ML Engineering,2015.0,2017,EXITED,Career_Switch,7.14,10.46,24.42,9.0,Bangalore,Bachelor's,Remote
+EMP02105,,2023,,,,9.25,,33.37,,,,
+EMP00820,UI/UX DESIGN,2020,2024,EXITED,Health Reasons,5.2,8.98,23.89,5.0,pune,Bachelor's,Hybrid
+EMP01397,DevOps,2022,,active,,2.7,3.89,7.68,2.0,Bangalore,Bachelor's,Onsite
+EMP02080,it support & helpdesk,01/23,,Y,,8.61,12.43,23.11,1.0,Hyderabad,PhD,Hybrid
+EMP01566,AI/ML Engineering,01/21,,1,,4.9,8.43,15.36,3.0,mumbai,Diploma,Onsite
+EMP00987,AI/ML Engineering,01/21,,Working,,11.33,15.42,34.22,3.0,  Bangalore  ,Master's,Onsite
+EMP01956,Data Science,2018,,Active,,6.18,9.71,21.79,6.0,Gurgaon,Diploma,Hybrid
+EMP00738,Database Administration,2020.0,,Active,,4.68,7.39,16.34,5.0,bangalore,Master's,Onsite
+EMP01031,Software Development,2015,2016,Exited,Layoff,10.16,15.02,32.57,10.0,Mumbai,Bachelor's,Hybrid
+EMP01102,,2016,,,,1.68,,6.44,,,,
+EMP01667,Data Science,01/21,2024,0,career switch,7.82,13.14,30.92,3.0,Bangalore,Diploma,Hybrid
+EMP01430,  Database Administration  ,2022,,Yes,,5.72,9.46,17.54,3.0,Delhi,Bachelor's,Onsite
+EMP01364,QA & Testing,2015,2020,0,  Company Restructuring  ,1.8,2.5,5.18,9.0,mumbai,Bachelor's,Remote
+EMP01613,IT Support & Helpdesk,2020.0,2024,EXITED,Career Growth,5.81,8.51,18.98,5.0,Delhi,Master's,Remote
+EMP00818,Database Administration,01/23,,Active,,8.37,13.57,25.18,1.0,  Gurgaon  ,PhD,onsite
+EMP00866,DevOps,2018,,Y,,7.53,12.99,27.58,6.0,Chennai,Bachelor's,Remote
+EMP01781,Cloud Computing,01/24,,Active,,6.57,11.78,26.3,0.0,Pune,Master's,Onsite
+EMP02138,Networking,2015,,1,,8.12,12.15,29.55,10.0,MUMBAI,Bachelor's,Remote
+EMP00395,QA & Testing,2022-01-01,,ACTIVE,,2.63,73.4,9.03,2.0,Noida,Master's,Onsite
+EMP01842,Data Science,01/18,,Y,,3.59,5.88,10.74,7.0,Bangalore,Bachelor's,Remote
+EMP02048,Software Development,01/18,,Y,,6.33,10.82,21.9,6.0,gurgaon,Bachelor's,Onsite
+EMP02059,QA & Testing,01/15,2017,Left,Career Switch,3.32,4.55,9.73,10.0,pune,Bachelor's,Onsite
+EMP00190,,2023,,,,10.34,,34.0,,,,
+EMP00904,Data_Science,01/17,2018,No,Work-Life Balance,5.87,8.05,19.91,7.0,GURGAON,Master's,Onsite
+EMP00309,software development,2022,2022-01-01,Left,Company Restructuring,2.95,5.1,11.72,2.0,  Noida  ,Diploma,Onsite
+EMP00416,Database Administration,01/21,,Working,,7.29,1.1,37.49,4.0,chennai,Master's,Remote
+EMP01807,UI/UX Design,2016,,Working,,6.38,8.62,14.71,9.0,Delhi,Master's,Onsite
+EMP01739,ui/ux design,2016-01-01,,ACTIVE,,5.2,7.79,22.35,8.0,GURGAON,Bachelor's,Onsite
+EMP01761,QA & Testing,2022,,Working,,8.94,15.31,32.1,2.0,Hyderabad,Bachelor's,Onsite
+EMP00451,BUSINESS ANALYSIS,2022,,Working,,5.51,7.7,13.1,2.0,Mumbai,Bachelor's,onsite
+EMP00261,cybersecurity,2022-01-01,2023,No,higher studies,8.33,15.08,36.18,2.0,CHENNAI,Bachelor's,Hybrid
+EMP00021,AI/ML Engineering,2021,,ACTIVE,,9.32,16.4,35.68,3.0,Noida,Bachelor's,Hybrid
+EMP01152,Database Administration,01/24,,ACTIVE,,5.89,10.28,25.11,0.0,Hyderabad,Master's,Remote
+EMP01777,it support & helpdesk,2021.0,,Working,,4.26,0.56,17.02,3.0,Bangalore,Bachelor's,Onsite
+EMP01490,software development,2018,2020-01-01,Resigned,  Relocation  ,9.03,15.42,31.31,6.0,  Delhi  ,Master's,Hybrid
+EMP01353,Data Science,2024,2024-01-01,exited,Work-Life Balance,5.31,9.62,26.93,0.0,mumbai,PhD,Onsite
+EMP01740,SOFTWARE DEVELOPMENT,2020,2024,No,COMPANY RESTRUCTURING,5.98,9.8,26.73,4.0,noida,Diploma,Hybrid
+EMP00256,Software Development,2022,01/22,EXITED,Career Growth,8.1,14.0,33.43,3.0,Delhi,Bachelor's,Onsite
+EMP01536,CYBERSECURITY,2017,,ACTIVE,,7.9,12.91,22.66,7.0,Hyderabad,,Remote
+EMP01995,Software Development,2020,,1,,5.08,8.73,26.05,4.0,Bangalore,Bachelor's,Hybrid
+EMP00814,Cybersecurity,2020,,1,,8.1,10.86,26.31,4.0,  Mumbai  ,Master's,Onsite
+EMP00109,Database Administration,2022,,active,,9.83,16.97,46.44,3.0,Gurgaon,Bachelor's,Hybrid
+EMP01159,Networking,2015,,active,,3.8,5.25,13.7,9.0,Delhi,Bachelor's,Onsite
+EMP02017,Database Administration,2023,,ACTIVE,,7.82,12.94,38.08,2.0,Bangalore,Bachelor's,Remote
+EMP00191,Data_Science,2021,,ACTIVE,,6.12,10.89,26.5,3.0,delhi,Bachelor's,Onsite
+EMP01244,Data Science,2020,,active,,5.22,8.57,22.69,4.0,Mumbai,Master's,Hybrid
+EMP01087,,2024,2024-01-01,,Higher Salary Elsewhere,5.4,,18.16,,,,
+EMP00422,Cloud Computing,2018-01-01,,1,,2.2,3.36,6.28,7.0,Chennai,Master's,Onsite
+EMP01101,software development,2016.0,,Yes,,9.24,0.7230000000000001,25.45,8.0,Noida,Bachelor's,onsite
+EMP01918,Business Analysis,2015.0,,active,,5.88,10.21,20.65,9.0,BANGALORE,Diploma,REMOTE
+EMP01515,DATABASE ADMINISTRATION,2018,2022,Resigned,Relocation,1.75,2.5,5.88,6.0,mumbai,Bachelor's,Hybrid
+EMP00568,  Cybersecurity  ,2021,,1,,8.79,12.43,22.41,3.0,Bangalore,,Hybrid
+EMP00153,Business Analysis,2023,,Working,,5.81,9.62,26.01,1.0,hyderabad,Bachelor's,Hybrid
+EMP01116,Software Development,2018,,1,,2.93,4.53,11.78,6.0,pune,Bachelor's,Onsite
+EMP00411,ui/ux design,2023,2024,Left,Higher Studies,8.81,14.37,33.65,1.0,delhi,Diploma,Onsite
+EMP02069,Data Science,2016-01-01,,Yes,,7.72,11.1,25.38,8.0,gurgaon,Master's,Hybrid
+EMP00348,ai/ml engineering,2019,,Active,,8.61,12.29,32.61,6.0,  Hyderabad  ,Master's,Hybrid
+EMP00988,data science,2022-01-01,,ACTIVE,,10.75,0.8220000000000001,47.16,2.0,Delhi,Master's,WFH
+EMP00218,Business Analysis,01/23,,ACTIVE,,6.84,10.56,18.2,1.0,PUNE,Master's,onsite
+EMP00353,IT_Support_&_Helpdesk,2020-01-01,,Y,,5.34,8.69,22.05,4.0,Pune,Bachelor's,Onsite
+EMP01784,Cybersecurity,2017.0,,Working,,8.62,11.69,23.81,8.0,Delhi,Diploma,Onsite
+EMP01396,CLOUD COMPUTING,2021,,1,,8.67,12.47,28.46,3.0,NOIDA,Bachelor's,WFH
+EMP00364,,2019,,,,7.21,,26.84,,,,
+EMP00740,Cybersecurity,2018,2021,0,relocation,6.91,9.5,17.04,6.0,mumbai,Bachelor's,Remote
+EMP02034,AI/ML Engineering,2021.0,,Working,,9.1,12.69,25.3,3.0,Gurgaon,Bachelor's,Remote
+EMP01027,DevOps,2015-01-01,2018.0,EXITED,higher studies,4.69,6.52,12.75,9.0,Gurgaon,Diploma,Hybrid
+EMP01687,QA & TESTING,2022,,Yes,,9.53,16.09,29.58,2.0,Pune,Bachelor's,Remote
+EMP02129,networking,2019,,ACTIVE,,6.93,10.26,29.11,5.0,  Pune  ,PhD,Onsite
+EMP00503,,2021,,,,8.69,,21.22,,,,
+EMP01698,business analysis,2021-01-01,,Y,,8.33,12.13,32.6,4.0,Noida,Master's,REMOTE
+EMP00172,,2016,,,,5.92,,20.84,,,,
+EMP01823,,2023,2024,,Relocation,6.44,,20.65,,,,
+EMP00089,  QA & Testing  ,2024.0,,1,,10.67,16.82,33.59,0.0,MUMBAI,Master's,Remote
+EMP01211,Data Science,2024,,Y,,4.65,8.22,23.92,0.0,Noida,Master's,Onsite
+EMP00185,SOFTWARE DEVELOPMENT,2018.0,,Working,,6.56,9.37,23.83,6.0,  Mumbai  ,Bachelor's,Remote
+EMP00788,ai/ml engineering,2019.0,,Y,,2.97,5.01,13.64,6.0,pune,Diploma,WFH
+EMP01129,,2015,,,,6.23,,17.36,,,,
+EMP01821,IT Support & Helpdesk,2016,2016-01-01,exited,Relocation,1.86,2.69,4.72,8.0,Hyderabad,Master's,Hybrid
+EMP01084,Data Science,01/15,,active,,2.5,4.06,9.82,9.0,  Gurgaon  ,Bachelor's,Remote
+EMP00507,Networking,2016-01-01,,active,,2.19,3.1,8.63,8.0,Hyderabad,Master's,Hybrid
+EMP02089,AI/ML Engineering,2019,,Yes,,5.15,7.96,14.05,5.0,bangalore,Master's,Onsite
+EMP00801,AI/ML Engineering,2015-01-01,,ACTIVE,,4.93,8.39,15.26,9.0,Bangalore,Diploma,Onsite
+EMP01424,it support & helpdesk,2015,2019,No,higher studies,11.53,16.04,41.97,9.0,Pune,Bachelor's,Onsite
+EMP01866,qa & testing,2017,,Working,,5.38,7.7,21.33,7.0,  Hyderabad  ,Bachelor's,Onsite
+EMP00275,Cloud Computing,2016,,1,,6.25,10.72,23.24,8.0,Gurgaon,Master's,Onsite
+EMP00954,IT Support & Helpdesk,2016,01/18,exited,relocation,7.49,12.37,27.27,9.0,gurgaon,Master's,Hybrid
+EMP00445,AI/ML Engineering,01/16,,ACTIVE,,7.49,10.44,18.1,8.0,hyderabad,Diploma,onsite
+EMP02028,  Database Administration  ,2024-01-01,,1,,3.29,5.67,11.88,0.0,  Bangalore  ,Bachelor's,Onsite
+EMP02013,Business Analysis,2020-01-01,01/22,EXITED,Relocation,2.28,3.6,6.36,5.0,Gurgaon,Bachelor's,Hybrid
+EMP01750,CYBERSECURITY,01/18,,active,,1.78,2.5,7.2,7.0,  Chennai  ,Master's,Remote
+EMP01507,DATA SCIENCE,01/15,,Working,,3.84,5.3,14.88,10.0,Noida,Master's,Onsite
+EMP01588,Cloud Computing,2021,2024,Resigned,  Higher Salary Elsewhere  ,6.22,9.54,27.73,3.0,GURGAON,Master's,Onsite
+EMP02181,,2018,,,,9.58,,29.47,,,,
+EMP02172,SOFTWARE DEVELOPMENT,2017,,active,,9.49,14.47,35.93,8.0,noida,Bachelor's,Onsite
+EMP01572,  AI/ML Engineering  ,2022-01-01,,Working,,9.62,16.78,37.61,3.0,chennai,Bachelor's,WFH
+EMP01029,cybersecurity,2022,2024,No,Career Growth,7.28,11.99,23.32,3.0,Pune,Bachelor's,onsite
+EMP01602,IT Support & Helpdesk,2019.0,,ACTIVE,,7.51,10.62,19.04,6.0,  Hyderabad  ,Master's,Hybrid
+EMP00668,software development,2024,,Working,,6.73,11.16,21.34,0.0,Delhi,bachelor's,Onsite
+EMP01261,QA & Testing,2020,2020,Resigned,HIGHER STUDIES,8.68,12.67,35.97,4.0,mumbai,,Onsite
+EMP00626,IT SUPPORT & HELPDESK,2022,,Yes,,9.56,12.78,37.18,2.0,Noida,Master's,Onsite
+EMP01219,Software Development,2017,2023,Exited,  Higher Studies  ,3.25,4.74,8.07,7.0,chennai,Master's,Remote
+EMP01795,QA & TESTING,2018-01-01,,ACTIVE,,7.06,0.98,33.32,6.0,Chennai,Master's,Onsite
+EMP00005,Business Analysis,2016-01-01,01/21,0,Work-Life Balance,3.44,5.14,12.61,8.0,Gurgaon,Master's,Onsite
+EMP00179,DevOps,2016.0,,ACTIVE,,1.86,3.0,7.34,8.0,  Bangalore  ,bachelor's,Hybrid
+EMP01742,DevOps,01/24,,Active,,8.56,11.49,21.89,0.0,Bangalore,MASTER'S,Hybrid
+EMP00062,cybersecurity,01/15,01/22,Exited,WORK-LIFE BALANCE,1.68,2.5,6.32,9.0,Pune,Master's,Hybrid
+EMP00679,Data Science,2024.0,,ACTIVE,,5.98,10.87,20.15,0.0,hyderabad,Master's,onsite
+EMP00240,UI/UX Design,2021.0,2023-01-01,0,Health Reasons,7.59,10.94,24.22,3.0,  Hyderabad  ,Master's,Onsite
+EMP00973,ai/ml engineering,01/24,,active,,6.74,10.46,27.23,0.0,Pune,MASTER'S,Onsite
+EMP01314,IT Support & Helpdesk,2021,,1,,8.05,1.18,40.09,4.0,MUMBAI,Master's,Hybrid
+EMP01733,Cloud Computing,01/24,,active,,1.79,2.58,6.64,0.0,Gurgaon,Bachelor's,Onsite
+EMP00098,data science,01/23,,Yes,,8.28,13.88,26.11,2.0,Mumbai,PhD,Onsite
+EMP00522,AI/ML Engineering,01/16,,Active,,9.46,15.01,26.74,8.0,Delhi,Bachelor's,Onsite
+EMP00158,QA & Testing,2021,2022,exited,Higher Studies,7.95,12.83,37.65,4.0,delhi,Master's,Onsite
+EMP01354,business analysis,2023,2023,Exited,Layoff,6.55,10.5,25.61,2.0,DELHI,Diploma,Hybrid
+EMP01099,database administration,2017,,Yes,,10.66,14.49,39.95,7.0,Pune,Diploma,Onsite
+EMP01509,AI/ML Engineering,01/15,,Y,,7.66,13.37,39.62,10.0,gurgaon,Master's,Hybrid
+EMP02146,DEVOPS,2017,01/23,EXITED,LAYOFF,6.26,10.9,29.56,7.0,Delhi,Bachelor's,Onsite
+EMP00717,Database Administration,2018,,Working,,4.46,7.0,17.23,6.0,MUMBAI,Bachelor's,Onsite
+EMP01777,it support & helpdesk,2021.0,,Working,,4.26,0.56,17.02,3.0,Bangalore,Bachelor's,Onsite
+EMP00459,  AI/ML Engineering  ,2019,,Working,,5.92,7.96,19.63,5.0,Pune,MASTER'S,Onsite
+EMP01425,DevOps,2017,2018,Left,relocation,4.03,6.28,13.25,8.0,Bangalore,Master's,Hybrid
+EMP00651,DevOps,2016,,Active,,5.74,8.21,23.27,9.0,Mumbai,PhD,Hybrid
+EMP01924,it support & helpdesk,2015,,Active,,4.9,7.05,16.0,9.0,Bangalore,Diploma,REMOTE
+EMP00982,Software Development,2019-01-01,2020,Resigned,Career Switch,5.53,8.6,21.16,5.0,GURGAON,Master's,Hybrid
+EMP00281,Software Development,01/22,,1,,5.44,7.75,22.81,2.0,Pune,,Onsite
+EMP00248,Business Analysis,2024,,ACTIVE,,5.62,8.35,15.41,0.0,delhi,Master's,Onsite
+EMP01603,,2020,,,,6.12,,28.77,,,,
+EMP02055,Data Science,01/18,,1,,5.17,8.26,23.05,6.0,Noida,Master's,Hybrid
+EMP00458,Cybersecurity,2018-01-01,,1,,1.68,2.5,6.21,6.0,Noida,Master's,Onsite
+EMP00832,data science,2016.0,,active,,4.99,8.73,26.06,8.0,Delhi,PhD,Onsite
+EMP01448,QA & TESTING,2017-01-01,,Active,,6.42,9.27,20.06,7.0,hyderabad,Bachelor's,Hybrid
+EMP00433,ai/ml engineering,2019,2019,Exited,Career Switch,5.38,8.76,16.19,5.0,Chennai,Bachelor's,Hybrid
+EMP01471,Software Development,2015,,Y,,7.69,12.14,24.3,9.0,Hyderabad,Diploma,Hybrid
+EMP01609,networking,2019.0,,1,,6.63,11.65,23.33,5.0,Chennai,Diploma,Remote
+EMP01433,Business Analysis,2016.0,,Yes,,1.63,2.5,5.01,9.0,DELHI,Diploma,Work From Home
+EMP02126,DevOps,2017.0,2020,Resigned,CAREER SWITCH,9.58,14.46,27.88,8.0,Mumbai,Diploma,Hybrid
+EMP01883,qa & testing,2020.0,2021,Left,  Health Reasons  ,4.74,8.55,17.96,4.0,Mumbai,Master's,Remote
+EMP01036,Networking,2021,,1,,7.91,12.35,29.42,3.0,Hyderabad,Bachelor's,Hybrid
+EMP01181,UI/UX Design,2018,,ACTIVE,,6.23,9.02,23.33,6.0,Delhi,Bachelor's,Onsite
+EMP00469,Business Analysis,2017,,Working,,5.56,8.98,19.06,7.0,Hyderabad,Bachelor's,REMOTE
+EMP01642,QA & Testing,2022,,ACTIVE,,8.89,13.91,37.37,2.0,CHENNAI,Master's,Remote
+EMP00244,Software Development,2021,2022,N,HEALTH REASONS,6.84,9.88,26.71,3.0,Pune,Bachelor's,Remote
+EMP01094,  Cloud Computing  ,2015,,Y,,7.01,11.57,25.58,10.0,delhi,bachelor's,Remote
+EMP01704,DevOps,01/21,,1,,1.63,2.5,6.96,3.0,CHENNAI,bachelor's,Onsite
+EMP00745,DevOps,2016-01-01,,active,,1.78,2.5,4.7,8.0,Delhi,MASTER'S,Hybrid
+EMP01524,  Business Analysis  ,2016,,1,,5.26,9.3,16.13,8.0,mumbai,Bachelor's,Hybrid
+EMP00945,  DevOps  ,2016,,Working,,7.78,12.73,37.73,8.0,GURGAON,,REMOTE
+EMP00029,Data Science,2017-01-01,,Active,,8.05,12.8,26.75,7.0,Noida,Diploma,Hybrid
+EMP01804,networking,2016,2021,0,Relocation,6.16,8.39,20.52,8.0,Noida,Bachelor's,Onsite
+EMP00139,  IT Support & Helpdesk  ,01/17,,Working,,1.51,2.5,6.27,8.0,  Hyderabad  ,PhD,Onsite
+EMP01672,DevOps,2019,,Yes,,6.67,10.13,17.78,6.0,Pune,MASTER'S,onsite
+EMP01228,  UI/UX Design  ,2015,2017,0,higher studies,5.04,8.64,16.95,9.0,  Bangalore  ,Diploma,Onsite
+EMP02035,Database Administration,2016,,Y,,5.54,8.9,19.16,8.0,MUMBAI,Master's,Hybrid
+EMP02123,BUSINESS ANALYSIS,2018,2023-01-01,Resigned,Retirement,6.3,9.38,25.76,6.0,GURGAON,Bachelor's,Remote
+EMP00482,Cloud Computing,2022,,active,,8.11,13.72,26.62,2.0,Bangalore,,Onsite
+EMP01912,  Networking  ,2020,01/20,No,Retirement,6.45,9.66,21.68,5.0,Pune,Master's,Remote
+EMP01520,AI/ML_Engineering,2017,,Yes,,4.14,6.87,18.57,8.0,Hyderabad,Master's,Remote
+EMP01682,business analysis,2018-01-01,,Yes,,5.91,10.44,27.54,6.0,GURGAON,bachelor's,Onsite
+EMP00101,,2019-01-01,,,,3.45,,10.15,,,,
+EMP00493,Networking,2020,,Working,,7.96,13.58,25.79,5.0,Bangalore,Bachelor's,Onsite
+EMP00102,Networking,2016,,ACTIVE,,6.79,9.8,18.29,8.0,  Noida  ,PhD,onsite
+EMP00152,Networking,2023,,Working,,2.07,3.23,6.04,2.0,Chennai,Master's,Remote
+EMP01649,Business Analysis,2016,,ACTIVE,,3.53,5.39,16.02,8.0,Bangalore,MASTER'S,Remote
+EMP00346,UI/UX Design,2018,,ACTIVE,,3.76,6.54,14.13,6.0,Mumbai,Master's,Remote
+EMP00186,Networking,2024,,Yes,,2.38,3.28,5.69,0.0,DELHI,Master's,Hybrid
+EMP02162,DevOps,2022-01-01,,Active,,4.53,8.21,19.95,2.0,GURGAON,Diploma,Hybrid
+EMP02173,Networking,2015,2018.0,Exited,Career Switch,4.05,6.91,14.05,9.0,pune,Bachelor's,onsite
+EMP00387,Cybersecurity,2020,2022-01-01,Resigned,CAREER SWITCH,5.68,9.22,22.88,4.0,mumbai,Bachelor's,Onsite
+EMP00135,networking,2024,,active,,4.35,6.39,12.53,0.0,Gurgaon,Master's,Onsite
+EMP02124,cybersecurity,2024.0,2024,0,HIGHER STUDIES,6.84,9.99,19.8,1.0,Hyderabad,Master's,Onsite
+EMP01723,Data_Science,2016-01-01,,ACTIVE,,3.68,0.48,14.94,8.0,Hyderabad,Bachelor's,Hybrid
+EMP00412,  UI/UX Design  ,2021-01-01,,Active,,10.48,15.05,28.97,3.0,HYDERABAD,Bachelor's,Onsite
+EMP00807,ui/ux design,2017,,ACTIVE,,4.44,6.86,15.71,7.0,Bangalore,Master's,Onsite
+EMP00896,Database_Administration,01/17,,Working,,3.68,6.48,12.3,7.0,Bangalore,Bachelor's,Remote
+EMP01429,CLOUD COMPUTING,2019,2023,No,Work-Life Balance,7.49,10.84,21.11,6.0,Hyderabad,Bachelor's,Remote
+EMP00595,DevOps,2017.0,2019-01-01,exited,  Higher Salary Elsewhere  ,4.01,5.75,11.98,7.0,Chennai,Bachelor's,Hybrid
+EMP00161,  Data Science  ,2023,,active,,4.58,6.68,12.7,2.0,PUNE,Bachelor's,Onsite
+EMP01661,Networking,2022-01-01,,Y,,7.69,10.82,23.53,2.0,hyderabad,Bachelor's,Hybrid
+EMP01589,NETWORKING,2023,,Active,,9.11,14.33,25.09,2.0,bangalore,Bachelor's,Remote
+EMP01618,Business_Analysis,01/15,,Yes,,7.48,10.79,23.86,9.0,bangalore,Master's,Hybrid
+EMP00853,it support & helpdesk,01/22,2022-01-01,Exited,  Retirement  ,11.45,16.13,40.95,2.0,Mumbai,Bachelor's,Onsite
+EMP00442,  Business Analysis  ,2024,2024,No,Layoff,8.96,13.84,33.32,0.0,Hyderabad,,Hybrid
+EMP00113,IT SUPPORT & HELPDESK,2015-01-01,,Yes,,8.45,244.4,35.48,10.0,Bangalore,Master's,Remote
+EMP01878,IT SUPPORT & HELPDESK,2024,,ACTIVE,,2.71,3.75,7.19,0.0,Hyderabad,Master's,Onsite
+EMP01198,Database Administration,2020.0,01/23,EXITED,Career Growth,6.02,175.39999999999998,17.99,4.0,MUMBAI,Master's,Onsite
+EMP00655,QA & Testing,2023-01-01,,Yes,,9.85,16.85,46.07,2.0,Pune,Bachelor's,Remote
+EMP01225,UI/UX DESIGN,2019,,1,,6.84,10.79,30.76,5.0,mumbai,Bachelor's,Hybrid
+EMP01037,QA & Testing,2024.0,2024,No,Work-Life Balance,7.27,12.4,30.6,0.0,CHENNAI,Master's,Hybrid
+EMP02170,QA & Testing,2015,,Yes,,8.48,11.7,22.45,10.0,Bangalore,Master's,onsite
+EMP00171,Business Analysis,2016,,1,,3.02,5.03,11.75,8.0,Bangalore,bachelor's,Hybrid
+EMP00446,QA & Testing,2017-01-01,,ACTIVE,,4.38,7.13,13.36,7.0,Hyderabad,Bachelor's,Hybrid
+EMP00897,,2021,,,,10.65,,42.61,,,,
+EMP01143,QA & Testing,2024.0,,Working,,8.61,14.53,40.88,0.0,Chennai,Bachelor's,Hybrid
+EMP00228,Database Administration,2019,2024,EXITED,career switch,3.98,6.24,17.3,5.0,Bangalore,Bachelor's,Hybrid
+EMP01121,it support & helpdesk,2015-01-01,2019,exited,Layoff,7.27,11.6,32.44,9.0,  Hyderabad  ,Bachelor's,WFH
+EMP01934,devops,01/16,,Yes,,4.06,7.34,19.19,9.0,Chennai,Bachelor's,Hybrid
+EMP01872,BUSINESS ANALYSIS,2024-01-01,,Active,,10.97,17.31,41.93,0.0,bangalore,,Onsite
+EMP00691,Business Analysis,2018,2018-01-01,EXITED,higher salary elsewhere,4.08,6.33,16.32,6.0,MUMBAI,Bachelor's,Remote
+EMP00226,SOFTWARE DEVELOPMENT,2016,2018,EXITED,Company Restructuring,4.87,8.39,18.02,8.0,  Chennai  ,PhD,Onsite
+EMP00727,Data Science,2016,,Active,,4.07,6.66,14.88,8.0,MUMBAI,Bachelor's,Onsite
+EMP00920,Software Development,01/22,,active,,5.85,9.42,20.29,2.0,CHENNAI,Bachelor's,Onsite
+EMP01545,Cybersecurity,01/23,2024,exited,Company Restructuring,8.84,14.72,35.54,1.0,Mumbai,Bachelor's,Hybrid
+EMP00003,data science,2023,,Y,,5.92,10.53,20.72,1.0,Gurgaon,Master's,Remote
+EMP01550,  IT Support & Helpdesk  ,2021,2023,0,Health Reasons,9.9,14.35,33.08,4.0,Mumbai,Bachelor's,Onsite
+EMP01415,Cybersecurity,2015,,1,,4.36,7.74,19.2,10.0,Delhi,Master's,WFH
+EMP01342,Software Development,2021,,Y,,8.8,12.32,21.92,4.0,Hyderabad,Bachelor's,Onsite
+EMP00382,data science,01/16,,Y,,5.58,8.1,19.96,9.0,hyderabad,Bachelor's,Remote
+EMP00424,AI/ML Engineering,2022,,Yes,,4.42,7.16,15.88,3.0,Gurgaon,Bachelor's,Remote
+EMP00937,,2024,,,,5.27,,19.89,,,,
+EMP00525,Cybersecurity,2023-01-01,,Working,,6.51,11.63,23.05,2.0,Chennai,Bachelor's,Remote
+EMP00604,BUSINESS ANALYSIS,2017,01/22,N,Retirement,1.47,2.5,6.01,7.0,Pune,PhD,Remote
+EMP00242,AI/ML_Engineering,01/17,,active,,1.64,2.5,5.94,7.0,Pune,Bachelor's,Onsite
+EMP00657,CLOUD COMPUTING,2019-01-01,,active,,6.77,12.03,26.61,5.0,gurgaon,bachelor's,Hybrid
+EMP00784,ai/ml engineering,2024.0,,Y,,5.37,8.97,19.48,0.0,  Noida  ,Bachelor's,Hybrid
+EMP00176,IT Support & Helpdesk,2019,,1,,6.09,8.67,17.77,5.0,gurgaon,Master's,onsite
+EMP02044,AI/ML Engineering,2023-01-01,,ACTIVE,,9.53,14.29,33.39,1.0,chennai,Bachelor's,Hybrid
+EMP02156,AI/ML Engineering,2016,,active,,5.84,9.78,17.23,8.0,Bangalore,,Hybrid
+EMP00977,Networking,2022,,ACTIVE,,3.53,6.31,15.13,2.0,Hyderabad,Bachelor's,Onsite
+EMP00398,BUSINESS ANALYSIS,2015-01-01,,Y,,6.74,9.96,24.45,9.0,Delhi,PhD,WFH
+EMP01421,  QA & Testing  ,2017,2020,No,Higher Salary Elsewhere,6.87,10.52,19.09,7.0,Bangalore,MASTER'S,Onsite
+EMP02164,DEVOPS,2022-01-01,01/23,N,Higher Salary Elsewhere,6.97,10.32,21.69,2.0,Hyderabad,bachelor's,Hybrid
+EMP00477,IT Support & Helpdesk,2024,,Working,,10.19,15.43,39.26,0.0,BANGALORE,Bachelor's,Onsite
+EMP01187,IT Support & Helpdesk,01/17,,Active,,5.65,9.53,19.05,8.0,Pune,Master's,onsite
+EMP01583,Data Science,2017-01-01,,1,,2.5,4.0,10.2,7.0,  Delhi  ,Master's,Hybrid
+EMP00288,Cybersecurity,2021,,1,,2.98,5.39,11.34,3.0,mumbai,Bachelor's,Hybrid
+EMP00435,Networking,01/17,2023,exited,Layoff,7.31,10.52,23.97,7.0,Bangalore,Master's,Onsite
+EMP01108,DevOps,01/22,,Y,,6.91,9.55,22.66,2.0,  Chennai  ,Bachelor's,onsite
+EMP01140,Software Development,2023,,Y,,5.51,9.28,25.3,1.0,Bangalore,Bachelor's,Hybrid
+EMP01843,Cybersecurity,2019,,Yes,,7.22,11.93,27.72,6.0,Bangalore,MASTER'S,Hybrid
+EMP00550,Networking,2019,,active,,5.74,0.71,20.36,5.0,  Delhi  ,MASTER'S,onsite
+EMP01555,Cloud Computing,2019.0,2019,Left,Retirement,8.94,1.09,22.73,5.0,HYDERABAD,Master's,Onsite
+EMP00750,  Database Administration  ,2019-01-01,,ACTIVE,,2.55,3.88,8.03,5.0,  Gurgaon  ,Bachelor's,Remote
+EMP00671,it support & helpdesk,01/19,,Active,,3.31,4.79,11.63,6.0,Bangalore,Bachelor's,Hybrid
+EMP01517,CYBERSECURITY,01/23,,Y,,7.55,12.51,32.83,2.0,CHENNAI,Bachelor's,Onsite
+EMP00270,networking,2022-01-01,,Yes,,8.37,12.66,29.62,2.0,Pune,Master's,Onsite
+EMP01576,DevOps,2019,,active,,4.25,6.35,15.04,5.0,Pune,Bachelor's,Onsite
+EMP00246,AI/ML Engineering,2020-01-01,,active,,2.86,4.81,13.14,4.0,PUNE,Diploma,Onsite
+EMP01592,UI/UX_Design,2021.0,,1,,9.32,13.87,35.66,3.0,Hyderabad,Bachelor's,Onsite
+EMP01301,Business Analysis,2022,,Active,,5.9,8.48,21.35,2.0,Bangalore,Master's,Onsite
+EMP00084,Data Science,2021,01/21,Exited,Health Reasons,3.82,6.11,12.79,3.0,Noida,,Hybrid
+EMP00133,software development,2015-01-01,2024.0,N,HIGHER STUDIES,4.0,5.92,16.27,9.0,Delhi,Master's,WFH
+EMP00209,ui/ux design,2015,,1,,3.68,6.23,14.98,9.0,Noida,Diploma,Onsite
+EMP02088,IT_Support_&_Helpdesk,2015,,Yes,,6.89,9.32,20.36,9.0,Mumbai,,Onsite
+EMP00824,  Networking  ,2023-01-01,,ACTIVE,,1.82,2.5,6.68,1.0,Bangalore,Master's,Onsite
+EMP01105,Networking,2022,,Yes,,9.14,13.02,26.58,2.0,  Gurgaon  ,bachelor's,Onsite
+EMP00915,Software_Development,2016,,Working,,5.0,6.76,13.09,8.0,Bangalore,Master's,REMOTE
+EMP00694,  Business Analysis  ,2019-01-01,,1,,3.26,4.5,8.49,5.0,Hyderabad,Bachelor's,Remote
+EMP00342,Data Science,2021,,Yes,,3.33,5.54,10.13,4.0,HYDERABAD,Bachelor's,Hybrid
+EMP00169,IT Support & Helpdesk,2019.0,,Yes,,3.64,4.92,11.44,5.0,DELHI,Diploma,Onsite
+EMP00155,Networking,2017,2019-01-01,0,higher salary elsewhere,8.9,12.97,33.24,8.0,Pune,,Remote
+EMP00961,Software Development,2020,,Working,,6.54,11.49,32.71,4.0,Chennai,Master's,Hybrid
+EMP00192,  QA & Testing  ,01/19,,Yes,,3.68,6.2,15.13,5.0,Mumbai,Diploma,Onsite
+EMP02160,,01/22,2024,,company restructuring,3.86,,9.61,,,,
+EMP00206,Data Science,2018-01-01,,Working,,7.33,12.05,32.72,7.0,Chennai,Bachelor's,Hybrid
+EMP00386,UI/UX Design,2019,,Y,,1.97,3.13,6.93,5.0,Gurgaon,Bachelor's,Onsite
+EMP01336,SOFTWARE DEVELOPMENT,2016,,1,,9.85,14.84,27.04,9.0,Pune,Bachelor's,Remote
+EMP01986,DATA SCIENCE,2021,,Active,,7.24,12.56,26.54,4.0,  Pune  ,Diploma,Remote
+EMP01580,AI/ML Engineering,01/20,2020-01-01,Left,Relocation,8.35,11.48,24.28,4.0,Chennai,Bachelor's,Hybrid
+EMP00932,QA & Testing,2023-01-01,2024,Resigned,retirement,7.19,11.03,23.76,1.0,Pune,Master's,Hybrid
+EMP00425,Database Administration,2018,,Active,,2.74,4.44,8.41,6.0,Chennai,Master's,Remote
+EMP00191,Data_Science,2021,,ACTIVE,,6.12,10.89,26.5,3.0,delhi,Bachelor's,Onsite
+EMP02041,DevOps,2023,,1,,3.77,5.48,15.96,1.0,Bangalore,Bachelor's,Onsite
+EMP00187,Cloud Computing,01/17,,Working,,1.77,3.12,8.61,7.0,CHENNAI,Bachelor's,Hybrid
+EMP01294,Networking,2021,2023,EXITED,Health Reasons,10.29,15.71,29.21,3.0,Gurgaon,Bachelor's,Hybrid
+EMP01952,  Database Administration  ,01/20,,Active,,4.53,8.22,17.46,5.0,Noida,Bachelor's,Hybrid
+EMP01331,QA & Testing,2017,,Working,,9.01,13.85,32.24,8.0,Noida,Master's,Onsite
+EMP01114,Data Science,01/17,,Y,,6.14,10.45,24.3,7.0,mumbai,Bachelor's,Onsite
+EMP01844,qa & testing,01/20,,Yes,,6.62,10.32,27.14,4.0,  Noida  ,bachelor's,Hybrid
+EMP02026,Database_Administration,2015,,Yes,,8.3,14.2,28.23,9.0,Mumbai,Bachelor's,Hybrid
+EMP01107,QA & Testing,2018-01-01,,1,,5.35,9.11,23.36,6.0,Bangalore,Bachelor's,Onsite
+EMP01287,  UI/UX Design  ,2017-01-01,,Y,,2.6,4.58,10.86,7.0,Pune,Bachelor's,Onsite
+EMP01735,  Data Science  ,2020,,Yes,,7.72,10.53,18.06,4.0,Chennai,PhD,onsite
+EMP00652,networking,2016,,active,,9.42,13.52,29.34,8.0,Bangalore,Diploma,Remote
+EMP02036,Cybersecurity,2020,2020,N,Retirement,2.61,3.52,9.43,4.0,Mumbai,Bachelor's,Onsite
+EMP00579,Software Development,2021,,Yes,,6.47,10.38,20.03,3.0,Chennai,Master's,Onsite
+EMP01633,NETWORKING,2021.0,2024.0,N,RELOCATION,6.18,8.29,23.77,3.0,Mumbai,Bachelor's,Onsite
+EMP01910,IT Support & Helpdesk,2023.0,2024,N,career growth,4.64,7.34,13.47,2.0,GURGAON,Bachelor's,Hybrid
+EMP00520,ai/ml engineering,2019,,Y,,5.2,7.86,20.7,5.0,Hyderabad,Bachelor's,Onsite
+EMP01577,Business Analysis,2019,,active,,7.63,10.47,29.06,6.0,Delhi,Bachelor's,Hybrid
+EMP01138,Database Administration,2022,,Active,,9.02,14.96,26.93,2.0,BANGALORE,Master's,Hybrid
+EMP02097,BUSINESS ANALYSIS,2024,,active,,3.93,6.41,13.55,1.0,pune,bachelor's,Onsite
+EMP00629,AI/ML Engineering,2024-01-01,2024,0,Higher Salary Elsewhere,3.72,5.4,12.42,0.0,Noida,Bachelor's,Hybrid
+EMP00220,networking,2022-01-01,,1,,7.77,12.47,22.98,3.0,BANGALORE,PhD,Onsite
+EMP00107,Data Science,2018,2019,Exited,Career Switch,8.84,14.61,35.64,6.0,Chennai,Diploma,Hybrid
+EMP01360,QA & TESTING,01/15,2018,0,career switch,2.36,3.15,5.88,9.0,NOIDA,Master's,Hybrid
+EMP01980,DEVOPS,2022,,ACTIVE,,3.33,5.38,10.81,2.0,Pune,Bachelor's,Onsite
+EMP00394,QA_&_Testing,2018,2024,Left,HIGHER SALARY ELSEWHERE,4.63,7.75,16.25,6.0,Chennai,Bachelor's,Hybrid
+EMP00349,Software Development,2021,2023,0,Layoff,10.15,16.44,30.27,4.0,Bangalore,Bachelor's,Onsite
+EMP00480,it support & helpdesk,2023-01-01,,1,,4.31,6.43,17.69,1.0,hyderabad,Bachelor's,Hybrid
+EMP01504,IT Support & Helpdesk,2024,,ACTIVE,,7.81,11.0,27.48,0.0,Mumbai,Master's,Hybrid
+EMP00058,  Database Administration  ,01/18,2024.0,Left,WORK-LIFE BALANCE,7.48,10.91,21.17,7.0,gurgaon,Bachelor's,Onsite
+EMP00622,Database Administration,2022-01-01,,ACTIVE,,9.45,13.01,34.79,2.0,  Delhi  ,Master's,Onsite
+EMP01092,UI/UX DESIGN,2022-01-01,,Active,,7.93,10.64,20.43,2.0,noida,Master's,Onsite
+EMP01239,Cybersecurity,2015-01-01,2022-01-01,0,Layoff,9.88,13.96,29.02,9.0,Pune,Diploma,Remote
+EMP00028,ai/ml engineering,2023,,Active,,1.86,50.0,5.26,1.0,GURGAON,Bachelor's,Hybrid
+EMP01919,UI/UX Design,2022.0,,Working,,6.18,9.24,26.15,3.0,Pune,Bachelor's,Onsite
+EMP01339,IT Support & Helpdesk,2019-01-01,,ACTIVE,,3.96,5.38,11.82,5.0,Mumbai,Diploma,Remote
+EMP01992,it support & helpdesk,2022,,Working,,2.85,4.83,9.13,2.0,mumbai,PhD,Remote
+EMP01498,UI/UX Design,01/20,,Active,,7.01,11.92,23.76,4.0,Chennai,Master's,Onsite
+EMP01440,Data Science,2023,,Y,,4.99,7.02,12.75,1.0,NOIDA,Bachelor's,Remote
+EMP00033,Networking,2019-01-01,2019,Resigned,Layoff,1.58,2.6,6.17,5.0,Pune,Bachelor's,Onsite
+EMP00762,Networking,01/24,2024,0,Career Switch,7.83,13.21,23.19,0.0,hyderabad,Bachelor's,Onsite
+EMP00736,BUSINESS ANALYSIS,2019,2024,Resigned,higher salary elsewhere,7.93,12.67,24.84,5.0,Mumbai,Bachelor's,Hybrid
+EMP00797,Cloud Computing,2021-01-01,,1,,8.35,12.39,29.25,3.0,Gurgaon,PhD,Remote
+EMP01979,devops,2021,2024.0,Exited,Higher Salary Elsewhere,3.98,6.38,16.68,4.0,Gurgaon,MASTER'S,Hybrid
+EMP02074,software development,2016,01/21,EXITED,health reasons,11.08,15.41,27.1,8.0,Bangalore,PhD,Onsite
+EMP00036,QA & Testing,2016-01-01,2019,N,Higher Salary Elsewhere,3.39,5.65,10.08,8.0,Chennai,MASTER'S,Hybrid
+EMP00646,DevOps,2015-01-01,,active,,7.37,10.29,25.45,9.0,Gurgaon,Master's,Onsite
+EMP01877,devops,01/15,2022,Exited,Higher Studies,6.0,9.86,22.25,9.0,Gurgaon,MASTER'S,Hybrid
+EMP00877,Cybersecurity,2017,,Y,,4.88,6.62,18.98,8.0,Chennai,Bachelor's,Onsite
+EMP01304,Cybersecurity,01/21,,ACTIVE,,6.76,10.35,22.88,3.0,Delhi,Bachelor's,Hybrid
+EMP00331,Business_Analysis,2018,,Working,,5.37,7.86,15.15,6.0,PUNE,PhD,Hybrid
+EMP01184,IT Support & Helpdesk,2015,,Y,,8.14,11.57,28.5,10.0,Hyderabad,Diploma,Onsite
+EMP00845,Cybersecurity,2017,,Active,,5.55,8.63,24.2,8.0,Pune,Bachelor's,Onsite
+EMP00701,,2019,,,,6.05,,23.97,,,,
+EMP01763,Cybersecurity,01/19,,Active,,6.04,9.51,18.83,5.0,pune,Bachelor's,Hybrid
+EMP00828,Database Administration,2016-01-01,,Active,,4.91,8.3,20.06,8.0,mumbai,Master's,WFH
+EMP02047,IT Support & Helpdesk,01/22,,Working,,4.02,5.89,13.92,2.0,Chennai,Bachelor's,Onsite
+EMP00527,,2024,,,,8.87,,30.61,,,,
+EMP01623,  Software Development  ,2020,,active,,3.97,5.7,11.36,4.0,Delhi,Diploma,Remote
+EMP00496,data science,2018,,active,,6.5,11.8,22.12,6.0,BANGALORE,,Onsite
+EMP01149,Business Analysis,2022-01-01,,Yes,,5.21,9.46,25.48,3.0,Chennai,Master's,onsite
+EMP00786,Cybersecurity,2019-01-01,,Y,,1.62,2.95,6.94,5.0,PUNE,Bachelor's,Hybrid
+EMP00436,NETWORKING,2020-01-01,,ACTIVE,,3.57,6.28,15.67,4.0,Bangalore,Bachelor's,Hybrid
+EMP01805,BUSINESS ANALYSIS,2020,2024-01-01,Exited,  Career Switch  ,6.18,8.36,22.53,5.0,bangalore,Master's,Hybrid
+EMP02191,DATABASE ADMINISTRATION,2018,,Active,,3.64,5.52,11.59,7.0,Noida,Bachelor's,Onsite
+EMP01941,Networking,2022,2023,exited,  Career Switch  ,14.92,19.97,34.45,2.0,Gurgaon,Bachelor's,Onsite
+EMP01253,DevOps,2015,,Working,,5.41,7.82,21.01,9.0,Pune,bachelor's,REMOTE
+EMP00950,QA & Testing,2022.0,2024,exited,Higher Studies,6.42,9.58,25.58,2.0,Noida,Bachelor's,Hybrid
+EMP00087,DevOps,2016-01-01,,1,,4.05,7.1,15.62,8.0,Noida,Bachelor's,Onsite
+EMP00118,DEVOPS,2020,,Y,,5.69,7.78,21.69,5.0,Delhi,Bachelor's,Onsite
+EMP01004,cybersecurity,2023,,1,,7.61,10.75,29.66,2.0,CHENNAI,Bachelor's,Onsite
+EMP01434,cybersecurity,2015,,ACTIVE,,2.12,3.72,9.65,9.0,Chennai,Bachelor's,Hybrid
+EMP00806,business analysis,2018,2019,0,Career Growth,5.98,9.11,23.03,6.0,CHENNAI,Master's,Onsite
+EMP01180,ai/ml engineering,2016,,Yes,,6.26,10.09,18.72,8.0,MUMBAI,,Hybrid
+EMP02131,DevOps,01/18,,Active,,7.68,12.03,29.83,7.0,Mumbai,Master's,Hybrid
+EMP00854,Business Analysis,2017-01-01,,Working,,4.42,0.3315,12.22,7.0,Mumbai,Bachelor's,Onsite
+EMP01457,UI/UX Design,2016,2022-01-01,0,WORK-LIFE BALANCE,9.99,13.65,38.02,8.0,Hyderabad,Master's,Hybrid
+EMP01873,Networking,2015-01-01,,Y,,4.5,6.68,17.88,9.0,Mumbai,Bachelor's,Onsite
+EMP01483,NETWORKING,2016,,Y,,4.63,7.65,20.23,8.0,Chennai,Bachelor's,Hybrid
+EMP01268,Data Science,2023,2024.0,Exited,RETIREMENT,2.69,4.45,8.17,1.0,Chennai,Bachelor's,Hybrid
+EMP01019,QA & Testing,01/20,2024.0,N,Career Growth,9.64,14.72,38.22,4.0,Noida,Bachelor's,Hybrid
+EMP00344,Cybersecurity,2020,,Working,,4.19,103.8,20.56,5.0,PUNE,Master's,Onsite
+EMP02153,NETWORKING,2021,,active,,4.58,7.69,19.83,3.0,pune,Master's,Onsite
+EMP00415,  AI/ML Engineering  ,2015,,1,,5.41,7.47,20.3,9.0,Pune,Bachelor's,Hybrid
+EMP02004,Business_Analysis,2017.0,,Y,,7.89,10.68,28.24,7.0,mumbai,Bachelor's,Remote
+EMP01399,Networking,01/16,,Working,,3.67,6.15,18.24,8.0,Hyderabad,Bachelor's,Onsite
+EMP00906,AI/ML Engineering,2018.0,,Y,,8.15,11.91,21.73,7.0,PUNE,Bachelor's,Onsite
+EMP01840,it support & helpdesk,2023,,1,,6.43,0.83,25.03,2.0,CHENNAI,Bachelor's,Hybrid
+EMP00354,Data Science,2020,2021.0,No,Health Reasons,1.54,2.5,5.03,4.0,Hyderabad,Master's,Hybrid
+EMP00674,Cloud_Computing,2023,,1,,7.19,10.69,27.66,1.0,Pune,bachelor's,Remote
+EMP00934,Cybersecurity,2019.0,2021,N,higher salary elsewhere,3.97,6.23,11.22,5.0,Noida,Bachelor's,onsite
+EMP01477,  DevOps  ,2023,2023,Exited,HEALTH REASONS,6.77,0.82,27.34,1.0,Bangalore,Master's,Onsite
+EMP00615,UI/UX Design,2019.0,,Working,,3.05,5.43,10.3,6.0,Mumbai,Bachelor's,Remote
+EMP02015,SOFTWARE DEVELOPMENT,01/16,,Y,,4.77,6.67,16.14,8.0,PUNE,Master's,onsite
+EMP01081,UI/UX DESIGN,01/22,,Active,,3.38,5.46,14.52,3.0,Bangalore,Bachelor's,Onsite
+EMP01045,qa & testing,2020-01-01,,Y,,2.03,3.53,9.98,4.0,delhi,Bachelor's,Remote
+EMP01414,Cloud Computing,2023,2024,No,Retirement,4.36,6.97,18.77,2.0,NOIDA,Bachelor's,REMOTE
+EMP01908,IT Support & Helpdesk,2015,,Working,,3.55,6.3,14.43,9.0,Chennai,,Onsite
+EMP01056,UI/UX Design,2024,,1,,4.44,5.93,10.31,1.0,Hyderabad,Bachelor's,REMOTE
+EMP00778,qa & testing,2017,,Yes,,5.99,8.3,22.88,7.0,Bangalore,Master's,Remote
+EMP01781,Cloud Computing,01/24,,Active,,6.57,11.78,26.3,0.0,Pune,Master's,Onsite
+EMP01850,Business Analysis,2015,2018-01-01,Left,LAYOFF,2.85,4.9,9.5,9.0,gurgaon,MASTER'S,Hybrid
+EMP00821,UI/UX DESIGN,2023.0,,Working,,6.97,9.62,18.26,1.0,Noida,Master's,WFH
+EMP01033,QA & Testing,2018.0,2023,Exited,HIGHER SALARY ELSEWHERE,6.07,9.86,20.61,6.0,bangalore,Bachelor's,Onsite
+EMP00092,  Data Science  ,2024-01-01,,Active,,8.05,13.41,29.45,1.0,Chennai,Master's,Onsite
+EMP02117,DATA SCIENCE,2016,,1,,6.99,10.56,24.64,8.0,HYDERABAD,Bachelor's,Onsite
+EMP00054,  Cloud Computing  ,2017,,Y,,7.0,9.61,19.27,7.0,hyderabad,Bachelor's,Hybrid
+EMP01481,CYBERSECURITY,2020-01-01,,Working,,2.84,3.84,9.27,5.0,pune,bachelor's,Onsite
+EMP01485,IT SUPPORT & HELPDESK,2015,2021.0,N,  Relocation  ,6.19,11.09,22.02,9.0,  Gurgaon  ,Bachelor's,Hybrid
+EMP01130,Database Administration,2016,,ACTIVE,,6.08,9.7,18.34,8.0,Pune,,Onsite
+EMP01460,CYBERSECURITY,2021,,1,,11.22,0.8965000000000001,49.61,3.0,MUMBAI,Master's,Remote
+EMP00688,AI/ML Engineering,2024-01-01,,Y,,7.46,13.22,23.44,0.0,Delhi,Bachelor's,Onsite
+EMP01466,Networking,2016-01-01,,1,,4.17,5.62,16.59,8.0,Chennai,Bachelor's,Hybrid
+EMP00630,it support & helpdesk,2017,2017,EXITED,layoff,10.22,14.36,29.38,7.0,Chennai,Bachelor's,Onsite
+EMP01470,NETWORKING,2023,,ACTIVE,,7.67,12.09,32.93,2.0,Gurgaon,,Onsite
+EMP01011,Database Administration,2018,,ACTIVE,,3.59,5.98,17.41,6.0,NOIDA,MASTER'S,WFH
+EMP01747,data science,2024-01-01,,Y,,6.63,9.08,16.62,0.0,MUMBAI,Master's,Remote
+EMP01250,Data_Science,2021,,Working,,9.52,17.25,39.05,4.0,Hyderabad,Master's,Onsite
+EMP01482,  UI/UX Design  ,2015-01-01,2019.0,Resigned,Higher Salary Elsewhere,3.92,5.76,14.84,10.0,CHENNAI,MASTER'S,Onsite
+EMP02132,QA & Testing,2021.0,2022,Exited,Higher Studies,6.24,8.56,14.94,3.0,Pune,Master's,Remote
+EMP01289,UI/UX_Design,2015,2023,0,  Work-Life Balance  ,6.92,11.73,27.21,9.0,BANGALORE,Master's,Onsite
+EMP00941,IT SUPPORT & HELPDESK,2018-01-01,2022,EXITED,Work-Life Balance,10.13,13.94,41.71,6.0,PUNE,Bachelor's,Onsite
+EMP01059,  IT Support & Helpdesk  ,2020-01-01,,ACTIVE,,2.91,4.97,13.64,4.0,CHENNAI,bachelor's,Onsite
+EMP01664,Database Administration,01/17,,Active,,1.6,2.5,6.05,8.0,Bangalore,MASTER'S,WFH
+EMP01123,Data Science,01/18,01/20,Resigned,Higher Studies,4.6,8.33,15.82,6.0,Noida,MASTER'S,Hybrid
+EMP01974,business analysis,2017,,active,,8.7,12.57,25.09,7.0,Chennai,Bachelor's,Onsite
+EMP01286,IT SUPPORT & HELPDESK,2021,,1,,3.09,4.4,9.91,4.0,Hyderabad,Bachelor's,Hybrid
+EMP01515,DATABASE ADMINISTRATION,2018,2022,Resigned,Relocation,1.75,2.5,5.88,6.0,mumbai,Bachelor's,Hybrid
+EMP00815,Database Administration,2020,,1,,7.59,10.43,24.99,5.0,  Hyderabad  ,bachelor's,Work From Home
+EMP00070,IT SUPPORT & HELPDESK,2020,01/20,EXITED,  Layoff  ,2.91,4.78,12.01,4.0,Mumbai,Master's,Hybrid
+EMP01054,Software Development,2022,,Active,,7.4,13.16,27.34,2.0,Gurgaon,Master's,Onsite
+EMP01964,CYBERSECURITY,2017,2018,No,RELOCATION,7.35,13.35,30.97,7.0,Hyderabad,Diploma,Work From Home
+EMP01975,QA & Testing,01/23,2024-01-01,Left,Health Reasons,14.35,19.83,43.3,2.0,NOIDA,Master's,Onsite
+EMP00851,CLOUD COMPUTING,2016,,Working,,3.4,6.12,17.33,9.0,Pune,Master's,Onsite
+EMP00601,IT Support & Helpdesk,01/24,,ACTIVE,,6.58,10.79,27.85,1.0,Bangalore,Bachelor's,Onsite
+EMP00230,DEVOPS,2015-01-01,,Y,,6.01,10.87,20.04,9.0,Gurgaon,Bachelor's,Remote
+EMP00497,AI/ML ENGINEERING,2018,,Y,,9.63,13.45,26.04,6.0,bangalore,Bachelor's,Onsite
+EMP00282,Cybersecurity,2018,,1,,1.55,2.5,6.41,6.0,Pune,bachelor's,Onsite
+EMP01467,Cloud Computing,01/15,2017,No,Career Growth,4.14,5.54,10.44,9.0,Bangalore,Bachelor's,Hybrid
+EMP00327,  Cybersecurity  ,2024,,Working,,2.32,4.13,9.08,0.0,  Bangalore  ,Master's,Remote
+,,,,,,,,,,,,
+EMP00968,UI/UX Design,2021-01-01,,ACTIVE,,3.73,5.22,9.02,3.0,pune,,Onsite
+EMP01596,networking,01/17,,Yes,,1.86,2.5,4.93,7.0,Pune,Master's,Hybrid
+EMP01651,NETWORKING,2023,,Working,,4.21,7.47,14.11,1.0,Chennai,Bachelor's,Onsite
+EMP00303,DevOps,2024.0,,ACTIVE,,3.03,4.35,9.16,0.0,bangalore,Master's,Remote
+EMP01785,QA & Testing,2016.0,,Working,,4.86,7.01,18.15,8.0,Noida,Master's,Onsite
+EMP01132,Database Administration,2024-01-01,2024,EXITED,work-life balance,12.93,19.64,42.17,0.0,GURGAON,Bachelor's,Remote
+EMP00304,AI/ML ENGINEERING,01/23,,1,,7.88,11.43,21.29,2.0,Delhi,PhD,Remote
+EMP00332,UI/UX DESIGN,2023-01-01,,Working,,8.13,11.33,29.12,1.0,Delhi,Bachelor's,Work From Home
+EMP02043,UI/UX Design,2021,,ACTIVE,,4.92,6.87,16.8,3.0,Mumbai,Master's,Hybrid
+EMP01585,DATA SCIENCE,2024,,1,,16.45,25.67,47.43,0.0,Pune,Master's,Hybrid
+EMP01891,Software Development,2015.0,,1,,3.87,6.48,15.89,9.0,Noida,Bachelor's,Remote
+EMP00159,database administration,2023-01-01,,Y,,8.88,15.23,41.35,1.0,MUMBAI,Bachelor's,Remote
+EMP01449,NETWORKING,2018,,active,,4.37,0.64,15.34,6.0,  Delhi  ,Diploma,Hybrid
+EMP01953,Networking,2019,,Y,,5.12,8.86,21.03,5.0,Gurgaon,bachelor's,Hybrid
+EMP01512,Business Analysis,2016.0,,ACTIVE,,2.71,4.84,13.16,8.0,Noida,Bachelor's,Hybrid
+EMP01018,ui/ux design,2022.0,,active,,1.4,2.5,4.38,2.0,mumbai,PhD,Onsite
+EMP01782,Cloud Computing,2018,,active,,6.06,8.87,19.86,6.0,noida,Master's,Onsite
+EMP01341,AI/ML Engineering,2020,,Working,,7.89,14.32,37.24,4.0,Bangalore,bachelor's,Hybrid
+EMP00263,Data Science,2018-01-01,,Working,,1.83,2.5,4.29,6.0,  Gurgaon  ,Master's,Onsite
+EMP00794,DevOps,01/19,,Working,,4.19,7.58,17.32,5.0,Hyderabad,PhD,Work From Home
+EMP00099,CYBERSECURITY,2020.0,,Y,,5.28,8.13,16.96,4.0,Mumbai,Master's,Hybrid
+EMP00901,  Cloud Computing  ,2021,2021.0,Exited,RETIREMENT,4.68,8.33,18.59,4.0,Delhi,Bachelor's,Remote
+EMP00779,IT Support & Helpdesk,2021,,active,,6.96,10.73,22.34,4.0,Hyderabad,Diploma,Remote
+EMP01741,QA & Testing,01/20,,Y,,4.8,6.94,18.86,4.0,Mumbai,MASTER'S,Onsite
+EMP00222,Networking,01/19,,Active,,9.23,16.16,32.49,5.0,  Chennai  ,Master's,Onsite
+EMP01949,UI/UX DESIGN,2022,,ACTIVE,,5.02,8.99,25.79,2.0,Bangalore,Master's,REMOTE
+EMP01263,AI/ML Engineering,2017-01-01,2023-01-01,0,Layoff,5.51,9.19,21.79,7.0,Delhi,Master's,Onsite
+EMP01822,IT Support & Helpdesk,2024,,ACTIVE,,5.45,9.06,16.65,0.0,DELHI,,Hybrid
+EMP01815,  Data Science  ,2024,2024,Resigned,Career Growth,3.54,6.25,17.31,1.0,mumbai,Master's,Onsite
+EMP00774,cybersecurity,2018-01-01,,active,,6.34,8.95,16.02,6.0,noida,Master's,Onsite
+EMP01162,IT Support & Helpdesk,2024,2024-01-01,0,Work-Life Balance,7.04,11.08,28.54,1.0,HYDERABAD,Diploma,Onsite
+EMP01587,,2023,,,,6.32,,18.66,,,,
+EMP00059,Database Administration,2019-01-01,,ACTIVE,,6.03,8.82,19.79,5.0,noida,Master's,onsite
+EMP00621,Cybersecurity,2019,,1,,6.08,8.9,16.22,5.0,Hyderabad,Master's,Hybrid
+EMP02064,Database_Administration,01/20,,1,,9.18,12.81,28.88,4.0,Pune,Bachelor's,Remote
+EMP01933,networking,2022-01-01,,active,,4.17,6.84,17.2,3.0,hyderabad,Master's,Onsite
+EMP00561,CYBERSECURITY,2016,,Working,,7.68,1.05,35.21,8.0,Delhi,Bachelor's,Hybrid
+EMP00732,qa & testing,01/24,,Yes,,1.51,2.64,6.03,0.0,noida,Bachelor's,Hybrid
+EMP01039,Database Administration,2020.0,,Y,,8.71,12.6,21.93,4.0,Pune,,Hybrid
+EMP01168,Cybersecurity,2016,,1,,3.71,5.38,13.55,9.0,hyderabad,Bachelor's,Hybrid
+EMP01689,Cybersecurity,2020,,Yes,,3.77,6.76,11.75,5.0,Mumbai,Bachelor's,Onsite
+EMP01284,UI/UX Design,01/16,,1,,5.71,10.24,25.6,8.0,Delhi,Bachelor's,onsite
+EMP00252,DATABASE ADMINISTRATION,2024-01-01,,Active,,5.4,9.78,27.18,0.0,Pune,bachelor's,Remote
+EMP00041,Business Analysis,2023,,Working,,9.94,13.76,27.26,2.0,GURGAON,Master's,Onsite
+EMP00116,QA & Testing,2016,2018,Exited,Higher Studies,5.58,9.03,27.03,8.0,  Chennai  ,bachelor's,Remote
+EMP01701,data science,2017,,Y,,3.97,6.45,16.12,7.0,noida,Master's,Remote
+EMP01925,cloud computing,2021,2022,N,  Higher Studies  ,5.75,8.14,18.62,3.0,PUNE,Bachelor's,Hybrid
+EMP00970,database administration,2016,2021,No,Relocation,7.98,11.04,31.6,8.0,Mumbai,Bachelor's,Hybrid
+EMP00640,it support & helpdesk,2019-01-01,,1,,8.57,13.32,27.66,5.0,  Delhi  ,,Onsite
+EMP00016,DATA SCIENCE,2023,2023-01-01,No,Health Reasons,3.28,4.59,9.06,1.0,Chennai,Bachelor's,Remote
+EMP00587,Cloud Computing,2023.0,,Yes,,4.56,8.18,24.14,1.0,Pune,Diploma,Hybrid
+EMP00558,Cybersecurity,2022,,1,,1.7,2.5,5.59,2.0,hyderabad,Bachelor's,Hybrid
+EMP00554,Cybersecurity,2015-01-01,,Y,,3.3,4.68,11.09,9.0,Hyderabad,Bachelor's,Hybrid
+EMP02111,  Cloud Computing  ,01/24,2024-01-01,exited,Retirement,7.41,10.68,25.5,0.0,Hyderabad,Bachelor's,Hybrid
+EMP01106,  AI/ML Engineering  ,2018-01-01,,ACTIVE,,5.53,9.12,16.77,6.0,Chennai,PhD,Hybrid
+EMP00684,Cloud_Computing,01/23,,Y,,6.59,11.81,25.13,2.0,Gurgaon,Master's,Remote
+EMP00564,Networking,2015,,Yes,,1.58,2.5,5.34,9.0,Pune,bachelor's,Remote
+EMP00528,NETWORKING,2016-01-01,,Yes,,4.5,6.35,15.64,9.0,Mumbai,Bachelor's,Remote
+EMP01283,NETWORKING,2017,,1,,6.19,9.96,25.06,7.0,chennai,MASTER'S,REMOTE
+EMP01584,,2019,2023-01-01,,career switch,6.62,,21.58,,,,
+EMP01109,UI/UX Design,2020-01-01,,active,,9.99,14.71,29.3,4.0,pune,Bachelor's,Onsite
+EMP01290,  UI/UX Design  ,2023,,1,,1.88,3.27,6.22,1.0,Hyderabad,Diploma,Hybrid
+EMP00719,Business Analysis,2018,,active,,5.87,8.0,21.1,6.0,Gurgaon,PhD,Onsite
+EMP01638,IT Support & Helpdesk,2017,,Y,,2.95,5.33,15.86,7.0,Delhi,bachelor's,Onsite
+EMP01179,,2019-01-01,01/22,,Relocation,11.44,,46.27,,,,
+EMP02157,UI/UX Design,2018-01-01,,Y,,4.72,7.09,13.43,7.0,hyderabad,Master's,Remote
+EMP00142,Business_Analysis,2016.0,,Active,,6.5,10.28,24.17,8.0,Pune,,Remote
+EMP00703,data science,2018,2021.0,Resigned,Layoff,9.77,13.48,36.3,7.0,pune,Master's,Onsite
+EMP01200,cloud computing,2021,2023,Resigned,Higher Studies,6.32,10.25,28.71,3.0,Delhi,Bachelor's,Remote
+EMP00647,QA & Testing,01/21,,active,,6.21,11.23,31.29,3.0,Bangalore,PhD,Remote
+EMP00065,Networking,2021,,active,,5.14,8.27,17.99,3.0,Delhi,Master's,Onsite
+EMP01957,DevOps,01/16,,Y,,3.26,4.88,8.45,9.0,Delhi,Master's,Hybrid
+EMP00180,  DevOps  ,2018,2019.0,N,Career Growth,8.58,11.56,24.78,6.0,Chennai,bachelor's,Hybrid
+EMP01622,Database Administration,01/23,,Active,,6.66,9.52,19.17,1.0,  Gurgaon  ,Bachelor's,onsite
+EMP00927,Networking,2019,,ACTIVE,,3.91,5.29,9.77,6.0,  Noida  ,Diploma,Hybrid
+EMP01478,,2020-01-01,,,,8.02,,33.77,,,,
+EMP01749,database administration,2019,,Working,,3.7,6.26,15.38,5.0,NOIDA,Bachelor's,Hybrid
+EMP00837,Software Development,2020,,1,,7.57,13.49,36.3,5.0,Mumbai,Master's,Work From Home
+EMP01511,AI/ML Engineering,2024,,active,,9.27,13.02,24.6,0.0,Pune,Bachelor's,Hybrid
+EMP01049,Cloud Computing,2022,,Working,,3.24,5.12,15.12,2.0,  Hyderabad  ,Master's,Onsite
+EMP01112,  DevOps  ,2018,,Y,,6.81,11.11,31.42,7.0,Noida,Bachelor's,WFH
+EMP01505,IT Support & Helpdesk,2017,,1,,8.47,12.01,31.78,8.0,Pune,Master's,Hybrid
+EMP01281,Cloud_Computing,2019-01-01,,Y,,9.39,13.99,40.85,5.0,chennai,bachelor's,Hybrid
+EMP01948,IT Support & Helpdesk,2017,,Yes,,8.21,12.27,36.02,7.0,Gurgaon,Master's,Hybrid
+EMP01412,Business Analysis,01/20,,active,,6.18,10.37,27.88,5.0,GURGAON,Bachelor's,Onsite
+EMP00919,Networking,2023,2023,Left,CAREER SWITCH,6.04,0.91,27.2,1.0,Gurgaon,Bachelor's,Onsite
+EMP01388,Software Development,2020-01-01,,Working,,7.46,12.23,22.6,4.0,Mumbai,Bachelor's,Remote
+EMP00450,DEVOPS,2016,,1,,1.86,2.5,4.38,8.0,Noida,MASTER'S,Remote
+EMP00720,ai/ml engineering,2015-01-01,,ACTIVE,,10.26,14.0,38.71,9.0,Pune,Bachelor's,WFH
+EMP01231,DevOps,2018,2020,exited,Work-Life Balance,6.96,12.27,33.6,6.0,Gurgaon,Bachelor's,Hybrid
+EMP01539,software development,2024,,ACTIVE,,5.71,7.81,19.6,0.0,Gurgaon,Diploma,Remote
+EMP00368,DevOps,2019,2020,EXITED,Company_Restructuring,7.79,11.29,21.69,6.0,Gurgaon,Master's,Hybrid
+EMP00213,Database Administration,2020.0,,Active,,7.5,11.87,28.9,5.0,Hyderabad,Bachelor's,Onsite
+EMP00981,Cybersecurity,2020-01-01,,Y,,8.15,13.54,39.42,4.0,Noida,Diploma,Remote
+EMP00290,Cloud Computing,2015,,ACTIVE,,6.84,11.54,30.39,9.0,PUNE,,Work From Home
+EMP00193,cybersecurity,2020,,Y,,10.25,13.83,27.32,4.0,Delhi,Diploma,onsite
+EMP01494,Cloud Computing,2019,2020-01-01,Left,  Higher Studies  ,7.35,12.56,24.17,5.0,  Hyderabad  ,,Work From Home
+EMP00545,,2024,,,,1.78,,7.35,,,,
+EMP01361,Software Development,2019,,Working,,5.78,8.76,19.33,6.0,PUNE,Master's,Onsite
+EMP01581,  IT Support & Helpdesk  ,2024,,Working,,2.58,4.28,9.95,0.0,Delhi,Bachelor's,Remote
+EMP01915,Software Development,2019,,active,,11.63,19.31,35.98,6.0,Bangalore,Bachelor's,Work From Home
+EMP02121,BUSINESS ANALYSIS,2017,,Working,,7.8,12.69,32.31,8.0,  Pune  ,Bachelor's,Onsite
+EMP02063,DATA SCIENCE,01/19,2023,Exited,  Higher Studies  ,4.68,8.05,18.19,6.0,Hyderabad,Master's,Work From Home
+EMP01691,AI/ML Engineering,2023,,Yes,,7.73,12.63,29.84,1.0,  Chennai  ,Master's,Remote
+EMP02188,Data Science,2015,,ACTIVE,,1.61,2.51,5.53,10.0,Hyderabad,bachelor's,Hybrid
+EMP00008,IT Support & Helpdesk,2024,,active,,2.53,3.68,8.72,0.0,  Gurgaon  ,bachelor's,Hybrid
+EMP02108,Cybersecurity,2023,2023,No,  Work-Life Balance  ,7.11,12.6,27.58,2.0,Mumbai,Bachelor's,onsite
+EMP00886,Cloud Computing,2015,,Active,,9.88,14.34,38.36,9.0,pune,MASTER'S,Hybrid
+EMP02161,Software_Development,2021,,active,,7.93,13.78,33.11,4.0,bangalore,Master's,Hybrid
+EMP00340,UI/UX DESIGN,2021-01-01,,1,,5.48,9.26,18.86,4.0,Delhi,PhD,Hybrid
+EMP01359,  DevOps  ,2016,,Y,,4.14,6.99,20.66,9.0,noida,Bachelor's,Hybrid
+EMP01673,AI/ML Engineering,01/16,2018,exited,Layoff,5.82,9.69,19.42,9.0,Hyderabad,Master's,Onsite
+EMP00723,Cybersecurity,01/23,,active,,1.67,2.74,6.58,2.0,Hyderabad,MASTER'S,Onsite
+EMP01720,AI/ML Engineering,2019,,Y,,3.28,5.2,11.39,5.0,mumbai,Master's,Hybrid
+EMP00518,DATABASE ADMINISTRATION,01/15,2023,N,Relocation,1.83,2.81,5.17,9.0,Noida,Diploma,onsite
+EMP00403,Cybersecurity,2020,,Yes,,2.59,3.77,10.57,4.0,Mumbai,Bachelor's,onsite
+EMP00734,DEVOPS,2017-01-01,,ACTIVE,,4.08,5.62,14.66,7.0,chennai,,WFH
+EMP01737,ai/ml engineering,2018-01-01,,Working,,1.61,2.5,6.48,7.0,Noida,Bachelor's,Remote
+EMP01621,QA & Testing,2021,01/22,N,work-life balance,3.56,5.89,17.26,3.0,Chennai,Master's,Hybrid
+EMP01990,data science,2023,,ACTIVE,,2.51,0.2025,9.72,1.0,  Chennai  ,PhD,Onsite
+EMP00144,UI/UX Design,01/18,,active,,2.79,4.41,7.84,6.0,Noida,Bachelor's,Onsite
+EMP01192,CLOUD COMPUTING,2018,,1,,5.46,9.83,23.75,7.0,Hyderabad,Master's,Hybrid
+EMP00819,QA & Testing,01/16,,Active,,7.87,11.55,27.22,8.0,  Pune  ,Bachelor's,Onsite
+EMP00560,cloud computing,2017,,active,,5.52,9.77,27.4,7.0,delhi,MASTER'S,Hybrid
+EMP01985,QA & TESTING,2015,,Working,,6.51,9.25,18.46,9.0,Noida,Master's,Remote
+EMP00360,ui/ux design,2017-01-01,,Working,,3.19,5.46,12.9,7.0,gurgaon,PhD,Onsite
+EMP01519,Data_Science,2015,2021-01-01,exited,HEALTH REASONS,4.79,7.3,18.91,9.0,Chennai,Diploma,Hybrid
+EMP01688,Cybersecurity,2016,,active,,2.96,5.21,8.99,8.0,Chennai,Master's,onsite
+EMP01124,UI/UX Design,2018,,active,,4.19,7.13,19.95,6.0,Hyderabad,,Remote
+EMP00704,QA & Testing,2021,,1,,2.24,3.01,7.94,3.0,MUMBAI,Master's,Onsite
+EMP01799,SOFTWARE DEVELOPMENT,2024,,ACTIVE,,4.61,7.25,18.2,0.0,BANGALORE,Diploma,Onsite
+EMP00060,DATABASE ADMINISTRATION,2021,,Active,,9.28,14.57,27.73,3.0,Gurgaon,Diploma,Onsite
+EMP01194,,2024,,,,7.59,,30.82,,,,
+EMP00926,Database_Administration,2022-01-01,2024,Exited,Career Growth,5.49,7.49,13.24,2.0,Gurgaon,Master's,Onsite
+EMP02120,AI/ML Engineering,2015-01-01,,Yes,,9.04,12.1,33.28,9.0,pune,Master's,Onsite
+EMP00879,UI/UX Design,2021,,Y,,6.65,11.09,22.12,3.0,Delhi,Bachelor's,Onsite
+EMP00012,Data Science,2019,,active,,5.29,8.51,16.93,5.0,Pune,Diploma,Hybrid
+EMP00539,Cloud Computing,2024-01-01,,active,,3.85,6.6,13.97,0.0,  Chennai  ,Bachelor's,Remote
+EMP00414,AI/ML ENGINEERING,2017-01-01,,1,,1.78,2.5,6.73,7.0,hyderabad,Master's,Hybrid
+EMP02016,UI/UX Design,2021-01-01,,Y,,3.58,5.64,16.29,3.0,Pune,Bachelor's,Hybrid
+EMP01786,,2021,,,,10.82,,42.25,,,,
+EMP01869,Networking,2023.0,,ACTIVE,,10.02,16.19,28.41,2.0,Hyderabad,Master's,Hybrid
+EMP00075,,2016,,,,7.98,,30.57,,,,
+EMP01573,Database Administration,2021,,1,,4.86,0.7,17.66,4.0,  Bangalore  ,Bachelor's,Hybrid
+EMP00585,DevOps,2018.0,,active,,9.59,13.96,37.82,6.0,Mumbai,Master's,Onsite
+EMP01111,IT_Support_&_Helpdesk,2023,,active,,10.61,14.53,27.65,1.0,Bangalore,Bachelor's,Hybrid
+EMP01213,ai/ml engineering,2024,2024,0,  Company Restructuring  ,7.92,10.94,26.83,0.0,Bangalore,bachelor's,Remote
+EMP01882,  Networking  ,2016,,Y,,1.67,2.5,5.13,9.0,Hyderabad,Bachelor's,REMOTE
+EMP01409,cloud computing,2015-01-01,,Y,,7.47,11.95,29.58,9.0,pune,,Work From Home
+EMP00178,Cybersecurity,2020,2022,Resigned,Retirement,7.37,0.98,25.36,4.0,pune,Bachelor's,Remote
+EMP02007,Software Development,01/24,2024-01-01,0,work-life balance,8.77,15.91,42.82,0.0,Noida,Master's,Hybrid
+EMP01147,DEVOPS,01/17,,Y,,5.85,0.87,26.32,8.0,Chennai,,Onsite
+EMP01215,IT Support & Helpdesk,2024.0,2024,Exited,Career Switch,8.49,15.02,42.64,0.0,Noida,Master's,Hybrid
+EMP02104,,2016-01-01,01/16,,retirement,7.3,,19.38,,,,
+EMP01438,networking,01/20,2020,EXITED,higher studies,7.87,10.81,25.4,4.0,Bangalore,Master's,Hybrid
+EMP01643,Software Development,2022,,Y,,8.29,11.61,22.37,3.0,Chennai,Master's,Remote
+EMP01319,,2020,,,,2.52,,8.14,,,,
+EMP01270,  AI/ML Engineering  ,2015,,ACTIVE,,7.38,11.16,24.69,10.0,Bangalore,Bachelor's,Onsite
+EMP01242,data science,2024-01-01,,ACTIVE,,7.85,11.49,33.86,0.0,Chennai,Master's,Remote
+EMP00605,UI/UX Design,2021,,Yes,,7.84,11.65,25.97,3.0,Delhi,Diploma,Onsite
+EMP00490,Cloud Computing,2024,,Y,,6.57,11.32,26.31,0.0,Pune,Master's,Hybrid
+EMP00765,UI/UX Design,2023,2024,No,Layoff,5.05,6.89,16.83,2.0,  Noida  ,Master's,Remote
+EMP00956,IT Support & Helpdesk,2021.0,,Active,,4.87,7.88,14.77,3.0,BANGALORE,Bachelor's,Hybrid
+EMP01426,AI/ML Engineering,2020,,Active,,8.2,14.25,38.6,4.0,Pune,Bachelor's,Hybrid
+EMP01282,AI/ML ENGINEERING,2022,,Working,,10.72,14.75,34.44,3.0,HYDERABAD,Bachelor's,Hybrid
+EMP01675,  AI/ML Engineering  ,2016,,Y,,1.79,2.96,5.96,8.0,Gurgaon,Master's,Onsite
+EMP01738,UI/UX DESIGN,2022,,Yes,,6.33,10.19,22.23,2.0,  Chennai  ,PhD,Remote
+EMP00748,DATA SCIENCE,2016-01-01,2018-01-01,Exited,Career Growth,11.22,16.69,32.15,8.0,Gurgaon,Bachelor's,Hybrid
+EMP01694,cybersecurity,01/23,,active,,5.91,8.2,20.84,1.0,Pune,Bachelor's,Hybrid
+,,,,,,,,,,,,
+EMP00708,ai/ml engineering,2018-01-01,,Working,,8.98,14.52,25.44,6.0,  Mumbai  ,Master's,Hybrid
+EMP01896,AI/ML Engineering,2016-01-01,,Y,,6.98,9.38,25.72,9.0,Pune,Master's,Onsite
+EMP01307,Cloud Computing,2015,2023,Exited,Health Reasons,5.19,8.65,24.01,9.0,Noida,Bachelor's,Remote
+EMP01305,business analysis,2019,,active,,4.02,6.51,19.21,5.0,Gurgaon,Master's,REMOTE
+EMP01677,Cybersecurity,2024,,1,,9.33,16.49,36.99,0.0,Hyderabad,Bachelor's,Onsite
+EMP01939,Networking,01/16,,ACTIVE,,1.99,3.41,8.5,8.0,Bangalore,Bachelor's,Work From Home
+EMP01256,  IT Support & Helpdesk  ,2021,,Active,,1.95,3.36,9.86,4.0,Delhi,Bachelor's,Onsite
+EMP00081,IT Support & Helpdesk,2023,,ACTIVE,,8.77,13.02,22.66,1.0,Chennai,Master's,Onsite
+EMP00474,QA & Testing,2017,,Working,,6.08,9.36,24.45,7.0,NOIDA,Bachelor's,Remote
+EMP01246,Database Administration,2015-01-01,,active,,10.5,14.12,29.5,9.0,Bangalore,Bachelor's,WFH
+EMP00473,,2021-01-01,2021-01-01,,Work-Life Balance,5.03,,17.36,,,,
+EMP02150,Networking,2024-01-01,2024-01-01,0,HEALTH REASONS,4.3,6.43,16.61,0.0,Delhi,Master's,onsite
+EMP01416,IT SUPPORT & HELPDESK,2023,,Working,,3.72,0.47,11.89,1.0,Gurgaon,Master's,Remote
+EMP00229,UI/UX Design,2018,2022-01-01,Left,Higher Salary Elsewhere,5.94,8.7,19.26,6.0,Noida,Master's,Onsite
+EMP01648,IT_Support_&_Helpdesk,01/17,,Y,,3.84,5.43,13.26,8.0,Bangalore,Master's,Remote
+EMP01013,Database Administration,2018.0,,Yes,,5.89,9.53,26.92,6.0,Noida,Bachelor's,Hybrid
+EMP00942,IT Support & Helpdesk,2019-01-01,,active,,7.72,13.26,35.91,5.0,GURGAON,Master's,Hybrid
+EMP01713,Networking,2018-01-01,,Yes,,4.44,7.98,16.97,6.0,Delhi,Master's,Hybrid
+EMP00783,UI/UX Design,2019,,Yes,,7.96,13.86,38.74,5.0,Delhi,Master's,Onsite
+EMP00884,  UI/UX Design  ,2021,,Working,,7.64,10.98,32.83,4.0,Bangalore,Master's,Onsite
+EMP01631,networking,01/18,01/19,N,Retirement,12.77,17.03,47.19,7.0,NOIDA,Bachelor's,WFH
+EMP02118,Data Science,2018-01-01,2018,Resigned,Relocation,6.76,0.76,22.61,6.0,mumbai,Bachelor's,Onsite
+EMP01323,qa & testing,2024.0,,Yes,,9.84,13.68,38.25,0.0,NOIDA,Bachelor's,REMOTE
+EMP00648,Software Development,2024.0,,1,,7.23,10.64,26.93,0.0,bangalore,Master's,Onsite
+EMP00254,database administration,2015,2017,No,  Health Reasons  ,6.76,9.75,22.53,9.0,Gurgaon,Master's,Onsite
+EMP00151,  Cloud Computing  ,2019,,Working,,5.33,9.26,21.08,5.0,chennai,Bachelor's,Hybrid
+EMP01395,  Data Science  ,2021,,Working,,4.26,7.72,22.49,3.0,Delhi,Master's,Hybrid
+EMP01861,,2020-01-01,,,,7.86,,24.35,,,,
+EMP01522,Networking,2020-01-01,2024,Exited,Career Switch,5.77,8.49,17.25,5.0,  Pune  ,Master's,onsite
+EMP00764,Business Analysis,2021-01-01,,active,,7.21,10.76,21.72,4.0,gurgaon,Diploma,Hybrid
+EMP01523,UI/UX Design,01/19,,Y,,1.56,2.5,4.81,5.0,Pune,Master's,Onsite
+EMP00766,business analysis,2023,2023,Resigned,  Health Reasons  ,8.15,13.03,25.62,1.0,Bangalore,Diploma,Hybrid
+EMP01325,BUSINESS ANALYSIS,2015.0,,Active,,4.98,7.16,13.43,9.0,CHENNAI,,Hybrid
+EMP02177,IT Support & Helpdesk,2019,2021,EXITED,layoff,5.77,8.0,15.94,5.0,PUNE,Diploma,Hybrid
+EMP00731,  Cloud Computing  ,01/22,,ACTIVE,,3.39,4.83,9.03,3.0,Hyderabad,bachelor's,Onsite
+EMP00594,QA & Testing,2019,,active,,7.8,12.26,26.64,5.0,NOIDA,Master's,WFH
+EMP01856,IT SUPPORT & HELPDESK,2020-01-01,,Working,,2.26,3.65,7.29,4.0,bangalore,Master's,Work From Home
+EMP00857,Cloud Computing,2023,2024,0,Higher Salary Elsewhere,1.9,40.5,6.83,1.0,Gurgaon,Bachelor's,Hybrid
+EMP00438,DevOps,01/22,,Y,,6.71,11.5,22.43,2.0,  Mumbai  ,Bachelor's,Hybrid
+EMP00106,Business_Analysis,2021,,1,,5.61,7.52,17.43,4.0,Pune,bachelor's,Hybrid
+EMP01914,QA & Testing,2021,2022,EXITED,Health Reasons,6.61,9.56,17.07,3.0,chennai,Master's,Onsite
+EMP00753,  Business Analysis  ,2021-01-01,2024,EXITED,Higher Studies,6.39,8.76,22.14,4.0,Pune,PhD,WFH
+EMP00775,IT Support & Helpdesk,2015-01-01,,Active,,1.6,2.5,4.68,9.0,chennai,,Onsite
+EMP01923,Database Administration,2015-01-01,,active,,1.62,2.5,6.94,9.0,Bangalore,Bachelor's,Hybrid
+EMP01358,  Business Analysis  ,2023,,ACTIVE,,4.18,7.2,19.99,2.0,Hyderabad,Master's,Hybrid
+EMP00569,Cloud Computing,2018,,Active,,8.41,12.63,33.19,6.0,BANGALORE,Bachelor's,Hybrid
+EMP01088,cloud computing,2018,2024,Left,Relocation,1.74,2.98,5.56,6.0,Mumbai,Bachelor's,REMOTE
+EMP00025,DevOps,01/15,,1,,5.09,7.82,23.24,10.0,Bangalore,Master's,Hybrid
+EMP02186,IT SUPPORT & HELPDESK,2017,,Working,,7.11,9.99,26.58,7.0,Pune,Master's,Remote
+EMP01945,UI/UX Design,2024-01-01,,Y,,5.37,7.28,19.94,1.0,Noida,Master's,Hybrid
+EMP01931,Database Administration,01/17,2021,No,Higher Studies,4.81,6.66,12.28,7.0,HYDERABAD,,Hybrid
+EMP01413,Business Analysis,01/16,,Active,,7.81,12.3,30.07,8.0,Chennai,Bachelor's,Remote
+EMP01700,software development,2015,2021,exited,  Retirement  ,7.95,12.08,26.68,10.0,delhi,Master's,Onsite
+EMP01886,,2015,,,,7.86,,28.85,,,,
+EMP00164,Data Science,2017-01-01,2017,EXITED,Health Reasons,1.59,2.61,5.07,7.0,  Bangalore  ,Diploma,Hybrid
+EMP00635,QA & TESTING,2017-01-01,,1,,6.45,11.0,27.98,8.0,Hyderabad,PhD,Remote
+EMP00365,Cloud Computing,2019-01-01,,Working,,4.29,6.58,12.33,5.0,Pune,Master's,Hybrid
+EMP00355,Cybersecurity,2024,2024,Left,company restructuring,6.03,10.37,30.52,1.0,BANGALORE,Bachelor's,onsite
+EMP01330,Cloud Computing,2015.0,01/15,exited,Retirement,3.49,5.19,10.93,9.0,Delhi,Bachelor's,Hybrid
+EMP01057,Database Administration,01/24,2024,Left,Layoff,7.5,10.86,30.16,1.0,Bangalore,Bachelor's,Onsite
+EMP01489,Database Administration,2023,,active,,5.62,9.17,22.8,1.0,Chennai,Master's,Onsite
+EMP02137,  UI/UX Design  ,2021-01-01,,Yes,,6.57,10.39,20.1,3.0,Pune,MASTER'S,Onsite
+EMP00344,Cybersecurity,2020,,Working,,4.19,103.8,20.56,5.0,PUNE,Master's,Onsite
+EMP02115,  Database Administration  ,2021-01-01,,ACTIVE,,4.26,6.82,19.51,3.0,Chennai,Master's,REMOTE
+EMP00532,  Data Science  ,01/23,,1,,8.26,11.42,22.14,2.0,Mumbai,bachelor's,Onsite
+EMP01176,IT Support & Helpdesk,2020-01-01,2020,Left,retirement,2.17,3.56,6.73,4.0,Hyderabad,Diploma,Hybrid
+EMP01776,SOFTWARE DEVELOPMENT,2024,,Active,,3.68,6.46,14.76,0.0,pune,PhD,Remote
+EMP00315,DevOps,2022,,1,,4.15,6.64,11.94,2.0,Mumbai,Bachelor's,Onsite
+EMP00237,BUSINESS ANALYSIS,01/21,,1,,8.95,14.38,41.32,4.0,Delhi,Diploma,Onsite
+EMP02112,UI/UX Design,01/22,,Yes,,7.29,11.72,24.54,2.0,Chennai,Bachelor's,onsite
+EMP00923,Networking,01/15,,Y,,8.7,13.29,39.43,9.0,Delhi,Bachelor's,Remote
+EMP00096,Business Analysis,2024,,Active,,6.2,10.48,18.8,0.0,Pune,Bachelor's,Remote
+EMP00573,Cloud Computing,2019,,ACTIVE,,7.07,9.52,24.51,6.0,Bangalore,Bachelor's,Hybrid
+EMP01357,QA & Testing,2022,,Yes,,4.78,7.18,21.33,2.0,mumbai,Bachelor's,Remote
+EMP01943,,2024-01-01,,,,4.21,,18.86,,,,
+EMP00610,AI/ML Engineering,01/19,,Yes,,10.99,15.83,41.89,6.0,pune,Diploma,Hybrid
+EMP00031,Software Development,2023,,Yes,,4.48,7.43,17.04,1.0,bangalore,PhD,Remote
+EMP01278,Business Analysis,2022,,Active,,3.3,4.99,11.22,2.0,MUMBAI,Diploma,Onsite
+EMP00258,DATABASE ADMINISTRATION,2018-01-01,,Active,,3.31,4.92,8.92,6.0,  Pune  ,Diploma,Hybrid
+EMP01456,NETWORKING,01/24,,Y,,6.03,8.52,24.22,1.0,Pune,PhD,Onsite
+EMP01853,Cybersecurity,2018,,Yes,,8.02,13.58,31.26,6.0,Chennai,Bachelor's,Onsite
+EMP00637,  Database Administration  ,2020.0,2022,exited,Layoff,5.24,7.22,17.89,4.0,Pune,MASTER'S,Onsite
+EMP00441,Networking,2020,,ACTIVE,,5.57,7.79,21.22,4.0,BANGALORE,Master's,Onsite
+EMP02027,DEVOPS,2017-01-01,,Active,,1.59,2.5,4.27,7.0,Noida,Bachelor's,Hybrid
+EMP01028,AI/ML Engineering,2019-01-01,,Y,,5.72,9.85,24.22,5.0,Chennai,PhD,Onsite
+EMP00221,SOFTWARE DEVELOPMENT,2023,,Yes,,7.55,11.11,20.79,1.0,Mumbai,Bachelor's,Hybrid
+EMP00974,  Networking  ,01/20,,Working,,2.68,4.65,8.22,4.0,Hyderabad,Diploma,Remote
+EMP01998,Database Administration,2015,,active,,6.72,9.42,22.83,9.0,Mumbai,Bachelor's,Remote
+EMP01000,AI/ML Engineering,2015-01-01,2023-01-01,Left,Career Growth,3.78,5.29,14.07,9.0,Noida,Master's,Remote
+EMP01251,business analysis,2021,,active,,9.79,13.31,23.5,3.0,Pune,Master's,Hybrid
+EMP00328,Business Analysis,01/22,,Y,,10.97,14.78,42.86,2.0,Noida,bachelor's,REMOTE
+EMP00390,it support & helpdesk,2015,,Y,,5.33,7.49,19.51,9.0,Gurgaon,Bachelor's,Remote
+EMP01100,UI/UX Design,2019.0,01/23,N,HIGHER SALARY ELSEWHERE,10.48,15.44,35.11,6.0,  Noida  ,Bachelor's,Onsite
+EMP00227,Data Science,01/24,,active,,9.71,13.43,23.71,0.0,mumbai,Diploma,Remote
+EMP01826,IT SUPPORT & HELPDESK,2020-01-01,2022,EXITED,Higher Salary Elsewhere,6.68,10.74,26.7,4.0,MUMBAI,Master's,REMOTE
+EMP01959,Database Administration,2015,2021,exited,  Health Reasons  ,3.61,0.46,9.79,9.0,Mumbai,,Onsite
+EMP01655,IT SUPPORT & HELPDESK,2018,,Working,,3.4,5.56,14.99,7.0,Gurgaon,Bachelor's,Remote
+EMP00112,IT Support & Helpdesk,2017,,Working,,6.95,9.8,23.64,7.0,gurgaon,Diploma,Onsite
+EMP01868,  IT Support & Helpdesk  ,2020-01-01,,active,,8.11,1.02,35.69,4.0,Pune,Master's,onsite
+EMP01695,  DevOps  ,2017,,Y,,9.61,14.04,24.74,7.0,Mumbai,Master's,Hybrid
+EMP01110,Networking,2021,,Y,,5.43,8.63,18.74,3.0,chennai,Bachelor's,Remote
+EMP00204,,2019,,,,2.64,,8.75,,,,
+EMP01987,Database Administration,01/20,,active,,6.53,8.83,23.42,5.0,Mumbai,Bachelor's,Hybrid
+EMP00614,  Database Administration  ,2024-01-01,,ACTIVE,,10.67,14.54,37.69,0.0,Mumbai,bachelor's,Work From Home
+EMP00057,UI/UX DESIGN,2017,,ACTIVE,,2.02,0.24,7.33,7.0,PUNE,Bachelor's,Onsite
+EMP01591,UI/UX DESIGN,2023,2023,No,Higher Studies,3.21,5.81,17.39,1.0,  Bangalore  ,Master's,Onsite
+EMP01687,QA & TESTING,2022,,Yes,,9.53,16.09,29.58,2.0,Pune,Bachelor's,Remote
+EMP02183,AI/ML Engineering,2017-01-01,,Working,,1.89,2.98,5.62,8.0,noida,PhD,WFH
+EMP01476,Software Development,2017,2019,0,CAREER SWITCH,5.54,8.74,26.15,7.0,Pune,Bachelor's,Hybrid
+EMP00289,Data Science,2022-01-01,,active,,2.61,4.73,13.78,3.0,PUNE,Diploma,Remote
+EMP00378,Cloud Computing,2020,,1,,10.16,14.18,31.35,4.0,  Delhi  ,Master's,Onsite
+EMP01005,Data Science,2020,,Yes,,7.61,12.51,32.43,4.0,Gurgaon,Bachelor's,Onsite
+EMP01748,Cloud Computing,2022,2024,Exited,Retirement,7.57,10.19,23.7,2.0,Pune,Bachelor's,Hybrid
+EMP01508,UI/UX Design,2024,,1,,3.8,6.0,14.06,1.0,Mumbai,,Hybrid
+EMP00462,Networking,2022,2022,N,Company Restructuring,6.43,8.72,18.68,2.0,Noida,Master's,Hybrid
+EMP01552,DEVOPS,2020.0,,1,,6.7,0.75,23.75,5.0,  Hyderabad  ,Master's,Onsite
+EMP00362,devops,2016,,Working,,9.12,12.32,21.32,8.0,  Gurgaon  ,Master's,onsite
+EMP01046,Cloud Computing,2016,2024-01-01,Resigned,Work-Life Balance,3.08,0.23700000000000002,9.67,8.0,  Mumbai  ,Master's,Hybrid
+EMP00215,Business Analysis,2019-01-01,2023,EXITED,Relocation,7.83,11.1,29.19,5.0,bangalore,,Remote
+EMP01335,BUSINESS ANALYSIS,2020,,Yes,,5.34,8.89,15.17,4.0,mumbai,Diploma,Remote
+EMP00198,Networking,2023-01-01,,ACTIVE,,8.91,12.95,38.55,2.0,  Noida  ,Bachelor's,Remote
+EMP00018,Data Science,2023,,active,,6.6,10.9,29.47,1.0,gurgaon,Bachelor's,Work From Home
+EMP00373,Cloud Computing,2018-01-01,,ACTIVE,,6.59,9.39,20.99,6.0,Noida,Bachelor's,WFH
+EMP00544,  AI/ML Engineering  ,2024-01-01,,Y,,3.37,4.92,10.92,0.0,HYDERABAD,Master's,Onsite
+EMP01514,Networking,2022,,1,,4.24,7.6,13.11,2.0,MUMBAI,Diploma,Onsite
+EMP01916,,01/16,2022-01-01,,  Relocation  ,6.34,,20.05,,,,
+EMP00475,AI/ML Engineering,2021.0,,Yes,,3.74,5.08,11.18,3.0,gurgaon,Bachelor's,Hybrid
+EMP01907,Networking,2018-01-01,,Yes,,5.03,7.48,15.01,7.0,Chennai,Master's,Onsite
+EMP01620,  Cybersecurity  ,01/16,2023,Resigned,HIGHER STUDIES,8.35,12.4,22.02,8.0,GURGAON,Master's,Hybrid
+EMP01612,DATA SCIENCE,2016,2021.0,No,Higher Studies,6.06,9.21,18.26,8.0,Chennai,Bachelor's,Hybrid
+EMP02000,software development,2020,,Yes,,5.62,8.66,22.26,5.0,Delhi,Bachelor's,onsite
+EMP00515,Cloud Computing,2024,,Active,,10.49,17.1,40.49,0.0,Mumbai,MASTER'S,Hybrid
+EMP01432,database administration,2022,,Y,,15.07,20.42,55.94,2.0,Mumbai,Bachelor's,Remote
+EMP00592,Cybersecurity,01/22,,1,,9.37,14.42,31.49,2.0,DELHI,Bachelor's,Remote
+EMP01745,ui/ux design,2015,,1,,4.34,6.76,19.8,9.0,  Pune  ,Master's,Onsite
+EMP01246,Database Administration,2015-01-01,,active,,10.5,14.12,29.5,9.0,Bangalore,Bachelor's,WFH
+EMP00300,  Business Analysis  ,2020,,Working,,4.33,7.09,14.26,4.0,Chennai,bachelor's,Onsite
+EMP00613,,2019,,,,5.47,,20.41,,,,
+EMP00001,ai/ml engineering,01/17,,Active,,8.67,15.36,36.81,7.0,DELHI,Bachelor's,Remote
+EMP00484,UI/UX Design,2015,2018,EXITED,Layoff,7.95,11.98,27.21,9.0,Bangalore,Master's,Remote
+EMP01428,Cloud Computing,2018,2022,Left,Work-Life Balance,3.27,5.39,11.12,6.0,Chennai,Diploma,WFH
+EMP00908,AI/ML Engineering,2024,,Yes,,5.68,9.59,27.14,1.0,Gurgaon,Bachelor's,Onsite
+EMP01035,  Networking  ,2016,,Y,,11.49,17.75,45.58,8.0,gurgaon,Bachelor's,onsite
+EMP00791,data science,2018-01-01,,Y,,6.73,9.03,22.07,6.0,Gurgaon,Master's,Hybrid
+EMP00239,qa & testing,2020,,Yes,,4.46,7.4,14.54,5.0,Mumbai,Diploma,Onsite
+,,,,,,,,,,,,
+EMP00834,  AI/ML Engineering  ,2024,,active,,7.14,9.91,23.59,0.0,NOIDA,Bachelor's,Remote
+EMP01894,Business Analysis,2021,,active,,5.28,8.54,24.18,3.0,Hyderabad,Bachelor's,Hybrid
+EMP01965,  UI/UX Design  ,2021.0,,active,,9.06,15.73,39.43,3.0,Mumbai,Bachelor's,Onsite
+EMP01668,DATABASE ADMINISTRATION,2021,2021-01-01,0,Career Growth,5.56,9.77,18.36,3.0,Noida,Diploma,Onsite
+EMP00887,,2023,,,,3.32,,10.1,,,,
+EMP00976,DATABASE ADMINISTRATION,2016,2024,Resigned,Retirement,6.28,9.48,26.09,9.0,Chennai,Master's,Work From Home
+EMP01316,DevOps,2016,01/19,No,COMPANY RESTRUCTURING,4.38,7.91,16.73,9.0,Chennai,Diploma,Onsite
+EMP00866,DevOps,2018,,Y,,7.53,12.99,27.58,6.0,Chennai,Bachelor's,Remote
+EMP00870,Software Development,2017.0,,1,,7.19,11.03,32.93,7.0,Mumbai,,Remote
+EMP01375,IT Support & Helpdesk,2022-01-01,,Yes,,7.36,10.52,19.98,2.0,GURGAON,,Onsite
+EMP00936,CLOUD COMPUTING,2022-01-01,,ACTIVE,,10.71,14.29,28.18,2.0,Noida,Diploma,Remote
+EMP00478,  Networking  ,2017,,ACTIVE,,2.42,3.89,10.76,7.0,Chennai,Bachelor's,Onsite
+EMP01547,Software Development,2015,2018-01-01,Resigned,  Layoff  ,4.07,5.84,10.57,9.0,Chennai,Master's,Hybrid
+EMP01901,Networking,2020-01-01,,1,,3.79,6.29,14.07,5.0,chennai,Bachelor's,Onsite
+EMP01119,DevOps,2021.0,,1,,5.43,9.22,22.04,3.0,Bangalore,bachelor's,Onsite
+EMP00356,qa & testing,2023,,1,,6.62,10.69,23.29,2.0,  Bangalore  ,Bachelor's,onsite
+EMP02069,Data Science,2016-01-01,,Yes,,7.72,11.1,25.38,8.0,gurgaon,Master's,Hybrid
+EMP01369,networking,2018-01-01,,Active,,8.56,11.43,26.96,6.0,chennai,Diploma,Onsite
+EMP01288,NETWORKING,01/19,,active,,5.07,0.65,22.94,5.0,Noida,Master's,Onsite
+EMP01526,BUSINESS ANALYSIS,2019,2024-01-01,exited,Higher Salary Elsewhere,2.62,4.15,10.48,6.0,HYDERABAD,Diploma,Onsite
+EMP01921,Database Administration,2022,2022,0,Health Reasons,7.8,13.31,26.01,2.0,Noida,Master's,onsite
+EMP01718,Business Analysis,2023,2023.0,Exited,Career Switch,1.56,2.5,5.36,1.0,Delhi,Bachelor's,Onsite
+EMP01982,  QA & Testing  ,01/20,,active,,3.38,5.61,15.44,4.0,Delhi,Master's,Onsite
+EMP00631,cybersecurity,2017,,Active,,4.28,7.65,18.67,7.0,GURGAON,Bachelor's,Onsite
+EMP01061,Cloud Computing,2020,,1,,5.44,8.54,16.91,5.0,Hyderabad,Bachelor's,Onsite
+EMP01026,cloud computing,01/16,,Y,,7.54,11.73,33.75,8.0,Noida,PhD,Onsite
+EMP01656,Cloud Computing,2019,,ACTIVE,,6.55,10.11,26.1,5.0,mumbai,Bachelor's,Hybrid
+EMP01025,AI/ML Engineering,2018,,1,,6.56,9.44,27.42,6.0,mumbai,Diploma,Remote
+EMP00145,qa & testing,2016,,1,,1.85,3.33,6.42,8.0,PUNE,Master's,Onsite
+EMP00581,cybersecurity,2016.0,,Active,,5.43,7.82,23.0,8.0,Gurgaon,Bachelor's,Onsite
+EMP01035,  Networking  ,2016,,Y,,11.49,17.75,45.58,8.0,gurgaon,Bachelor's,onsite
+,,,,,,,,,,,,
+EMP01818,  Networking  ,2018,01/22,0,Career Switch,8.26,12.78,35.09,6.0,Noida,Bachelor's,Remote
+EMP01516,QA & Testing,2019,,Yes,,5.94,9.51,26.57,6.0,  Chennai  ,,Hybrid
+EMP00102,Networking,2016,,ACTIVE,,6.79,9.8,18.29,8.0,  Noida  ,PhD,onsite
+EMP00409,ui/ux design,2022-01-01,,Working,,9.3,1.07,28.93,2.0,Bangalore,Bachelor's,Work From Home
+EMP01373,devops,2024,2024.0,Exited,CAREER GROWTH,5.16,7.16,14.5,0.0,Bangalore,Diploma,Work From Home
+EMP01967,Database Administration,01/21,,1,,4.06,7.06,15.13,3.0,Mumbai,Bachelor's,Hybrid
+EMP01063,it support & helpdesk,2016,,ACTIVE,,7.6,12.39,27.88,9.0,Hyderabad,Master's,Onsite
+EMP01540,  UI/UX Design  ,01/23,,Yes,,2.89,5.21,14.69,1.0,Pune,Bachelor's,Onsite
+EMP00108,Networking,2019,2019.0,Exited,  Higher Salary Elsewhere  ,5.53,9.83,28.0,6.0,Hyderabad,Bachelor's,Hybrid
+EMP01310,BUSINESS ANALYSIS,2017.0,,Y,,5.0,7.19,21.42,7.0,HYDERABAD,Bachelor's,Hybrid
+EMP01994,it support & helpdesk,2018,,Working,,6.99,9.36,18.49,7.0,Mumbai,Bachelor's,Remote
+EMP02174,  Data Science  ,2015,2019.0,EXITED,  Retirement  ,1.77,2.5,6.14,9.0,Mumbai,Bachelor's,Remote
+EMP00471,  IT Support & Helpdesk  ,2022,,Active,,7.14,12.28,34.19,2.0,Gurgaon,Bachelor's,Onsite
+EMP00742,QA & TESTING,2015-01-01,2017-01-01,exited,Career Growth,1.71,2.5,7.05,9.0,Chennai,Bachelor's,Onsite
+EMP01208,Software Development,2015,,Working,,3.71,5.82,16.0,9.0,Bangalore,Master's,Onsite
+EMP00758,Business Analysis,2023,,ACTIVE,,5.68,8.25,18.18,1.0,Pune,Bachelor's,Hybrid
+EMP00247,Business Analysis,2019,01/23,Left,CAREER GROWTH,9.01,14.35,42.2,5.0,Chennai,,Onsite
+EMP01230,Data Science,2023,,ACTIVE,,9.73,13.02,33.33,1.0,CHENNAI,Bachelor's,Onsite
+EMP00546,QA_&_Testing,2017,,Yes,,6.21,9.95,22.74,7.0,Bangalore,Bachelor's,Hybrid
+EMP00050,software development,2022,,Active,,4.81,8.0,21.37,2.0,  Chennai  ,,Hybrid
+EMP00162,DEVOPS,2019,,1,,6.64,10.85,32.03,5.0,Hyderabad,Bachelor's,Onsite
+EMP00578,  Data Science  ,2021.0,,Active,,10.23,14.92,27.62,4.0,Gurgaon,Bachelor's,Hybrid
+EMP00068,QA & Testing,01/17,,ACTIVE,,3.02,4.4,12.6,7.0,Delhi,Master's,Remote
+EMP01362,AI/ML Engineering,2016,,Working,,6.78,10.14,19.61,8.0,Chennai,Master's,Hybrid
+EMP00800,QA & Testing,2023.0,,Working,,9.39,13.78,41.26,1.0,Hyderabad,Master's,onsite
+EMP01569,Database Administration,2017.0,,Active,,6.67,11.93,24.78,7.0,hyderabad,Master's,Hybrid
+EMP00759,UI/UX DESIGN,2018-01-01,,active,,4.72,6.86,16.39,6.0,pune,Bachelor's,REMOTE
+EMP01186,UI/UX Design,2021,,Yes,,9.54,14.58,39.32,3.0,hyderabad,Master's,WFH
+EMP01564,Software Development,2024-01-01,,1,,11.05,19.25,44.28,0.0,Delhi,Bachelor's,Hybrid
+EMP02050,  Networking  ,2019,,Yes,,4.19,6.85,15.29,5.0,Gurgaon,PhD,Onsite
+EMP01538,cybersecurity,2024-01-01,,active,,8.66,13.27,32.67,1.0,Hyderabad,Master's,Work From Home
+EMP01252,Software Development,2018,,Active,,4.2,7.43,17.64,7.0,Hyderabad,Bachelor's,Hybrid
+EMP01532,IT SUPPORT & HELPDESK,2024-01-01,,Working,,6.47,11.41,20.38,0.0,Pune,Master's,Remote
+EMP00826,AI/ML Engineering,2016,01/22,Exited,Retirement,4.41,6.94,13.84,9.0,Pune,Bachelor's,Hybrid
+EMP01699,NETWORKING,2017-01-01,2018,N,company restructuring,5.03,7.7,21.29,7.0,Hyderabad,bachelor's,onsite
+EMP00645,Cloud_Computing,2023.0,,ACTIVE,,6.39,8.54,23.09,1.0,Noida,Bachelor's,Onsite
+EMP00006,Database Administration,01/21,2023,Resigned,Higher_Salary_Elsewhere,6.09,9.81,24.47,3.0,mumbai,PhD,Remote
+EMP01245,Database_Administration,01/17,,Active,,3.49,5.8,10.78,7.0,bangalore,Bachelor's,Onsite
+EMP00620,qa & testing,2021,,Working,,7.31,10.49,23.67,3.0,Chennai,Bachelor's,Work From Home
+EMP01306,Business_Analysis,01/21,,1,,5.29,8.42,22.4,4.0,Bangalore,PhD,Onsite
+EMP00793,QA & Testing,2022-01-01,,Active,,7.58,11.32,21.48,2.0,PUNE,Master's,Onsite
+EMP00991,Networking,2017-01-01,,ACTIVE,,5.56,7.8,21.34,7.0,MUMBAI,Bachelor's,Remote
+EMP00009,QA & Testing,01/21,,1,,8.74,13.87,27.02,3.0,Chennai,Master's,Onsite
+EMP02082,Cybersecurity,2024,,Working,,1.8,3.27,5.58,1.0,Pune,Master's,Hybrid
+EMP00122,AI/ML ENGINEERING,2017,,Active,,3.2,5.22,15.0,7.0,Pune,Master's,Hybrid
+EMP00511,Database Administration,2019.0,,Working,,3.75,5.69,15.27,6.0,Chennai,Bachelor's,Onsite
+EMP00182,UI/UX Design,2020,,active,,7.36,11.04,19.92,5.0,Chennai,,Hybrid
+EMP00410,IT Support & Helpdesk,2022,,ACTIVE,,5.29,8.42,16.79,3.0,Noida,Master's,Hybrid
+EMP01137,DATA SCIENCE,2024-01-01,,1,,10.87,15.31,28.12,0.0,Hyderabad,Bachelor's,Remote
+EMP01598,IT Support & Helpdesk,2021,,Yes,,1.55,2.6,6.51,3.0,Mumbai,MASTER'S,Onsite
+EMP00327,  Cybersecurity  ,2024,,Working,,2.32,4.13,9.08,0.0,  Bangalore  ,Master's,Remote
+EMP01755,AI/ML Engineering,2024,,Y,,5.78,9.45,22.81,1.0,Hyderabad,Bachelor's,Hybrid
+EMP01441,CLOUD COMPUTING,2018,,Working,,1.53,2.5,6.05,7.0,chennai,Master's,Remote
+EMP01767,Software Development,2015.0,2016,EXITED,  Company Restructuring  ,3.16,5.25,12.0,9.0,  Mumbai  ,Bachelor's,Hybrid
+EMP01311,Cloud Computing,2017.0,,Working,,5.15,7.23,15.81,7.0,Noida,Master's,Remote
+EMP00389,BUSINESS ANALYSIS,01/21,2021,Left,Layoff,6.85,11.41,19.76,3.0,Pune,Master's,Onsite
+EMP00236,Cybersecurity,2018,,Y,,8.86,13.59,40.73,6.0,Pune,Bachelor's,Remote
+EMP01350,Networking,2022-01-01,2024,Resigned,Relocation,8.1,14.43,39.02,2.0,Chennai,Master's,Remote
+EMP01158,Data Science,2016,,active,,1.8,2.5,5.26,8.0,Delhi,,Remote
+EMP00465,QA & TESTING,2020,2021.0,Resigned,  Health Reasons  ,8.56,12.4,26.3,4.0,BANGALORE,Master's,REMOTE
+EMP01053,  Networking  ,2024,2024,N,  Company Restructuring  ,4.37,6.75,13.11,1.0,Mumbai,PhD,onsite
+EMP00859,UI/UX Design,2020,,active,,6.21,8.76,16.05,4.0,HYDERABAD,Bachelor's,Hybrid
+EMP01875,,01/21,,,,4.96,,15.62,,,,
+EMP00781,Cybersecurity,2018,,ACTIVE,,6.3,9.11,15.66,7.0,Pune,Master's,Onsite
+EMP00930,SOFTWARE DEVELOPMENT,2017,2022-01-01,EXITED,Health Reasons,6.05,9.33,25.17,7.0,BANGALORE,Bachelor's,onsite
+EMP01798,Data Science,2015,2017,exited,  Health Reasons  ,1.74,2.5,7.12,9.0,Hyderabad,PhD,Onsite
+EMP01773,Cybersecurity,2016-01-01,,1,,6.16,9.02,24.53,9.0,Mumbai,Bachelor's,Onsite
+EMP00953,networking,2018-01-01,,Y,,4.49,6.4,17.81,6.0,PUNE,Master's,Hybrid
+EMP00051,DevOps,2019-01-01,,Working,,11.27,16.85,46.29,5.0,bangalore,Master's,WFH
+EMP01479,Software Development,2015,2019-01-01,Resigned,  Relocation  ,7.72,13.75,23.9,9.0,  Gurgaon  ,Bachelor's,Remote
+EMP01766,QA & Testing,2018,,ACTIVE,,6.57,10.55,22.09,6.0,Bangalore,Master's,Onsite
+EMP00487,Software Development,2017-01-01,,active,,4.63,6.33,12.61,8.0,DELHI,Master's,Hybrid
+EMP01670,Networking,2018,2023,N,relocation,6.27,10.5,30.24,6.0,Noida,Diploma,Remote
+EMP00682,QA & Testing,2016,,active,,2.58,4.21,12.22,8.0,delhi,,Hybrid
+EMP01209,Cloud Computing,2018,,Working,,7.02,10.7,21.88,6.0,  Mumbai  ,Diploma,Onsite
+EMP00999,Business Analysis,2017,,active,,3.44,0.51,16.81,7.0,Mumbai,bachelor's,Onsite
+EMP02171,  Software Development  ,2020-01-01,,Active,,6.02,10.12,21.14,4.0,chennai,Master's,Remote
+EMP01790,Business Analysis,2015,,Yes,,3.5,5.69,11.53,9.0,  Chennai  ,Bachelor's,Onsite
+EMP00234,CYBERSECURITY,2019.0,,Active,,6.26,9.59,20.43,5.0,Noida,MASTER'S,Hybrid
+EMP00830,  QA & Testing  ,2024-01-01,2024,N,Career Switch,2.8,4.99,12.87,1.0,  Hyderabad  ,PhD,Onsite
+EMP01453,Business Analysis,2020,,1,,5.21,7.38,14.12,4.0,Gurgaon,bachelor's,Hybrid
+EMP00448,,2016,,,,6.37,,29.46,,,,
+EMP01647,Software_Development,01/22,,Active,,2.97,4.22,7.31,3.0,MUMBAI,Diploma,Onsite
+EMP00841,ui/ux design,2018,2018-01-01,Left,retirement,8.06,11.12,27.19,6.0,Pune,Master's,Onsite
+EMP00203,Business Analysis,01/15,,ACTIVE,,1.79,2.5,6.91,9.0,Noida,Bachelor's,Remote
+EMP00611,BUSINESS ANALYSIS,01/23,,1,,7.35,11.31,32.36,1.0,Pune,Master's,Remote
+EMP01145,ai/ml engineering,2023.0,,Active,,10.39,15.93,44.36,1.0,Noida,Bachelor's,Hybrid
+EMP00049,DevOps,2021,,1,,7.01,10.88,23.77,3.0,GURGAON,Bachelor's,Remote
+EMP00773,IT SUPPORT & HELPDESK,2023,,Yes,,5.88,9.98,29.29,1.0,Pune,PhD,Work From Home
+EMP01849,database administration,2018,,active,,16.17,22.9,41.71,6.0,delhi,Bachelor's,WFH
+EMP01232,data science,01/22,,Active,,4.85,8.26,15.97,3.0,hyderabad,PhD,Remote
